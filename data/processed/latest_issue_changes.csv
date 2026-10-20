@@ -1,0 +1,21 @@
+issue,previous,current,change,change_pct,review_flag,baseline_status
+Problem with a purchase shown on your statement,2837,2993,156,5.498766302432147,False,Observed baseline
+Closing an account,983,1102,119,12.105798575788402,False,Observed baseline
+Problem when making payments,382,425,43,11.2565445026178,False,Observed baseline
+"Other features, terms, or problems",1020,1062,42,4.117647058823529,False,Observed baseline
+Problem with a company's investigation into an existing problem,200,233,33,16.5,False,Observed baseline
+Problem with a lender or other company charging your account,1067,1098,31,2.9053420805998127,False,Observed baseline
+Problem caused by your funds being low,428,451,23,5.373831775700935,False,Observed baseline
+"Advertising and marketing, including promotional offers",404,424,20,4.9504950495049505,False,Observed baseline
+Closing your account,579,597,18,3.1088082901554404,False,Observed baseline
+Trouble using your card,368,386,18,4.891304347826087,False,Observed baseline
+Opening an account,600,615,15,2.5,False,Observed baseline
+Managing an account,4740,4753,13,0.27426160337552746,False,Observed baseline
+Problem with fraud alerts or security freezes,5,9,4,80.0,False,Observed baseline
+Credit monitoring or identity theft protection services,13,16,3,23.076923076923077,False,Observed baseline
+Unable to get your credit report or credit score,2,2,0,0.0,False,Observed baseline
+Improper use of your report,46,44,-2,-4.3478260869565215,False,Observed baseline
+Struggling to pay your bill,139,136,-3,-2.158273381294964,False,Observed baseline
+Fees or interest,950,928,-22,-2.3157894736842106,False,Observed baseline
+Incorrect information on your report,455,426,-29,-6.373626373626373,False,Observed baseline
+Getting a credit card,983,951,-32,-3.255340793489318,False,Observed baseline

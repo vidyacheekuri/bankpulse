@@ -1,0 +1,614 @@
+month,product,issue,complaints,timely_yes,known,timely_no
+2024-10-01,Checking or savings account,Closing an account,648,642.0,648.0,6.0
+2024-10-01,Checking or savings account,Credit monitoring or identity theft protection services,3,3.0,3.0,0.0
+2024-10-01,Checking or savings account,Improper use of your report,5,5.0,5.0,0.0
+2024-10-01,Checking or savings account,Incorrect information on your report,20,20.0,20.0,0.0
+2024-10-01,Checking or savings account,Managing an account,2756,2745.0,2756.0,11.0
+2024-10-01,Checking or savings account,Opening an account,500,497.0,500.0,3.0
+2024-10-01,Checking or savings account,Problem caused by your funds being low,230,228.0,230.0,2.0
+2024-10-01,Checking or savings account,Problem with a company's investigation into an existing problem,15,15.0,15.0,0.0
+2024-10-01,Checking or savings account,Problem with a lender or other company charging your account,512,510.0,512.0,2.0
+2024-10-01,Checking or savings account,Problem with fraud alerts or security freezes,3,3.0,3.0,0.0
+2024-10-01,Credit card,"Advertising and marketing, including promotional offers",209,208.0,209.0,1.0
+2024-10-01,Credit card,Closing your account,382,382.0,382.0,0.0
+2024-10-01,Credit card,Credit monitoring or identity theft protection services,12,12.0,12.0,0.0
+2024-10-01,Credit card,Fees or interest,573,572.0,573.0,1.0
+2024-10-01,Credit card,Getting a credit card,865,863.0,865.0,2.0
+2024-10-01,Credit card,Improper use of your report,83,83.0,83.0,0.0
+2024-10-01,Credit card,Incorrect information on your report,1513,1511.0,1513.0,2.0
+2024-10-01,Credit card,"Other features, terms, or problems",595,594.0,595.0,1.0
+2024-10-01,Credit card,Problem when making payments,366,365.0,366.0,1.0
+2024-10-01,Credit card,Problem with a company's investigation into an existing problem,993,993.0,993.0,0.0
+2024-10-01,Credit card,Problem with a purchase shown on your statement,1303,1301.0,1303.0,2.0
+2024-10-01,Credit card,Problem with fraud alerts or security freezes,3,3.0,3.0,0.0
+2024-10-01,Credit card,Struggling to pay your bill,75,75.0,75.0,0.0
+2024-10-01,Credit card,Trouble using your card,201,200.0,201.0,1.0
+2024-10-01,Credit card,Unable to get your credit report or credit score,3,3.0,3.0,0.0
+2024-11-01,Checking or savings account,Closing an account,662,657.0,662.0,5.0
+2024-11-01,Checking or savings account,Credit monitoring or identity theft protection services,2,2.0,2.0,0.0
+2024-11-01,Checking or savings account,Improper use of your report,8,8.0,8.0,0.0
+2024-11-01,Checking or savings account,Incorrect information on your report,13,13.0,13.0,0.0
+2024-11-01,Checking or savings account,Managing an account,2569,2555.0,2569.0,14.0
+2024-11-01,Checking or savings account,Opening an account,434,433.0,434.0,1.0
+2024-11-01,Checking or savings account,Problem caused by your funds being low,925,925.0,925.0,0.0
+2024-11-01,Checking or savings account,Problem with a company's investigation into an existing problem,7,7.0,7.0,0.0
+2024-11-01,Checking or savings account,Problem with a lender or other company charging your account,552,552.0,552.0,0.0
+2024-11-01,Checking or savings account,Problem with fraud alerts or security freezes,2,2.0,2.0,0.0
+2024-11-01,Checking or savings account,Unable to get your credit report or credit score,1,1.0,1.0,0.0
+2024-11-01,Credit card,"Advertising and marketing, including promotional offers",205,204.0,205.0,1.0
+2024-11-01,Credit card,Closing your account,363,363.0,363.0,0.0
+2024-11-01,Credit card,Credit monitoring or identity theft protection services,15,15.0,15.0,0.0
+2024-11-01,Credit card,Fees or interest,527,527.0,527.0,0.0
+2024-11-01,Credit card,Getting a credit card,766,765.0,766.0,1.0
+2024-11-01,Credit card,Improper use of your report,54,54.0,54.0,0.0
+2024-11-01,Credit card,Incorrect information on your report,1049,1047.0,1049.0,2.0
+2024-11-01,Credit card,"Other features, terms, or problems",543,540.0,543.0,3.0
+2024-11-01,Credit card,Problem when making payments,298,298.0,298.0,0.0
+2024-11-01,Credit card,Problem with a company's investigation into an existing problem,803,803.0,803.0,0.0
+2024-11-01,Credit card,Problem with a purchase shown on your statement,1185,1185.0,1185.0,0.0
+2024-11-01,Credit card,Problem with fraud alerts or security freezes,8,8.0,8.0,0.0
+2024-11-01,Credit card,Struggling to pay your bill,87,86.0,87.0,1.0
+2024-11-01,Credit card,Trouble using your card,190,189.0,190.0,1.0
+2024-11-01,Credit card,Unable to get your credit report or credit score,2,2.0,2.0,0.0
+2024-12-01,Checking or savings account,Closing an account,664,663.0,664.0,1.0
+2024-12-01,Checking or savings account,Credit monitoring or identity theft protection services,1,1.0,1.0,0.0
+2024-12-01,Checking or savings account,Improper use of your report,4,4.0,4.0,0.0
+2024-12-01,Checking or savings account,Incorrect information on your report,17,17.0,17.0,0.0
+2024-12-01,Checking or savings account,Managing an account,2689,2677.0,2689.0,12.0
+2024-12-01,Checking or savings account,Opening an account,460,458.0,460.0,2.0
+2024-12-01,Checking or savings account,Problem caused by your funds being low,376,376.0,376.0,0.0
+2024-12-01,Checking or savings account,Problem with a company's investigation into an existing problem,9,9.0,9.0,0.0
+2024-12-01,Checking or savings account,Problem with a lender or other company charging your account,576,572.0,576.0,4.0
+2024-12-01,Checking or savings account,Problem with fraud alerts or security freezes,1,1.0,1.0,0.0
+2024-12-01,Checking or savings account,Unable to get your credit report or credit score,1,1.0,1.0,0.0
+2024-12-01,Credit card,"Advertising and marketing, including promotional offers",215,215.0,215.0,0.0
+2024-12-01,Credit card,Closing your account,422,422.0,422.0,0.0
+2024-12-01,Credit card,Credit monitoring or identity theft protection services,16,15.0,16.0,1.0
+2024-12-01,Credit card,Fees or interest,569,568.0,569.0,1.0
+2024-12-01,Credit card,Getting a credit card,809,808.0,809.0,1.0
+2024-12-01,Credit card,Improper use of your report,52,52.0,52.0,0.0
+2024-12-01,Credit card,Incorrect information on your report,1025,1025.0,1025.0,0.0
+2024-12-01,Credit card,"Other features, terms, or problems",627,627.0,627.0,0.0
+2024-12-01,Credit card,Problem when making payments,383,381.0,383.0,2.0
+2024-12-01,Credit card,Problem with a company's investigation into an existing problem,981,981.0,981.0,0.0
+2024-12-01,Credit card,Problem with a purchase shown on your statement,1294,1293.0,1294.0,1.0
+2024-12-01,Credit card,Problem with fraud alerts or security freezes,2,2.0,2.0,0.0
+2024-12-01,Credit card,Struggling to pay your bill,85,85.0,85.0,0.0
+2024-12-01,Credit card,Trouble using your card,209,206.0,209.0,3.0
+2024-12-01,Credit card,Unable to get your credit report or credit score,8,8.0,8.0,0.0
+2025-01-01,Checking or savings account,Closing an account,912,906.0,912.0,6.0
+2025-01-01,Checking or savings account,Credit monitoring or identity theft protection services,3,3.0,3.0,0.0
+2025-01-01,Checking or savings account,Improper use of your report,2,2.0,2.0,0.0
+2025-01-01,Checking or savings account,Incorrect information on your report,9,9.0,9.0,0.0
+2025-01-01,Checking or savings account,Managing an account,8232,8210.0,8232.0,22.0
+2025-01-01,Checking or savings account,Opening an account,655,651.0,655.0,4.0
+2025-01-01,Checking or savings account,Problem caused by your funds being low,7570,7566.0,7570.0,4.0
+2025-01-01,Checking or savings account,Problem with a company's investigation into an existing problem,21,21.0,21.0,0.0
+2025-01-01,Checking or savings account,Problem with a lender or other company charging your account,959,957.0,959.0,2.0
+2025-01-01,Checking or savings account,Problem with fraud alerts or security freezes,3,3.0,3.0,0.0
+2025-01-01,Checking or savings account,Unable to get your credit report or credit score,1,1.0,1.0,0.0
+2025-01-01,Credit card,"Advertising and marketing, including promotional offers",302,301.0,302.0,1.0
+2025-01-01,Credit card,Closing your account,542,541.0,542.0,1.0
+2025-01-01,Credit card,Credit monitoring or identity theft protection services,28,28.0,28.0,0.0
+2025-01-01,Credit card,Fees or interest,926,924.0,926.0,2.0
+2025-01-01,Credit card,Getting a credit card,1061,1056.0,1061.0,5.0
+2025-01-01,Credit card,Improper use of your report,104,104.0,104.0,0.0
+2025-01-01,Credit card,Incorrect information on your report,1242,1242.0,1242.0,0.0
+2025-01-01,Credit card,"Other features, terms, or problems",798,795.0,798.0,3.0
+2025-01-01,Credit card,Problem when making payments,604,599.0,604.0,5.0
+2025-01-01,Credit card,Problem with a company's investigation into an existing problem,1589,1589.0,1589.0,0.0
+2025-01-01,Credit card,Problem with a purchase shown on your statement,1479,1475.0,1479.0,4.0
+2025-01-01,Credit card,Problem with fraud alerts or security freezes,9,9.0,9.0,0.0
+2025-01-01,Credit card,Struggling to pay your bill,102,102.0,102.0,0.0
+2025-01-01,Credit card,Trouble using your card,282,277.0,282.0,5.0
+2025-01-01,Credit card,Unable to get your credit report or credit score,5,5.0,5.0,0.0
+2025-02-01,Checking or savings account,Closing an account,722,716.0,722.0,6.0
+2025-02-01,Checking or savings account,Credit monitoring or identity theft protection services,2,2.0,2.0,0.0
+2025-02-01,Checking or savings account,Improper use of your report,6,6.0,6.0,0.0
+2025-02-01,Checking or savings account,Incorrect information on your report,19,19.0,19.0,0.0
+2025-02-01,Checking or savings account,Managing an account,2769,2751.0,2769.0,18.0
+2025-02-01,Checking or savings account,Opening an account,492,490.0,492.0,2.0
+2025-02-01,Checking or savings account,Problem caused by your funds being low,837,836.0,837.0,1.0
+2025-02-01,Checking or savings account,Problem with a company's investigation into an existing problem,13,13.0,13.0,0.0
+2025-02-01,Checking or savings account,Problem with a lender or other company charging your account,588,584.0,588.0,4.0
+2025-02-01,Checking or savings account,Problem with fraud alerts or security freezes,2,2.0,2.0,0.0
+2025-02-01,Checking or savings account,Unable to get your credit report or credit score,2,2.0,2.0,0.0
+2025-02-01,Credit card,"Advertising and marketing, including promotional offers",192,192.0,192.0,0.0
+2025-02-01,Credit card,Closing your account,420,418.0,420.0,2.0
+2025-02-01,Credit card,Credit monitoring or identity theft protection services,7,7.0,7.0,0.0
+2025-02-01,Credit card,Fees or interest,645,643.0,645.0,2.0
+2025-02-01,Credit card,Getting a credit card,835,833.0,835.0,2.0
+2025-02-01,Credit card,Improper use of your report,57,57.0,57.0,0.0
+2025-02-01,Credit card,Incorrect information on your report,367,366.0,367.0,1.0
+2025-02-01,Credit card,"Other features, terms, or problems",635,632.0,635.0,3.0
+2025-02-01,Credit card,Problem when making payments,345,344.0,345.0,1.0
+2025-02-01,Credit card,Problem with a company's investigation into an existing problem,1135,1135.0,1135.0,0.0
+2025-02-01,Credit card,Problem with a purchase shown on your statement,1296,1294.0,1296.0,2.0
+2025-02-01,Credit card,Problem with fraud alerts or security freezes,4,4.0,4.0,0.0
+2025-02-01,Credit card,Struggling to pay your bill,99,97.0,99.0,2.0
+2025-02-01,Credit card,Trouble using your card,173,173.0,173.0,0.0
+2025-02-01,Credit card,Unable to get your credit report or credit score,3,3.0,3.0,0.0
+2025-03-01,Checking or savings account,Closing an account,757,752.0,757.0,5.0
+2025-03-01,Checking or savings account,Credit monitoring or identity theft protection services,2,2.0,2.0,0.0
+2025-03-01,Checking or savings account,Improper use of your report,9,9.0,9.0,0.0
+2025-03-01,Checking or savings account,Incorrect information on your report,18,18.0,18.0,0.0
+2025-03-01,Checking or savings account,Managing an account,2838,2821.0,2838.0,17.0
+2025-03-01,Checking or savings account,Opening an account,504,502.0,504.0,2.0
+2025-03-01,Checking or savings account,Problem caused by your funds being low,314,313.0,314.0,1.0
+2025-03-01,Checking or savings account,Problem with a company's investigation into an existing problem,5,5.0,5.0,0.0
+2025-03-01,Checking or savings account,Problem with a lender or other company charging your account,619,618.0,619.0,1.0
+2025-03-01,Checking or savings account,Problem with fraud alerts or security freezes,4,4.0,4.0,0.0
+2025-03-01,Credit card,"Advertising and marketing, including promotional offers",231,230.0,231.0,1.0
+2025-03-01,Credit card,Closing your account,424,423.0,424.0,1.0
+2025-03-01,Credit card,Credit monitoring or identity theft protection services,16,16.0,16.0,0.0
+2025-03-01,Credit card,Fees or interest,595,593.0,595.0,2.0
+2025-03-01,Credit card,Getting a credit card,903,903.0,903.0,0.0
+2025-03-01,Credit card,Improper use of your report,52,52.0,52.0,0.0
+2025-03-01,Credit card,Incorrect information on your report,523,522.0,523.0,1.0
+2025-03-01,Credit card,"Other features, terms, or problems",613,613.0,613.0,0.0
+2025-03-01,Credit card,Problem when making payments,389,389.0,389.0,0.0
+2025-03-01,Credit card,Problem with a company's investigation into an existing problem,883,883.0,883.0,0.0
+2025-03-01,Credit card,Problem with a purchase shown on your statement,1349,1345.0,1349.0,4.0
+2025-03-01,Credit card,Problem with fraud alerts or security freezes,8,8.0,8.0,0.0
+2025-03-01,Credit card,Struggling to pay your bill,85,85.0,85.0,0.0
+2025-03-01,Credit card,Trouble using your card,179,177.0,179.0,2.0
+2025-03-01,Credit card,Unable to get your credit report or credit score,5,5.0,5.0,0.0
+2025-04-01,Checking or savings account,Closing an account,746,740.0,746.0,6.0
+2025-04-01,Checking or savings account,Credit monitoring or identity theft protection services,2,2.0,2.0,0.0
+2025-04-01,Checking or savings account,Improper use of your report,4,4.0,4.0,0.0
+2025-04-01,Checking or savings account,Incorrect information on your report,13,13.0,13.0,0.0
+2025-04-01,Checking or savings account,Managing an account,2921,2896.0,2921.0,25.0
+2025-04-01,Checking or savings account,Opening an account,549,547.0,549.0,2.0
+2025-04-01,Checking or savings account,Problem caused by your funds being low,292,291.0,292.0,1.0
+2025-04-01,Checking or savings account,Problem with a company's investigation into an existing problem,12,12.0,12.0,0.0
+2025-04-01,Checking or savings account,Problem with a lender or other company charging your account,687,683.0,687.0,4.0
+2025-04-01,Checking or savings account,Problem with fraud alerts or security freezes,3,3.0,3.0,0.0
+2025-04-01,Credit card,"Advertising and marketing, including promotional offers",204,204.0,204.0,0.0
+2025-04-01,Credit card,Closing your account,490,490.0,490.0,0.0
+2025-04-01,Credit card,Credit monitoring or identity theft protection services,15,15.0,15.0,0.0
+2025-04-01,Credit card,Fees or interest,494,492.0,494.0,2.0
+2025-04-01,Credit card,Getting a credit card,900,897.0,900.0,3.0
+2025-04-01,Credit card,Improper use of your report,61,59.0,61.0,2.0
+2025-04-01,Credit card,Incorrect information on your report,1170,1165.0,1170.0,5.0
+2025-04-01,Credit card,"Other features, terms, or problems",669,669.0,669.0,0.0
+2025-04-01,Credit card,Problem when making payments,371,371.0,371.0,0.0
+2025-04-01,Credit card,Problem with a company's investigation into an existing problem,833,832.0,833.0,1.0
+2025-04-01,Credit card,Problem with a purchase shown on your statement,1394,1391.0,1394.0,3.0
+2025-04-01,Credit card,Problem with fraud alerts or security freezes,5,5.0,5.0,0.0
+2025-04-01,Credit card,Struggling to pay your bill,68,67.0,68.0,1.0
+2025-04-01,Credit card,Trouble using your card,221,221.0,221.0,0.0
+2025-04-01,Credit card,Unable to get your credit report or credit score,2,2.0,2.0,0.0
+2025-05-01,Checking or savings account,Closing an account,783,776.0,783.0,7.0
+2025-05-01,Checking or savings account,Credit monitoring or identity theft protection services,5,5.0,5.0,0.0
+2025-05-01,Checking or savings account,Improper use of your report,5,5.0,5.0,0.0
+2025-05-01,Checking or savings account,Incorrect information on your report,10,10.0,10.0,0.0
+2025-05-01,Checking or savings account,Managing an account,3032,3008.0,3032.0,24.0
+2025-05-01,Checking or savings account,Opening an account,477,477.0,477.0,0.0
+2025-05-01,Checking or savings account,Problem caused by your funds being low,323,323.0,323.0,0.0
+2025-05-01,Checking or savings account,Problem with a company's investigation into an existing problem,10,10.0,10.0,0.0
+2025-05-01,Checking or savings account,Problem with a lender or other company charging your account,747,744.0,747.0,3.0
+2025-05-01,Checking or savings account,Problem with fraud alerts or security freezes,2,2.0,2.0,0.0
+2025-05-01,Credit card,"Advertising and marketing, including promotional offers",264,264.0,264.0,0.0
+2025-05-01,Credit card,Closing your account,542,542.0,542.0,0.0
+2025-05-01,Credit card,Credit monitoring or identity theft protection services,15,15.0,15.0,0.0
+2025-05-01,Credit card,Fees or interest,629,628.0,629.0,1.0
+2025-05-01,Credit card,Getting a credit card,863,863.0,863.0,0.0
+2025-05-01,Credit card,Improper use of your report,82,81.0,82.0,1.0
+2025-05-01,Credit card,Incorrect information on your report,1382,1381.0,1382.0,1.0
+2025-05-01,Credit card,"Other features, terms, or problems",669,667.0,669.0,2.0
+2025-05-01,Credit card,Problem when making payments,380,380.0,380.0,0.0
+2025-05-01,Credit card,Problem with a company's investigation into an existing problem,793,792.0,793.0,1.0
+2025-05-01,Credit card,Problem with a purchase shown on your statement,1545,1537.0,1545.0,8.0
+2025-05-01,Credit card,Problem with fraud alerts or security freezes,1,1.0,1.0,0.0
+2025-05-01,Credit card,Struggling to pay your bill,94,93.0,94.0,1.0
+2025-05-01,Credit card,Trouble using your card,251,249.0,251.0,2.0
+2025-05-01,Credit card,Unable to get your credit report or credit score,5,5.0,5.0,0.0
+2025-06-01,Checking or savings account,Closing an account,862,837.0,862.0,25.0
+2025-06-01,Checking or savings account,Credit monitoring or identity theft protection services,3,3.0,3.0,0.0
+2025-06-01,Checking or savings account,Improper use of your report,3,3.0,3.0,0.0
+2025-06-01,Checking or savings account,Incorrect information on your report,21,21.0,21.0,0.0
+2025-06-01,Checking or savings account,Managing an account,3098,3023.0,3098.0,75.0
+2025-06-01,Checking or savings account,Opening an account,540,531.0,540.0,9.0
+2025-06-01,Checking or savings account,Problem caused by your funds being low,316,312.0,316.0,4.0
+2025-06-01,Checking or savings account,Problem with a company's investigation into an existing problem,7,7.0,7.0,0.0
+2025-06-01,Checking or savings account,Problem with a lender or other company charging your account,704,683.0,704.0,21.0
+2025-06-01,Checking or savings account,Problem with fraud alerts or security freezes,3,2.0,3.0,1.0
+2025-06-01,Credit card,"Advertising and marketing, including promotional offers",256,255.0,256.0,1.0
+2025-06-01,Credit card,Closing your account,543,536.0,543.0,7.0
+2025-06-01,Credit card,Credit monitoring or identity theft protection services,17,17.0,17.0,0.0
+2025-06-01,Credit card,Fees or interest,632,631.0,632.0,1.0
+2025-06-01,Credit card,Getting a credit card,830,826.0,830.0,4.0
+2025-06-01,Credit card,Improper use of your report,46,46.0,46.0,0.0
+2025-06-01,Credit card,Incorrect information on your report,1331,1328.0,1331.0,3.0
+2025-06-01,Credit card,"Other features, terms, or problems",635,629.0,635.0,6.0
+2025-06-01,Credit card,Problem when making payments,370,370.0,370.0,0.0
+2025-06-01,Credit card,Problem with a company's investigation into an existing problem,734,733.0,734.0,1.0
+2025-06-01,Credit card,Problem with a purchase shown on your statement,1586,1571.0,1586.0,15.0
+2025-06-01,Credit card,Problem with fraud alerts or security freezes,11,11.0,11.0,0.0
+2025-06-01,Credit card,Struggling to pay your bill,100,100.0,100.0,0.0
+2025-06-01,Credit card,Trouble using your card,267,266.0,267.0,1.0
+2025-06-01,Credit card,Unable to get your credit report or credit score,6,6.0,6.0,0.0
+2025-07-01,Checking or savings account,Closing an account,864,847.0,864.0,17.0
+2025-07-01,Checking or savings account,Credit monitoring or identity theft protection services,2,2.0,2.0,0.0
+2025-07-01,Checking or savings account,Improper use of your report,7,7.0,7.0,0.0
+2025-07-01,Checking or savings account,Incorrect information on your report,23,22.0,23.0,1.0
+2025-07-01,Checking or savings account,Managing an account,3577,3530.0,3577.0,47.0
+2025-07-01,Checking or savings account,Opening an account,718,711.0,718.0,7.0
+2025-07-01,Checking or savings account,Problem caused by your funds being low,383,382.0,383.0,1.0
+2025-07-01,Checking or savings account,Problem with a company's investigation into an existing problem,17,17.0,17.0,0.0
+2025-07-01,Checking or savings account,Problem with a lender or other company charging your account,808,794.0,808.0,14.0
+2025-07-01,Checking or savings account,Problem with fraud alerts or security freezes,4,4.0,4.0,0.0
+2025-07-01,Credit card,"Advertising and marketing, including promotional offers",267,267.0,267.0,0.0
+2025-07-01,Credit card,Closing your account,567,563.0,567.0,4.0
+2025-07-01,Credit card,Credit monitoring or identity theft protection services,13,13.0,13.0,0.0
+2025-07-01,Credit card,Fees or interest,664,663.0,664.0,1.0
+2025-07-01,Credit card,Getting a credit card,964,961.0,964.0,3.0
+2025-07-01,Credit card,Improper use of your report,44,44.0,44.0,0.0
+2025-07-01,Credit card,Incorrect information on your report,1498,1497.0,1498.0,1.0
+2025-07-01,Credit card,"Other features, terms, or problems",758,755.0,758.0,3.0
+2025-07-01,Credit card,Problem when making payments,353,353.0,353.0,0.0
+2025-07-01,Credit card,Problem with a company's investigation into an existing problem,776,776.0,776.0,0.0
+2025-07-01,Credit card,Problem with a purchase shown on your statement,1802,1793.0,1802.0,9.0
+2025-07-01,Credit card,Problem with fraud alerts or security freezes,13,13.0,13.0,0.0
+2025-07-01,Credit card,Struggling to pay your bill,110,110.0,110.0,0.0
+2025-07-01,Credit card,Trouble using your card,274,274.0,274.0,0.0
+2025-07-01,Credit card,Unable to get your credit report or credit score,2,2.0,2.0,0.0
+2025-08-01,Checking or savings account,Closing an account,906,901.0,906.0,5.0
+2025-08-01,Checking or savings account,Credit monitoring or identity theft protection services,3,3.0,3.0,0.0
+2025-08-01,Checking or savings account,Improper use of your report,9,9.0,9.0,0.0
+2025-08-01,Checking or savings account,Incorrect information on your report,21,21.0,21.0,0.0
+2025-08-01,Checking or savings account,Managing an account,3613,3578.0,3613.0,35.0
+2025-08-01,Checking or savings account,Opening an account,725,723.0,725.0,2.0
+2025-08-01,Checking or savings account,Problem caused by your funds being low,374,373.0,374.0,1.0
+2025-08-01,Checking or savings account,Problem with a company's investigation into an existing problem,18,18.0,18.0,0.0
+2025-08-01,Checking or savings account,Problem with a lender or other company charging your account,829,824.0,829.0,5.0
+2025-08-01,Checking or savings account,Problem with fraud alerts or security freezes,4,4.0,4.0,0.0
+2025-08-01,Checking or savings account,Unable to get your credit report or credit score,3,3.0,3.0,0.0
+2025-08-01,Credit card,"Advertising and marketing, including promotional offers",247,246.0,247.0,1.0
+2025-08-01,Credit card,Closing your account,485,485.0,485.0,0.0
+2025-08-01,Credit card,Credit monitoring or identity theft protection services,14,14.0,14.0,0.0
+2025-08-01,Credit card,Fees or interest,620,619.0,620.0,1.0
+2025-08-01,Credit card,Getting a credit card,915,911.0,915.0,4.0
+2025-08-01,Credit card,Improper use of your report,60,60.0,60.0,0.0
+2025-08-01,Credit card,Incorrect information on your report,1396,1394.0,1396.0,2.0
+2025-08-01,Credit card,"Other features, terms, or problems",702,697.0,702.0,5.0
+2025-08-01,Credit card,Problem when making payments,342,341.0,342.0,1.0
+2025-08-01,Credit card,Problem with a company's investigation into an existing problem,1092,1091.0,1092.0,1.0
+2025-08-01,Credit card,Problem with a purchase shown on your statement,1652,1645.0,1652.0,7.0
+2025-08-01,Credit card,Problem with fraud alerts or security freezes,9,9.0,9.0,0.0
+2025-08-01,Credit card,Struggling to pay your bill,118,117.0,118.0,1.0
+2025-08-01,Credit card,Trouble using your card,261,259.0,261.0,2.0
+2025-08-01,Credit card,Unable to get your credit report or credit score,6,6.0,6.0,0.0
+2025-09-01,Checking or savings account,Closing an account,891,887.0,891.0,4.0
+2025-09-01,Checking or savings account,Credit monitoring or identity theft protection services,3,3.0,3.0,0.0
+2025-09-01,Checking or savings account,Improper use of your report,3,3.0,3.0,0.0
+2025-09-01,Checking or savings account,Incorrect information on your report,20,20.0,20.0,0.0
+2025-09-01,Checking or savings account,Managing an account,3416,3393.0,3416.0,23.0
+2025-09-01,Checking or savings account,Opening an account,601,597.0,601.0,4.0
+2025-09-01,Checking or savings account,Problem caused by your funds being low,345,343.0,345.0,2.0
+2025-09-01,Checking or savings account,Problem with a company's investigation into an existing problem,16,16.0,16.0,0.0
+2025-09-01,Checking or savings account,Problem with a lender or other company charging your account,837,831.0,837.0,6.0
+2025-09-01,Checking or savings account,Problem with fraud alerts or security freezes,8,8.0,8.0,0.0
+2025-09-01,Checking or savings account,Unable to get your credit report or credit score,1,1.0,1.0,0.0
+2025-09-01,Credit card,"Advertising and marketing, including promotional offers",272,272.0,272.0,0.0
+2025-09-01,Credit card,Closing your account,531,531.0,531.0,0.0
+2025-09-01,Credit card,Credit monitoring or identity theft protection services,21,21.0,21.0,0.0
+2025-09-01,Credit card,Fees or interest,535,534.0,535.0,1.0
+2025-09-01,Credit card,Getting a credit card,1050,1047.0,1050.0,3.0
+2025-09-01,Credit card,Improper use of your report,70,70.0,70.0,0.0
+2025-09-01,Credit card,Incorrect information on your report,1443,1442.0,1443.0,1.0
+2025-09-01,Credit card,"Other features, terms, or problems",705,703.0,705.0,2.0
+2025-09-01,Credit card,Problem when making payments,356,356.0,356.0,0.0
+2025-09-01,Credit card,Problem with a company's investigation into an existing problem,1419,1419.0,1419.0,0.0
+2025-09-01,Credit card,Problem with a purchase shown on your statement,1743,1733.0,1743.0,10.0
+2025-09-01,Credit card,Problem with fraud alerts or security freezes,7,7.0,7.0,0.0
+2025-09-01,Credit card,Struggling to pay your bill,119,118.0,119.0,1.0
+2025-09-01,Credit card,Trouble using your card,233,232.0,233.0,1.0
+2025-10-01,Checking or savings account,Closing an account,919,914.0,919.0,5.0
+2025-10-01,Checking or savings account,Credit monitoring or identity theft protection services,4,4.0,4.0,0.0
+2025-10-01,Checking or savings account,Improper use of your report,9,9.0,9.0,0.0
+2025-10-01,Checking or savings account,Incorrect information on your report,20,20.0,20.0,0.0
+2025-10-01,Checking or savings account,Managing an account,3609,3587.0,3609.0,22.0
+2025-10-01,Checking or savings account,Opening an account,524,522.0,524.0,2.0
+2025-10-01,Checking or savings account,Problem caused by your funds being low,388,388.0,388.0,0.0
+2025-10-01,Checking or savings account,Problem with a company's investigation into an existing problem,14,14.0,14.0,0.0
+2025-10-01,Checking or savings account,Problem with a lender or other company charging your account,817,815.0,817.0,2.0
+2025-10-01,Checking or savings account,Problem with fraud alerts or security freezes,2,2.0,2.0,0.0
+2025-10-01,Checking or savings account,Unable to get your credit report or credit score,2,1.0,2.0,1.0
+2025-10-01,Credit card,"Advertising and marketing, including promotional offers",288,285.0,288.0,3.0
+2025-10-01,Credit card,Closing your account,552,548.0,552.0,4.0
+2025-10-01,Credit card,Credit monitoring or identity theft protection services,18,18.0,18.0,0.0
+2025-10-01,Credit card,Fees or interest,580,580.0,580.0,0.0
+2025-10-01,Credit card,Getting a credit card,663,662.0,663.0,1.0
+2025-10-01,Credit card,Improper use of your report,54,54.0,54.0,0.0
+2025-10-01,Credit card,Incorrect information on your report,1870,1869.0,1870.0,1.0
+2025-10-01,Credit card,"Other features, terms, or problems",716,715.0,716.0,1.0
+2025-10-01,Credit card,Problem when making payments,343,342.0,343.0,1.0
+2025-10-01,Credit card,Problem with a company's investigation into an existing problem,245,244.0,245.0,1.0
+2025-10-01,Credit card,Problem with a purchase shown on your statement,1689,1681.0,1689.0,8.0
+2025-10-01,Credit card,Problem with fraud alerts or security freezes,8,8.0,8.0,0.0
+2025-10-01,Credit card,Struggling to pay your bill,94,94.0,94.0,0.0
+2025-10-01,Credit card,Trouble using your card,289,288.0,289.0,1.0
+2025-10-01,Credit card,Unable to get your credit report or credit score,4,4.0,4.0,0.0
+2025-11-01,Checking or savings account,Closing an account,808,803.0,808.0,5.0
+2025-11-01,Checking or savings account,Credit monitoring or identity theft protection services,3,3.0,3.0,0.0
+2025-11-01,Checking or savings account,Improper use of your report,2,2.0,2.0,0.0
+2025-11-01,Checking or savings account,Incorrect information on your report,19,19.0,19.0,0.0
+2025-11-01,Checking or savings account,Managing an account,3420,3395.0,3420.0,25.0
+2025-11-01,Checking or savings account,Opening an account,537,536.0,537.0,1.0
+2025-11-01,Checking or savings account,Problem caused by your funds being low,341,337.0,341.0,4.0
+2025-11-01,Checking or savings account,Problem with a company's investigation into an existing problem,17,17.0,17.0,0.0
+2025-11-01,Checking or savings account,Problem with a lender or other company charging your account,917,905.0,917.0,12.0
+2025-11-01,Checking or savings account,Problem with fraud alerts or security freezes,12,12.0,12.0,0.0
+2025-11-01,Checking or savings account,Unable to get your credit report or credit score,1,1.0,1.0,0.0
+2025-11-01,Credit card,"Advertising and marketing, including promotional offers",243,242.0,243.0,1.0
+2025-11-01,Credit card,Closing your account,562,560.0,562.0,2.0
+2025-11-01,Credit card,Credit monitoring or identity theft protection services,7,7.0,7.0,0.0
+2025-11-01,Credit card,Fees or interest,694,692.0,694.0,2.0
+2025-11-01,Credit card,Getting a credit card,858,854.0,858.0,4.0
+2025-11-01,Credit card,Improper use of your report,55,55.0,55.0,0.0
+2025-11-01,Credit card,Incorrect information on your report,920,918.0,920.0,2.0
+2025-11-01,Credit card,"Other features, terms, or problems",702,699.0,702.0,3.0
+2025-11-01,Credit card,Problem when making payments,345,341.0,345.0,4.0
+2025-11-01,Credit card,Problem with a company's investigation into an existing problem,244,244.0,244.0,0.0
+2025-11-01,Credit card,Problem with a purchase shown on your statement,1823,1802.0,1823.0,21.0
+2025-11-01,Credit card,Problem with fraud alerts or security freezes,9,9.0,9.0,0.0
+2025-11-01,Credit card,Struggling to pay your bill,128,128.0,128.0,0.0
+2025-11-01,Credit card,Trouble using your card,263,261.0,263.0,2.0
+2025-11-01,Credit card,Unable to get your credit report or credit score,8,8.0,8.0,0.0
+2025-12-01,Checking or savings account,Closing an account,1008,1005.0,1008.0,3.0
+2025-12-01,Checking or savings account,Credit monitoring or identity theft protection services,3,3.0,3.0,0.0
+2025-12-01,Checking or savings account,Improper use of your report,5,5.0,5.0,0.0
+2025-12-01,Checking or savings account,Incorrect information on your report,31,30.0,31.0,1.0
+2025-12-01,Checking or savings account,Managing an account,4434,4404.0,4434.0,30.0
+2025-12-01,Checking or savings account,Opening an account,635,627.0,635.0,8.0
+2025-12-01,Checking or savings account,Problem caused by your funds being low,456,451.0,456.0,5.0
+2025-12-01,Checking or savings account,Problem with a company's investigation into an existing problem,19,19.0,19.0,0.0
+2025-12-01,Checking or savings account,Problem with a lender or other company charging your account,1097,1090.0,1097.0,7.0
+2025-12-01,Checking or savings account,Problem with fraud alerts or security freezes,4,4.0,4.0,0.0
+2025-12-01,Credit card,"Advertising and marketing, including promotional offers",339,333.0,339.0,6.0
+2025-12-01,Credit card,Closing your account,566,561.0,566.0,5.0
+2025-12-01,Credit card,Credit monitoring or identity theft protection services,16,16.0,16.0,0.0
+2025-12-01,Credit card,Fees or interest,822,810.0,822.0,12.0
+2025-12-01,Credit card,Getting a credit card,963,951.0,963.0,12.0
+2025-12-01,Credit card,Improper use of your report,59,58.0,59.0,1.0
+2025-12-01,Credit card,Incorrect information on your report,593,586.0,593.0,7.0
+2025-12-01,Credit card,"Other features, terms, or problems",814,803.0,814.0,11.0
+2025-12-01,Credit card,Problem when making payments,398,397.0,398.0,1.0
+2025-12-01,Credit card,Problem with a company's investigation into an existing problem,383,381.0,383.0,2.0
+2025-12-01,Credit card,Problem with a purchase shown on your statement,2452,2422.0,2452.0,30.0
+2025-12-01,Credit card,Problem with fraud alerts or security freezes,8,8.0,8.0,0.0
+2025-12-01,Credit card,Struggling to pay your bill,116,114.0,116.0,2.0
+2025-12-01,Credit card,Trouble using your card,327,323.0,327.0,4.0
+2025-12-01,Credit card,Unable to get your credit report or credit score,3,3.0,3.0,0.0
+2026-01-01,Checking or savings account,Closing an account,1037,1028.0,1037.0,9.0
+2026-01-01,Checking or savings account,Credit monitoring or identity theft protection services,3,3.0,3.0,0.0
+2026-01-01,Checking or savings account,Improper use of your report,6,6.0,6.0,0.0
+2026-01-01,Checking or savings account,Incorrect information on your report,27,27.0,27.0,0.0
+2026-01-01,Checking or savings account,Managing an account,4516,4496.0,4516.0,20.0
+2026-01-01,Checking or savings account,Opening an account,716,714.0,716.0,2.0
+2026-01-01,Checking or savings account,Problem caused by your funds being low,448,444.0,448.0,4.0
+2026-01-01,Checking or savings account,Problem with a company's investigation into an existing problem,19,19.0,19.0,0.0
+2026-01-01,Checking or savings account,Problem with a lender or other company charging your account,1138,1128.0,1138.0,10.0
+2026-01-01,Checking or savings account,Problem with fraud alerts or security freezes,5,4.0,5.0,1.0
+2026-01-01,Checking or savings account,Unable to get your credit report or credit score,1,1.0,1.0,0.0
+2026-01-01,Credit card,"Advertising and marketing, including promotional offers",399,389.0,399.0,10.0
+2026-01-01,Credit card,Closing your account,592,583.0,592.0,9.0
+2026-01-01,Credit card,Credit monitoring or identity theft protection services,25,25.0,25.0,0.0
+2026-01-01,Credit card,Fees or interest,939,933.0,939.0,6.0
+2026-01-01,Credit card,Getting a credit card,1113,1096.0,1113.0,17.0
+2026-01-01,Credit card,Improper use of your report,74,74.0,74.0,0.0
+2026-01-01,Credit card,Incorrect information on your report,1154,1149.0,1154.0,5.0
+2026-01-01,Credit card,"Other features, terms, or problems",940,921.0,940.0,19.0
+2026-01-01,Credit card,Problem when making payments,471,468.0,471.0,3.0
+2026-01-01,Credit card,Problem with a company's investigation into an existing problem,383,381.0,383.0,2.0
+2026-01-01,Credit card,Problem with a purchase shown on your statement,2939,2906.0,2939.0,33.0
+2026-01-01,Credit card,Problem with fraud alerts or security freezes,11,11.0,11.0,0.0
+2026-01-01,Credit card,Struggling to pay your bill,127,124.0,127.0,3.0
+2026-01-01,Credit card,Trouble using your card,345,343.0,345.0,2.0
+2026-01-01,Credit card,Unable to get your credit report or credit score,4,4.0,4.0,0.0
+2026-02-01,Checking or savings account,Closing an account,949,943.0,949.0,6.0
+2026-02-01,Checking or savings account,Credit monitoring or identity theft protection services,3,3.0,3.0,0.0
+2026-02-01,Checking or savings account,Improper use of your report,2,2.0,2.0,0.0
+2026-02-01,Checking or savings account,Incorrect information on your report,24,23.0,24.0,1.0
+2026-02-01,Checking or savings account,Managing an account,3714,3690.0,3714.0,24.0
+2026-02-01,Checking or savings account,Opening an account,558,553.0,558.0,5.0
+2026-02-01,Checking or savings account,Problem caused by your funds being low,394,393.0,394.0,1.0
+2026-02-01,Checking or savings account,Problem with a company's investigation into an existing problem,17,17.0,17.0,0.0
+2026-02-01,Checking or savings account,Problem with a lender or other company charging your account,896,890.0,896.0,6.0
+2026-02-01,Checking or savings account,Unable to get your credit report or credit score,2,2.0,2.0,0.0
+2026-02-01,Credit card,"Advertising and marketing, including promotional offers",300,287.0,300.0,13.0
+2026-02-01,Credit card,Closing your account,508,500.0,508.0,8.0
+2026-02-01,Credit card,Credit monitoring or identity theft protection services,13,13.0,13.0,0.0
+2026-02-01,Credit card,Fees or interest,828,820.0,828.0,8.0
+2026-02-01,Credit card,Getting a credit card,918,903.0,918.0,15.0
+2026-02-01,Credit card,Improper use of your report,60,60.0,60.0,0.0
+2026-02-01,Credit card,Incorrect information on your report,511,509.0,511.0,2.0
+2026-02-01,Credit card,"Other features, terms, or problems",878,845.0,878.0,33.0
+2026-02-01,Credit card,Problem when making payments,343,327.0,343.0,16.0
+2026-02-01,Credit card,Problem with a company's investigation into an existing problem,275,275.0,275.0,0.0
+2026-02-01,Credit card,Problem with a purchase shown on your statement,2426,2397.0,2426.0,29.0
+2026-02-01,Credit card,Problem with fraud alerts or security freezes,9,9.0,9.0,0.0
+2026-02-01,Credit card,Struggling to pay your bill,98,98.0,98.0,0.0
+2026-02-01,Credit card,Trouble using your card,229,220.0,229.0,9.0
+2026-02-01,Credit card,Unable to get your credit report or credit score,5,4.0,5.0,1.0
+2026-03-01,Checking or savings account,Closing an account,942,934.0,942.0,8.0
+2026-03-01,Checking or savings account,Credit monitoring or identity theft protection services,2,2.0,2.0,0.0
+2026-03-01,Checking or savings account,Improper use of your report,7,7.0,7.0,0.0
+2026-03-01,Checking or savings account,Incorrect information on your report,28,28.0,28.0,0.0
+2026-03-01,Checking or savings account,Managing an account,4643,4611.0,4643.0,32.0
+2026-03-01,Checking or savings account,Opening an account,609,606.0,609.0,3.0
+2026-03-01,Checking or savings account,Problem caused by your funds being low,430,428.0,430.0,2.0
+2026-03-01,Checking or savings account,Problem with a company's investigation into an existing problem,26,26.0,26.0,0.0
+2026-03-01,Checking or savings account,Problem with a lender or other company charging your account,1129,1117.0,1129.0,12.0
+2026-03-01,Checking or savings account,Problem with fraud alerts or security freezes,7,7.0,7.0,0.0
+2026-03-01,Checking or savings account,Unable to get your credit report or credit score,1,1.0,1.0,0.0
+2026-03-01,Credit card,"Advertising and marketing, including promotional offers",358,355.0,358.0,3.0
+2026-03-01,Credit card,Closing your account,501,495.0,501.0,6.0
+2026-03-01,Credit card,Credit monitoring or identity theft protection services,27,27.0,27.0,0.0
+2026-03-01,Credit card,Fees or interest,913,891.0,913.0,22.0
+2026-03-01,Credit card,Getting a credit card,884,871.0,884.0,13.0
+2026-03-01,Credit card,Improper use of your report,63,63.0,63.0,0.0
+2026-03-01,Credit card,Incorrect information on your report,533,526.0,533.0,7.0
+2026-03-01,Credit card,"Other features, terms, or problems",976,963.0,976.0,13.0
+2026-03-01,Credit card,Problem when making payments,467,463.0,467.0,4.0
+2026-03-01,Credit card,Problem with a company's investigation into an existing problem,295,293.0,295.0,2.0
+2026-03-01,Credit card,Problem with a purchase shown on your statement,2838,2801.0,2838.0,37.0
+2026-03-01,Credit card,Problem with fraud alerts or security freezes,9,9.0,9.0,0.0
+2026-03-01,Credit card,Struggling to pay your bill,138,136.0,138.0,2.0
+2026-03-01,Credit card,Trouble using your card,320,317.0,320.0,3.0
+2026-03-01,Credit card,Unable to get your credit report or credit score,5,5.0,5.0,0.0
+2026-04-01,Checking or savings account,Closing an account,974,961.0,974.0,13.0
+2026-04-01,Checking or savings account,Credit monitoring or identity theft protection services,1,1.0,1.0,0.0
+2026-04-01,Checking or savings account,Improper use of your report,5,5.0,5.0,0.0
+2026-04-01,Checking or savings account,Incorrect information on your report,28,28.0,28.0,0.0
+2026-04-01,Checking or savings account,Managing an account,4435,4387.0,4435.0,48.0
+2026-04-01,Checking or savings account,Opening an account,572,569.0,572.0,3.0
+2026-04-01,Checking or savings account,Problem caused by your funds being low,454,452.0,454.0,2.0
+2026-04-01,Checking or savings account,Problem with a company's investigation into an existing problem,19,19.0,19.0,0.0
+2026-04-01,Checking or savings account,Problem with a lender or other company charging your account,1180,1166.0,1180.0,14.0
+2026-04-01,Checking or savings account,Problem with fraud alerts or security freezes,5,5.0,5.0,0.0
+2026-04-01,Checking or savings account,Unable to get your credit report or credit score,3,3.0,3.0,0.0
+2026-04-01,Credit card,"Advertising and marketing, including promotional offers",379,374.0,379.0,5.0
+2026-04-01,Credit card,Closing your account,490,482.0,490.0,8.0
+2026-04-01,Credit card,Credit monitoring or identity theft protection services,18,18.0,18.0,0.0
+2026-04-01,Credit card,Fees or interest,779,760.0,779.0,19.0
+2026-04-01,Credit card,Getting a credit card,904,894.0,904.0,10.0
+2026-04-01,Credit card,Improper use of your report,47,47.0,47.0,0.0
+2026-04-01,Credit card,Incorrect information on your report,508,504.0,508.0,4.0
+2026-04-01,Credit card,"Other features, terms, or problems",932,924.0,932.0,8.0
+2026-04-01,Credit card,Problem when making payments,438,428.0,438.0,10.0
+2026-04-01,Credit card,Problem with a company's investigation into an existing problem,419,415.0,419.0,4.0
+2026-04-01,Credit card,Problem with a purchase shown on your statement,2884,2836.0,2884.0,48.0
+2026-04-01,Credit card,Problem with fraud alerts or security freezes,9,9.0,9.0,0.0
+2026-04-01,Credit card,Struggling to pay your bill,114,112.0,114.0,2.0
+2026-04-01,Credit card,Trouble using your card,303,300.0,303.0,3.0
+2026-04-01,Credit card,Unable to get your credit report or credit score,4,4.0,4.0,0.0
+2026-05-01,Checking or savings account,Closing an account,860,850.0,860.0,10.0
+2026-05-01,Checking or savings account,Credit monitoring or identity theft protection services,2,2.0,2.0,0.0
+2026-05-01,Checking or savings account,Improper use of your report,5,5.0,5.0,0.0
+2026-05-01,Checking or savings account,Incorrect information on your report,16,16.0,16.0,0.0
+2026-05-01,Checking or savings account,Managing an account,4236,4211.0,4236.0,25.0
+2026-05-01,Checking or savings account,Opening an account,560,558.0,560.0,2.0
+2026-05-01,Checking or savings account,Problem caused by your funds being low,360,359.0,360.0,1.0
+2026-05-01,Checking or savings account,Problem with a company's investigation into an existing problem,23,23.0,23.0,0.0
+2026-05-01,Checking or savings account,Problem with a lender or other company charging your account,1129,1118.0,1129.0,11.0
+2026-05-01,Checking or savings account,Problem with fraud alerts or security freezes,7,7.0,7.0,0.0
+2026-05-01,Checking or savings account,Unable to get your credit report or credit score,2,2.0,2.0,0.0
+2026-05-01,Credit card,"Advertising and marketing, including promotional offers",346,344.0,346.0,2.0
+2026-05-01,Credit card,Closing your account,550,525.0,550.0,25.0
+2026-05-01,Credit card,Credit monitoring or identity theft protection services,14,14.0,14.0,0.0
+2026-05-01,Credit card,Fees or interest,791,771.0,791.0,20.0
+2026-05-01,Credit card,Getting a credit card,950,929.0,950.0,21.0
+2026-05-01,Credit card,Improper use of your report,31,29.0,31.0,2.0
+2026-05-01,Credit card,Incorrect information on your report,425,417.0,425.0,8.0
+2026-05-01,Credit card,"Other features, terms, or problems",947,923.0,947.0,24.0
+2026-05-01,Credit card,Problem when making payments,403,390.0,403.0,13.0
+2026-05-01,Credit card,Problem with a company's investigation into an existing problem,354,350.0,354.0,4.0
+2026-05-01,Credit card,Problem with a purchase shown on your statement,2680,2640.0,2680.0,40.0
+2026-05-01,Credit card,Problem with fraud alerts or security freezes,11,10.0,11.0,1.0
+2026-05-01,Credit card,Struggling to pay your bill,103,101.0,103.0,2.0
+2026-05-01,Credit card,Trouble using your card,317,307.0,317.0,10.0
+2026-05-01,Credit card,Unable to get your credit report or credit score,1,1.0,1.0,0.0
+2026-06-01,Checking or savings account,Closing an account,1043,1036.0,1043.0,7.0
+2026-06-01,Checking or savings account,Credit monitoring or identity theft protection services,2,2.0,2.0,0.0
+2026-06-01,Checking or savings account,Improper use of your report,4,4.0,4.0,0.0
+2026-06-01,Checking or savings account,Incorrect information on your report,18,18.0,18.0,0.0
+2026-06-01,Checking or savings account,Managing an account,4502,4467.0,4502.0,35.0
+2026-06-01,Checking or savings account,Opening an account,639,639.0,639.0,0.0
+2026-06-01,Checking or savings account,Problem caused by your funds being low,349,349.0,349.0,0.0
+2026-06-01,Checking or savings account,Problem with a company's investigation into an existing problem,25,25.0,25.0,0.0
+2026-06-01,Checking or savings account,Problem with a lender or other company charging your account,1084,1068.0,1084.0,16.0
+2026-06-01,Checking or savings account,Problem with fraud alerts or security freezes,5,5.0,5.0,0.0
+2026-06-01,Checking or savings account,Unable to get your credit report or credit score,1,1.0,1.0,0.0
+2026-06-01,Credit card,"Advertising and marketing, including promotional offers",342,336.0,342.0,6.0
+2026-06-01,Credit card,Closing your account,560,536.0,560.0,24.0
+2026-06-01,Credit card,Credit monitoring or identity theft protection services,15,15.0,15.0,0.0
+2026-06-01,Credit card,Fees or interest,786,770.0,786.0,16.0
+2026-06-01,Credit card,Getting a credit card,804,780.0,804.0,24.0
+2026-06-01,Credit card,Improper use of your report,37,37.0,37.0,0.0
+2026-06-01,Credit card,Incorrect information on your report,353,346.0,353.0,7.0
+2026-06-01,Credit card,"Other features, terms, or problems",918,904.0,918.0,14.0
+2026-06-01,Credit card,Problem when making payments,427,408.0,427.0,19.0
+2026-06-01,Credit card,Problem with a company's investigation into an existing problem,223,222.0,223.0,1.0
+2026-06-01,Credit card,Problem with a purchase shown on your statement,2605,2567.0,2605.0,38.0
+2026-06-01,Credit card,Problem with fraud alerts or security freezes,9,7.0,9.0,2.0
+2026-06-01,Credit card,Struggling to pay your bill,87,87.0,87.0,0.0
+2026-06-01,Credit card,Trouble using your card,299,295.0,299.0,4.0
+2026-06-01,Credit card,Unable to get your credit report or credit score,2,2.0,2.0,0.0
+2026-07-01,Checking or savings account,Closing an account,1117,1107.0,1117.0,10.0
+2026-07-01,Checking or savings account,Credit monitoring or identity theft protection services,5,5.0,5.0,0.0
+2026-07-01,Checking or savings account,Improper use of your report,3,3.0,3.0,0.0
+2026-07-01,Checking or savings account,Incorrect information on your report,21,21.0,21.0,0.0
+2026-07-01,Checking or savings account,Managing an account,4602,4572.0,4602.0,30.0
+2026-07-01,Checking or savings account,Opening an account,646,645.0,646.0,1.0
+2026-07-01,Checking or savings account,Problem caused by your funds being low,439,435.0,439.0,4.0
+2026-07-01,Checking or savings account,Problem with a company's investigation into an existing problem,24,24.0,24.0,0.0
+2026-07-01,Checking or savings account,Problem with a lender or other company charging your account,1151,1137.0,1151.0,14.0
+2026-07-01,Checking or savings account,Problem with fraud alerts or security freezes,4,4.0,4.0,0.0
+2026-07-01,Checking or savings account,Unable to get your credit report or credit score,2,2.0,2.0,0.0
+2026-07-01,Credit card,"Advertising and marketing, including promotional offers",423,418.0,423.0,5.0
+2026-07-01,Credit card,Closing your account,559,546.0,559.0,13.0
+2026-07-01,Credit card,Credit monitoring or identity theft protection services,16,16.0,16.0,0.0
+2026-07-01,Credit card,Fees or interest,903,888.0,903.0,15.0
+2026-07-01,Credit card,Getting a credit card,948,931.0,948.0,17.0
+2026-07-01,Credit card,Improper use of your report,54,54.0,54.0,0.0
+2026-07-01,Credit card,Incorrect information on your report,419,415.0,419.0,4.0
+2026-07-01,Credit card,"Other features, terms, or problems",959,939.0,959.0,20.0
+2026-07-01,Credit card,Problem when making payments,410,400.0,410.0,10.0
+2026-07-01,Credit card,Problem with a company's investigation into an existing problem,244,243.0,244.0,1.0
+2026-07-01,Credit card,Problem with a purchase shown on your statement,2694,2658.0,2694.0,36.0
+2026-07-01,Credit card,Problem with fraud alerts or security freezes,9,9.0,9.0,0.0
+2026-07-01,Credit card,Struggling to pay your bill,112,110.0,112.0,2.0
+2026-07-01,Credit card,Trouble using your card,353,347.0,353.0,6.0
+2026-07-01,Credit card,Unable to get your credit report or credit score,6,5.0,6.0,1.0
+2026-08-01,Checking or savings account,Closing an account,983,974.0,983.0,9.0
+2026-08-01,Checking or savings account,Credit monitoring or identity theft protection services,3,3.0,3.0,0.0
+2026-08-01,Checking or savings account,Improper use of your report,6,6.0,6.0,0.0
+2026-08-01,Checking or savings account,Incorrect information on your report,22,22.0,22.0,0.0
+2026-08-01,Checking or savings account,Managing an account,4740,4707.0,4740.0,33.0
+2026-08-01,Checking or savings account,Opening an account,600,598.0,600.0,2.0
+2026-08-01,Checking or savings account,Problem caused by your funds being low,428,427.0,428.0,1.0
+2026-08-01,Checking or savings account,Problem with a company's investigation into an existing problem,20,20.0,20.0,0.0
+2026-08-01,Checking or savings account,Problem with a lender or other company charging your account,1067,1064.0,1067.0,3.0
+2026-08-01,Checking or savings account,Problem with fraud alerts or security freezes,3,3.0,3.0,0.0
+2026-08-01,Credit card,"Advertising and marketing, including promotional offers",404,400.0,404.0,4.0
+2026-08-01,Credit card,Closing your account,579,571.0,579.0,8.0
+2026-08-01,Credit card,Credit monitoring or identity theft protection services,10,10.0,10.0,0.0
+2026-08-01,Credit card,Fees or interest,950,945.0,950.0,5.0
+2026-08-01,Credit card,Getting a credit card,983,979.0,983.0,4.0
+2026-08-01,Credit card,Improper use of your report,40,40.0,40.0,0.0
+2026-08-01,Credit card,Incorrect information on your report,433,432.0,433.0,1.0
+2026-08-01,Credit card,"Other features, terms, or problems",1020,1014.0,1020.0,6.0
+2026-08-01,Credit card,Problem when making payments,382,380.0,382.0,2.0
+2026-08-01,Credit card,Problem with a company's investigation into an existing problem,180,180.0,180.0,0.0
+2026-08-01,Credit card,Problem with a purchase shown on your statement,2837,2827.0,2837.0,10.0
+2026-08-01,Credit card,Problem with fraud alerts or security freezes,2,2.0,2.0,0.0
+2026-08-01,Credit card,Struggling to pay your bill,139,137.0,139.0,2.0
+2026-08-01,Credit card,Trouble using your card,368,362.0,368.0,6.0
+2026-08-01,Credit card,Unable to get your credit report or credit score,2,2.0,2.0,0.0
+2026-09-01,Checking or savings account,Closing an account,1102,1100.0,1102.0,2.0
+2026-09-01,Checking or savings account,Credit monitoring or identity theft protection services,2,2.0,2.0,0.0
+2026-09-01,Checking or savings account,Improper use of your report,6,6.0,6.0,0.0
+2026-09-01,Checking or savings account,Incorrect information on your report,26,26.0,26.0,0.0
+2026-09-01,Checking or savings account,Managing an account,4753,4737.0,4753.0,16.0
+2026-09-01,Checking or savings account,Opening an account,615,615.0,615.0,0.0
+2026-09-01,Checking or savings account,Problem caused by your funds being low,451,450.0,451.0,1.0
+2026-09-01,Checking or savings account,Problem with a company's investigation into an existing problem,24,24.0,24.0,0.0
+2026-09-01,Checking or savings account,Problem with a lender or other company charging your account,1098,1096.0,1098.0,2.0
+2026-09-01,Checking or savings account,Problem with fraud alerts or security freezes,2,2.0,2.0,0.0
+2026-09-01,Credit card,"Advertising and marketing, including promotional offers",424,424.0,424.0,0.0
+2026-09-01,Credit card,Closing your account,597,596.0,597.0,1.0
+2026-09-01,Credit card,Credit monitoring or identity theft protection services,14,14.0,14.0,0.0
+2026-09-01,Credit card,Fees or interest,928,925.0,928.0,3.0
+2026-09-01,Credit card,Getting a credit card,951,950.0,951.0,1.0
+2026-09-01,Credit card,Improper use of your report,38,37.0,38.0,1.0
+2026-09-01,Credit card,Incorrect information on your report,400,398.0,400.0,2.0
+2026-09-01,Credit card,"Other features, terms, or problems",1062,1059.0,1062.0,3.0
+2026-09-01,Credit card,Problem when making payments,425,425.0,425.0,0.0
+2026-09-01,Credit card,Problem with a company's investigation into an existing problem,209,209.0,209.0,0.0
+2026-09-01,Credit card,Problem with a purchase shown on your statement,2993,2986.0,2993.0,7.0
+2026-09-01,Credit card,Problem with fraud alerts or security freezes,7,7.0,7.0,0.0
+2026-09-01,Credit card,Struggling to pay your bill,136,136.0,136.0,0.0
+2026-09-01,Credit card,Trouble using your card,386,385.0,386.0,1.0
+2026-09-01,Credit card,Unable to get your credit report or credit score,2,2.0,2.0,0.0

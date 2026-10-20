@@ -1,0 +1,1364 @@
+company,product,complaints,timely_yes,known,timely_no,timely_rate
+CAPITAL ONE FINANCIAL CORPORATION,Credit card,22812,22811.0,22812.0,1.0,0.99995616342276
+"CITIBANK, N.A.",Credit card,20024,20024.0,20024.0,0.0,1.0
+JPMORGAN CHASE & CO.,Checking or savings account,17983,17983.0,17983.0,0.0,1.0
+WELLS FARGO & COMPANY,Checking or savings account,17765,17765.0,17765.0,0.0,1.0
+SYNCHRONY FINANCIAL,Credit card,15110,14713.0,15110.0,397.0,0.9737260092653872
+"BANK OF AMERICA, NATIONAL ASSOCIATION",Checking or savings account,14895,14805.0,14895.0,90.0,0.9939577039274925
+NAVY FEDERAL CREDIT UNION,Checking or savings account,14753,14753.0,14753.0,0.0,1.0
+JPMORGAN CHASE & CO.,Credit card,12857,12857.0,12857.0,0.0,1.0
+Chime Financial Inc,Checking or savings account,12366,12365.0,12366.0,1.0,0.999919133106906
+CAPITAL ONE FINANCIAL CORPORATION,Checking or savings account,11782,11782.0,11782.0,0.0,1.0
+"EQUIFAX, INC.",Credit card,11523,11523.0,11523.0,0.0,1.0
+AMERICAN EXPRESS COMPANY,Credit card,10178,10096.0,10178.0,82.0,0.9919434073491845
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Credit card,10116,10116.0,10116.0,0.0,1.0
+"BANK OF AMERICA, NATIONAL ASSOCIATION",Credit card,9967,9911.0,9967.0,56.0,0.9943814588140865
+Experian Information Solutions Inc.,Credit card,9616,9616.0,9616.0,0.0,1.0
+"CITIBANK, N.A.",Checking or savings account,7197,7197.0,7197.0,0.0,1.0
+"Block, Inc.",Checking or savings account,6842,6616.0,6842.0,226.0,0.9669687225957322
+"Bread Financial Holdings, Inc.",Credit card,6546,6546.0,6546.0,0.0,1.0
+WELLS FARGO & COMPANY,Credit card,6168,6167.0,6168.0,1.0,0.9998378728923476
+GOLDMAN SACHS BANK USA,Credit card,5424,5424.0,5424.0,0.0,1.0
+BARCLAYS BANK DELAWARE,Credit card,4773,4773.0,4773.0,0.0,1.0
+DISCOVER BANK,Credit card,4203,4203.0,4203.0,0.0,1.0
+U.S. BANCORP,Checking or savings account,4186,4186.0,4186.0,0.0,1.0
+TRUIST FINANCIAL CORPORATION,Checking or savings account,4122,4121.0,4122.0,1.0,0.999757399320718
+"SOFI TECHNOLOGIES, INC.",Checking or savings account,4104,4104.0,4104.0,0.0,1.0
+PNC Bank N.A.,Checking or savings account,3663,3663.0,3663.0,0.0,1.0
+U.S. BANCORP,Credit card,3276,3276.0,3276.0,0.0,1.0
+TD BANK US HOLDING COMPANY,Checking or savings account,2782,2782.0,2782.0,0.0,1.0
+UNITED SERVICES AUTOMOBILE ASSOCIATION,Checking or savings account,2752,2752.0,2752.0,0.0,1.0
+TD BANK US HOLDING COMPANY,Credit card,2619,2619.0,2619.0,0.0,1.0
+"Paypal Holdings, Inc",Checking or savings account,2594,2593.0,2594.0,1.0,0.9996144949884348
+NAVY FEDERAL CREDIT UNION,Credit card,2500,2500.0,2500.0,0.0,1.0
+"CITIZENS FINANCIAL GROUP, INC.",Checking or savings account,2120,2120.0,2120.0,0.0,1.0
+"CLGF Holdco 1, LLC",Credit card,2112,2103.0,2112.0,9.0,0.9957386363636364
+"HUNTINGTON NATIONAL BANK, THE",Checking or savings account,1908,1908.0,1908.0,0.0,1.0
+Chime Financial Inc,Credit card,1671,1671.0,1671.0,0.0,1.0
+ALLY FINANCIAL INC.,Checking or savings account,1652,1652.0,1652.0,0.0,1.0
+FIFTH THIRD FINANCIAL CORPORATION,Checking or savings account,1524,1524.0,1524.0,0.0,1.0
+"Early Warning Services, LLC",Checking or savings account,1481,1480.0,1481.0,1.0,0.9993247805536799
+BMO BANK NATIONAL ASSOCIATION,Checking or savings account,1475,1475.0,1475.0,0.0,1.0
+GOLDMAN SACHS BANK USA,Checking or savings account,1452,1449.0,1452.0,3.0,0.9979338842975206
+Atlanticus Services Corporation,Credit card,1376,1376.0,1376.0,0.0,1.0
+"Fidelity National Information Services, Inc. (FNIS)",Checking or savings account,1344,1344.0,1344.0,0.0,1.0
+REGIONS FINANCIAL CORPORATION,Checking or savings account,1220,1219.0,1220.0,1.0,0.9991803278688525
+FinCo Services Inc DBA Current,Checking or savings account,1055,906.0,1055.0,149.0,0.8587677725118483
+ROBINHOOD MARKETS INC.,Checking or savings account,1049,966.0,1049.0,83.0,0.9208770257387988
+KEYCORP,Checking or savings account,1006,1006.0,1006.0,0.0,1.0
+"SANTANDER HOLDINGS USA, INC.",Checking or savings account,976,976.0,976.0,0.0,1.0
+"Block, Inc.",Credit card,964,918.0,964.0,46.0,0.9522821576763485
+"Paypal Holdings, Inc",Credit card,892,892.0,892.0,0.0,1.0
+AMERICAN EXPRESS COMPANY,Checking or savings account,882,872.0,882.0,10.0,0.9886621315192744
+Netspend Corporation,Checking or savings account,859,850.0,859.0,9.0,0.989522700814901
+UNITED SERVICES AUTOMOBILE ASSOCIATION,Credit card,833,833.0,833.0,0.0,1.0
+M&T BANK CORPORATION,Checking or savings account,816,816.0,816.0,0.0,1.0
+"Credit Karma, LLC",Checking or savings account,762,750.0,762.0,12.0,0.984251968503937
+"Affirm Holdings, Inc",Credit card,710,710.0,710.0,0.0,1.0
+"Avant Holding Company, Inc.",Credit card,703,700.0,703.0,3.0,0.9957325746799431
+MORGAN STANLEY & CO. LLC,Checking or savings account,697,694.0,697.0,3.0,0.9956958393113343
+ROBINHOOD MARKETS INC.,Credit card,684,670.0,684.0,14.0,0.97953216374269
+"Continental Finance Company, LLC",Credit card,669,669.0,669.0,0.0,1.0
+Self Financial Inc.,Credit card,656,652.0,656.0,4.0,0.9939024390243902
+Comerica,Checking or savings account,642,642.0,642.0,0.0,1.0
+DISCOVER BANK,Checking or savings account,634,634.0,634.0,0.0,1.0
+TRUIST FINANCIAL CORPORATION,Credit card,617,617.0,617.0,0.0,1.0
+"Bilt Technologies, Inc.",Credit card,589,475.0,589.0,114.0,0.8064516129032258
+FIRST NATIONAL BANK OF OMAHA,Credit card,566,564.0,566.0,2.0,0.9964664310954063
+Resurgent Capital Services L.P.,Credit card,535,535.0,535.0,0.0,1.0
+"CHARLES SCHWAB CORPORATION, THE",Checking or savings account,493,491.0,493.0,2.0,0.9959432048681541
+SYNCHRONY FINANCIAL,Checking or savings account,493,489.0,493.0,4.0,0.9918864097363083
+Klarna AB,Credit card,470,435.0,470.0,35.0,0.925531914893617
+PNC Bank N.A.,Credit card,467,467.0,467.0,0.0,1.0
+ENCORE CAPITAL GROUP INC.,Credit card,447,447.0,447.0,0.0,1.0
+Synovus Bank,Credit card,398,398.0,398.0,0.0,1.0
+FIRST PORTFOLIO SERVICING INC,Credit card,375,375.0,375.0,0.0,1.0
+"WEBSTER BANK, NATIONAL ASSOCIATION",Checking or savings account,357,356.0,357.0,1.0,0.9971988795518207
+"Imprint Payments, Inc.",Credit card,354,128.0,354.0,226.0,0.3615819209039548
+OneMain Finance Corporation,Credit card,348,348.0,348.0,0.0,1.0
+"AXOS FINANCIAL, INC.",Checking or savings account,339,339.0,339.0,0.0,1.0
+"OPTUM BANK, INC.",Checking or savings account,338,328.0,338.0,10.0,0.9704142011834319
+"SOFI TECHNOLOGIES, INC.",Credit card,338,338.0,338.0,0.0,1.0
+MoneyLion Inc.,Checking or savings account,331,329.0,331.0,2.0,0.9939577039274925
+BMO BANK NATIONAL ASSOCIATION,Credit card,308,308.0,308.0,0.0,1.0
+"FIRST CITIZENS BANCSHARES, INC.",Checking or savings account,306,306.0,306.0,0.0,1.0
+PENTAGON FEDERAL CREDIT UNION,Checking or savings account,291,291.0,291.0,0.0,1.0
+"Relay Financial (US), Corp.",Checking or savings account,284,217.0,284.0,67.0,0.7640845070422535
+Experian Information Solutions Inc.,Checking or savings account,268,268.0,268.0,0.0,1.0
+NEW YORK COMMUNITY BANCORP INC,Checking or savings account,266,264.0,266.0,2.0,0.9924812030075187
+"CITIZENS FINANCIAL GROUP, INC.",Credit card,263,263.0,263.0,0.0,1.0
+FIFTH THIRD FINANCIAL CORPORATION,Credit card,261,261.0,261.0,0.0,1.0
+FIRST HORIZON BANK,Checking or savings account,261,261.0,261.0,0.0,1.0
+"UPGRADE, INC.",Checking or savings account,261,261.0,261.0,0.0,1.0
+"Portfolio Recovery Associates, LLC",Credit card,259,247.0,259.0,12.0,0.9536679536679536
+FinCo Services Inc DBA Current,Credit card,250,211.0,250.0,39.0,0.844
+HSBC NORTH AMERICA HOLDINGS INC.,Checking or savings account,243,243.0,243.0,0.0,1.0
+PENTAGON FEDERAL CREDIT UNION,Credit card,242,242.0,242.0,0.0,1.0
+"Dave Operating, LLC",Checking or savings account,238,229.0,238.0,9.0,0.9621848739495799
+SUNCOAST CREDIT UNION,Checking or savings account,229,229.0,229.0,0.0,1.0
+BARCLAYS BANK DELAWARE,Checking or savings account,225,225.0,225.0,0.0,1.0
+Kikoff Inc.,Credit card,220,220.0,220.0,0.0,1.0
+FISERV FINXACT CORE,Checking or savings account,218,218.0,218.0,0.0,1.0
+VYSTAR CREDIT UNION,Checking or savings account,211,211.0,211.0,0.0,1.0
+ALLY FINANCIAL INC.,Credit card,209,209.0,209.0,0.0,1.0
+STATE EMPLOYEES’ CREDIT UNION,Checking or savings account,209,207.0,209.0,2.0,0.9904306220095693
+"TRANSUNION INTERMEDIATE HOLDINGS, INC.",Checking or savings account,182,182.0,182.0,0.0,1.0
+"GOLDEN 1 CREDIT UNION, THE",Checking or savings account,181,181.0,181.0,0.0,1.0
+"UPGRADE, INC.",Credit card,181,180.0,181.0,1.0,0.994475138121547
+BOEING EMPLOYEES' CREDIT UNION,Checking or savings account,180,179.0,180.0,1.0,0.9944444444444445
+"Mercury Technologies, Inc.",Checking or savings account,180,178.0,180.0,2.0,0.9888888888888889
+RANDOLPH-BROOKS FEDERAL CREDIT UNION,Checking or savings account,180,179.0,180.0,1.0,0.9944444444444445
+"PINNACLE FINANCIAL PARTNERS, INC.",Credit card,179,179.0,179.0,0.0,1.0
+"Prosper Marketplace, Inc.",Credit card,179,179.0,179.0,0.0,1.0
+TransferWise Ltd,Checking or savings account,179,178.0,179.0,1.0,0.994413407821229
+Mercury Financial Intermediate LLC,Credit card,178,177.0,178.0,1.0,0.9943820224719101
+"CULLEN/FROST BANKERS, INC.",Checking or savings account,177,175.0,177.0,2.0,0.9887005649717514
+Army and Air Force Exchange Service,Credit card,174,174.0,174.0,0.0,1.0
+"ARVEST BANK GROUP, INC.",Checking or savings account,170,170.0,170.0,0.0,1.0
+Albert Corporation,Checking or savings account,170,170.0,170.0,0.0,1.0
+"EQUIFAX, INC.",Checking or savings account,169,169.0,169.0,0.0,1.0
+Winklevoss Exchange LLC,Credit card,169,166.0,169.0,3.0,0.9822485207100592
+MOUNTAIN AMERICA FEDERAL CREDIT UNION,Checking or savings account,165,165.0,165.0,0.0,1.0
+ZIONS BANCORPORATION,Checking or savings account,163,163.0,163.0,0.0,1.0
+CL Holdings LLC,Credit card,160,160.0,160.0,0.0,1.0
+"SANTANDER HOLDINGS USA, INC.",Credit card,159,159.0,159.0,0.0,1.0
+HSBC NORTH AMERICA HOLDINGS INC.,Credit card,158,158.0,158.0,0.0,1.0
+Revolut Technologies Inc.,Checking or savings account,158,156.0,158.0,2.0,0.9873417721518988
+"Branch Messenger, Inc.",Checking or savings account,156,156.0,156.0,0.0,1.0
+ADP Inc.,Checking or savings account,155,149.0,155.0,6.0,0.9612903225806452
+Exto Inc.,Credit card,152,150.0,152.0,2.0,0.9868421052631579
+FIRST TECHNOLOGY FEDERAL CREDIT UNION,Checking or savings account,149,149.0,149.0,0.0,1.0
+KEYCORP,Credit card,146,146.0,146.0,0.0,1.0
+ALLIANT CREDIT UNION,Checking or savings account,145,145.0,145.0,0.0,1.0
+"EVERBANK, NATIONAL ASSOCIATION",Checking or savings account,142,138.0,142.0,4.0,0.971830985915493
+ASSOCIATED BANC-CORP,Checking or savings account,140,140.0,140.0,0.0,1.0
+CapitalJ Inc. dba Juno,Checking or savings account,136,118.0,136.0,18.0,0.8676470588235294
+"Colony Brands, Inc.",Credit card,135,134.0,135.0,1.0,0.9925925925925926
+REGIONS FINANCIAL CORPORATION,Credit card,134,134.0,134.0,0.0,1.0
+OLD NATIONAL BANCORP,Checking or savings account,133,132.0,133.0,1.0,0.9924812030075187
+FourLeaf Federal Credit Union,Checking or savings account,126,125.0,126.0,1.0,0.9920634920634921
+FULTON FINANCIAL CORPORATION,Checking or savings account,123,123.0,123.0,0.0,1.0
+"HUNTINGTON NATIONAL BANK, THE",Credit card,122,122.0,122.0,0.0,1.0
+UMB FINANCIAL CORPORATION,Checking or savings account,122,121.0,122.0,1.0,0.9918032786885246
+FIRST NATIONAL BANK OF OMAHA,Checking or savings account,121,121.0,121.0,0.0,1.0
+FIRST NATIONAL BANK OF PENNSYLVANIA,Checking or savings account,121,121.0,121.0,0.0,1.0
+BANCO POPULAR DE PUERTO RICO,Checking or savings account,120,120.0,120.0,0.0,1.0
+"Sparrow Financial, Inc.",Credit card,118,118.0,118.0,0.0,1.0
+Novo Platform Inc.,Checking or savings account,117,42.0,117.0,75.0,0.358974358974359
+"Sunbit, Inc.",Credit card,115,114.0,115.0,1.0,0.991304347826087
+AMERICA FIRST FEDERAL CREDIT UNION,Checking or savings account,114,104.0,114.0,10.0,0.9122807017543859
+"Affirm Holdings, Inc",Checking or savings account,113,113.0,113.0,0.0,1.0
+COMMERCE BANK,Checking or savings account,113,111.0,113.0,2.0,0.9823008849557522
+"Skrill USA, Inc.",Checking or savings account,111,111.0,111.0,0.0,1.0
+VALLEY NATIONAL BANCORP,Checking or savings account,109,101.0,109.0,8.0,0.926605504587156
+Comerica,Credit card,108,108.0,108.0,0.0,1.0
+HANCOCK WHITNEY BANK,Checking or savings account,102,101.0,102.0,1.0,0.9901960784313726
+SOUTHSTATE BANK CORPORATION,Checking or savings account,102,102.0,102.0,0.0,1.0
+"TEXAS CAPITAL BANCSHARES, INC.",Checking or savings account,102,102.0,102.0,0.0,1.0
+CADENCE BANK,Checking or savings account,101,101.0,101.0,0.0,1.0
+Sezzle Inc.,Credit card,96,96.0,96.0,0.0,1.0
+"Coinbase, Inc.",Checking or savings account,91,91.0,91.0,0.0,1.0
+Self Financial Inc.,Checking or savings account,90,90.0,90.0,0.0,1.0
+"Bread Financial Holdings, Inc.",Checking or savings account,88,88.0,88.0,0.0,1.0
+M&T BANK CORPORATION,Credit card,88,88.0,88.0,0.0,1.0
+MIDFIRST BANK,Checking or savings account,88,88.0,88.0,0.0,1.0
+"BANK OF NEW YORK MELLON CORPORATION, THE",Checking or savings account,87,78.0,87.0,9.0,0.896551724137931
+"Coinbase, Inc.",Credit card,87,84.0,87.0,3.0,0.9655172413793104
+Synovus Bank,Checking or savings account,84,84.0,84.0,0.0,1.0
+ALLIANT CREDIT UNION,Credit card,80,80.0,80.0,0.0,1.0
+"COLUMBIA BANKING SYSTEM, INC.",Checking or savings account,80,80.0,80.0,0.0,1.0
+Google Compare Credit Cards Inc.,Credit card,80,80.0,80.0,0.0,1.0
+"ACIMA CREDIT, LLC",Credit card,79,79.0,79.0,0.0,1.0
+BANK OZK,Checking or savings account,79,79.0,79.0,0.0,1.0
+"Marlette Funding, LLC",Credit card,79,78.0,79.0,1.0,0.9873417721518988
+BOK FINANCIAL CORP,Checking or savings account,78,78.0,78.0,0.0,1.0
+Zip Co US Inc.,Credit card,78,74.0,78.0,4.0,0.9487179487179487
+TomoCredit Inc.,Credit card,77,67.0,77.0,10.0,0.8701298701298701
+Netspend Corporation,Credit card,76,76.0,76.0,0.0,1.0
+SUNCOAST CREDIT UNION,Credit card,76,76.0,76.0,0.0,1.0
+WSFS FINANCIAL CORPORATION,Checking or savings account,76,76.0,76.0,0.0,1.0
+Acorns Grow Incorporated,Checking or savings account,75,75.0,75.0,0.0,1.0
+SCHOOLSFIRST FEDERAL CREDIT UNION,Checking or savings account,74,74.0,74.0,0.0,1.0
+"Atlantic Union Bankshares, Inc.",Checking or savings account,70,70.0,70.0,0.0,1.0
+First Technology Federal Credit Union,Checking or savings account,69,69.0,69.0,0.0,1.0
+AMERIS BANCORP,Checking or savings account,68,68.0,68.0,0.0,1.0
+FIRST TECHNOLOGY FEDERAL CREDIT UNION,Credit card,68,67.0,68.0,1.0,0.9852941176470589
+"Ava Finance, Inc",Credit card,66,62.0,66.0,4.0,0.9393939393939394
+"Credit Karma, LLC",Credit card,66,64.0,66.0,2.0,0.9696969696969697
+EAST WEST BANK,Checking or savings account,65,64.0,65.0,1.0,0.9846153846153847
+"PROSPERITY BANCSHARES, INC.",Checking or savings account,65,65.0,65.0,0.0,1.0
+BANK OF HAWAII CORPORATION,Checking or savings account,64,63.0,64.0,1.0,0.984375
+COMMERCE BANK,Credit card,64,63.0,64.0,1.0,0.984375
+FISERV FINXACT CORE,Credit card,64,64.0,64.0,0.0,1.0
+BOEING EMPLOYEES' CREDIT UNION,Credit card,62,62.0,62.0,0.0,1.0
+RENASANT CORPORATION,Checking or savings account,62,62.0,62.0,0.0,1.0
+GLOBAL CREDIT UNION,Checking or savings account,61,61.0,61.0,0.0,1.0
+Conduent Incorporated,Checking or savings account,59,27.0,59.0,32.0,0.4576271186440678
+SIMMONS FIRST NATIONAL CORPORATION,Checking or savings account,58,55.0,58.0,3.0,0.9482758620689655
+"Tilt Finance, Inc.",Credit card,58,57.0,58.0,1.0,0.9827586206896551
+"Perpay, Inc.",Credit card,56,56.0,56.0,0.0,1.0
+STATE EMPLOYEES’ CREDIT UNION,Credit card,56,53.0,56.0,3.0,0.9464285714285714
+HEARTLAND PAYMENT SYSTEMS INC,Credit card,55,54.0,55.0,1.0,0.9818181818181818
+TRUSTMARK CORPORATION,Checking or savings account,54,54.0,54.0,0.0,1.0
+"PINNACLE FINANCIAL PARTNERS, INC.",Checking or savings account,53,53.0,53.0,0.0,1.0
+NBT BANCORP INC.,Checking or savings account,51,51.0,51.0,0.0,1.0
+UMB FINANCIAL CORPORATION,Credit card,51,49.0,51.0,2.0,0.9607843137254902
+WAFD BANK,Checking or savings account,51,51.0,51.0,0.0,1.0
+"COMMUNITY FINANCIAL SYSTEM, INC.",Checking or savings account,49,49.0,49.0,0.0,1.0
+Klarna AB,Checking or savings account,49,46.0,49.0,3.0,0.9387755102040817
+CARD Corporation,Checking or savings account,48,37.0,48.0,11.0,0.7708333333333334
+BEACON FINANCIAL CORPORATION,Checking or savings account,47,45.0,47.0,2.0,0.9574468085106383
+FIRST COMMONWEALTH FINANCIAL CORPORATION,Checking or savings account,47,47.0,47.0,0.0,1.0
+"UNITED BANKSHARES, INC.",Checking or savings account,47,46.0,47.0,1.0,0.9787234042553191
+FIRST MERCHANTS CORPORATION,Checking or savings account,46,45.0,46.0,1.0,0.9782608695652174
+MOUNTAIN AMERICA FEDERAL CREDIT UNION,Credit card,46,46.0,46.0,0.0,1.0
+"Majority USA, LLC",Checking or savings account,46,42.0,46.0,4.0,0.9130434782608695
+VYSTAR CREDIT UNION,Credit card,46,46.0,46.0,0.0,1.0
+"B9, Inc.",Checking or savings account,45,42.0,45.0,3.0,0.9333333333333333
+"DailyPay, Inc",Checking or savings account,45,42.0,45.0,3.0,0.9333333333333333
+NORTHWEST BANCSHARES INC,Checking or savings account,45,45.0,45.0,0.0,1.0
+SECURITY SERVICE FEDERAL CREDIT UNION,Checking or savings account,44,44.0,44.0,0.0,1.0
+"WESBANCO BANK, INC.",Checking or savings account,44,39.0,44.0,5.0,0.8863636363636364
+FIRSTBANK PUERTO RICO,Checking or savings account,43,43.0,43.0,0.0,1.0
+OFG BANCORP,Checking or savings account,43,43.0,43.0,0.0,1.0
+FIRSTBANK,Checking or savings account,41,41.0,41.0,0.0,1.0
+"FIRST HAWAIIAN, INC.",Checking or savings account,40,40.0,40.0,0.0,1.0
+Payfare International Inc.,Checking or savings account,40,40.0,40.0,0.0,1.0
+SAN DIEGO COUNTY CREDIT UNION,Checking or savings account,40,40.0,40.0,0.0,1.0
+"GOLDEN 1 CREDIT UNION, THE",Credit card,39,39.0,39.0,0.0,1.0
+RANDOLPH-BROOKS FEDERAL CREDIT UNION,Credit card,39,39.0,39.0,0.0,1.0
+"Spring Oaks Capital, LLC",Credit card,39,39.0,39.0,0.0,1.0
+Incomm Holdings Inc.,Credit card,38,26.0,38.0,12.0,0.6842105263157895
+Betterment LLC,Checking or savings account,37,37.0,37.0,0.0,1.0
+DOLLAR MUTUAL BANCORP,Checking or savings account,37,37.0,37.0,0.0,1.0
+Fidem Baltimore Holdings LLC,Credit card,37,37.0,37.0,0.0,1.0
+Glacier Bancorp Inc.,Checking or savings account,37,36.0,37.0,1.0,0.972972972972973
+"CENTRAL BANCOMPANY, INC",Checking or savings account,36,36.0,36.0,0.0,1.0
+"Capital Accounts, LLC",Credit card,36,0.0,36.0,36.0,0.0
+HEARTLAND PAYMENT SYSTEMS INC,Checking or savings account,36,35.0,36.0,1.0,0.9722222222222222
+Meta Payments Inc.,Credit card,36,35.0,36.0,1.0,0.9722222222222222
+Google Compare Credit Cards Inc.,Checking or savings account,35,35.0,35.0,0.0,1.0
+SEACOAST BANKING CORPORATION OF FLORIDA,Checking or savings account,35,34.0,35.0,1.0,0.9714285714285714
+"APPLE FINANCIAL HOLDINGS, INC.",Checking or savings account,34,34.0,34.0,0.0,1.0
+"FIRST INTERSTATE BANCSYSTEM, INC.",Checking or savings account,34,34.0,34.0,0.0,1.0
+"HOPE BANCORP, INC.",Checking or savings account,34,26.0,34.0,8.0,0.7647058823529411
+MECHANICS BANK,Checking or savings account,34,34.0,34.0,0.0,1.0
+"Total Card, Inc.",Credit card,34,33.0,34.0,1.0,0.9705882352941176
+BANCO POPULAR DE PUERTO RICO,Credit card,33,33.0,33.0,0.0,1.0
+EASTERN BANKSHARES INC,Checking or savings account,33,33.0,33.0,0.0,1.0
+IDAHO CENTRAL CREDIT UNION,Checking or savings account,33,33.0,33.0,0.0,1.0
+INDEPENDENT BANK CORP.,Checking or savings account,33,33.0,33.0,0.0,1.0
+"ENOVA INTERNATIONAL, INC.",Credit card,32,32.0,32.0,0.0,1.0
+"HOME BANCSHARES, INC.",Checking or savings account,32,32.0,32.0,0.0,1.0
+Kovo,Credit card,32,32.0,32.0,0.0,1.0
+AMERICA FIRST FEDERAL CREDIT UNION,Credit card,31,27.0,31.0,4.0,0.8709677419354839
+"GREENSKY OPERATIONS, LLC",Credit card,31,31.0,31.0,0.0,1.0
+Meta Payments Inc.,Checking or savings account,31,31.0,31.0,0.0,1.0
+TRANSWORLD SYSTEMS INC,Credit card,31,31.0,31.0,0.0,1.0
+"Upstart Holdings, Inc.",Credit card,31,31.0,31.0,0.0,1.0
+Kikoff Inc.,Checking or savings account,30,30.0,30.0,0.0,1.0
+LAKE MICHIGAN CREDIT UNION,Checking or savings account,30,30.0,30.0,0.0,1.0
+"LIVE OAK BANCSHARES, INC.",Checking or savings account,30,30.0,30.0,0.0,1.0
+"Foris DAX, Inc.",Checking or savings account,28,25.0,28.0,3.0,0.8928571428571429
+WESTERN ALLIANCE BANCORPORATION,Checking or savings account,28,28.0,28.0,0.0,1.0
+First Technology Federal Credit Union,Credit card,27,27.0,27.0,0.0,1.0
+"Servicing Solutions, LLC",Credit card,27,26.0,27.0,1.0,0.9629629629629629
+Winklevoss Exchange LLC,Checking or savings account,27,27.0,27.0,0.0,1.0
+"ACIMA CREDIT, LLC",Checking or savings account,26,25.0,26.0,1.0,0.9615384615384616
+"CAVALRY INVESTMENTS, LLC",Credit card,26,26.0,26.0,0.0,1.0
+BANCFIRST CORPORATION,Checking or savings account,25,25.0,25.0,0.0,1.0
+BANNER CORPORATION,Checking or savings account,25,25.0,25.0,0.0,1.0
+CHERRY TECHNOLOGIES INC.,Credit card,25,21.0,25.0,4.0,0.84
+Conduent Incorporated,Credit card,25,16.0,25.0,9.0,0.64
+Exto Inc.,Checking or savings account,25,25.0,25.0,0.0,1.0
+"ShoulderTap Technologies, Inc. d/b/a Fizz",Credit card,25,18.0,25.0,7.0,0.72
+UNITED COMMUNITY BANK,Checking or savings account,25,25.0,25.0,0.0,1.0
+"BILL.COM, LLC",Credit card,24,24.0,24.0,0.0,1.0
+CATHAY BANK,Checking or savings account,24,24.0,24.0,0.0,1.0
+"Credit Control, LLC",Credit card,24,24.0,24.0,0.0,1.0
+TOYOTA MOTOR CREDIT CORPORATION,Credit card,24,24.0,24.0,0.0,1.0
+"Tilt Finance, Inc.",Checking or savings account,24,23.0,24.0,1.0,0.9583333333333334
+LEXISNEXIS,Credit card,23,23.0,23.0,0.0,1.0
+ADIR INTERNATIONAL LLC,Credit card,22,21.0,22.0,1.0,0.9545454545454546
+LEXISNEXIS,Checking or savings account,22,22.0,22.0,0.0,1.0
+"PROVIDENT FINANCIAL SERVICES, INC.",Checking or savings account,22,22.0,22.0,0.0,1.0
+Westcreek Financial,Credit card,22,9.0,22.0,13.0,0.4090909090909091
+BUSEY BANK,Checking or savings account,21,21.0,21.0,0.0,1.0
+CREDIT ACCEPTANCE CORPORATION,Credit card,21,21.0,21.0,0.0,1.0
+FIRST UNITED BANK AND TRUST COMPANY,Checking or savings account,21,21.0,21.0,0.0,1.0
+"General Motors Financial Company, Inc.",Credit card,21,21.0,21.0,0.0,1.0
+"Halsted Financial Services, LLC.",Credit card,21,21.0,21.0,0.0,1.0
+"John C. Heath, Attorney at Law, PLLC",Checking or savings account,21,20.0,21.0,1.0,0.9523809523809523
+"Remitly, Inc.",Checking or savings account,21,20.0,21.0,1.0,0.9523809523809523
+"Zendable, Inc.",Credit card,21,21.0,21.0,0.0,1.0
+"CBC Companies, Inc.",Credit card,20,20.0,20.0,0.0,1.0
+FIRST FINANCIAL BANCORP,Checking or savings account,20,20.0,20.0,0.0,1.0
+OPORTUN FINANCIAL CORPORATION,Checking or savings account,20,20.0,20.0,0.0,1.0
+"Prog Holdings, Inc.",Credit card,20,13.0,20.0,7.0,0.65
+SLM CORPORATION,Checking or savings account,20,20.0,20.0,0.0,1.0
+"ARVEST BANK GROUP, INC.",Credit card,19,19.0,19.0,0.0,1.0
+CIBC BANCORP USA INC.,Checking or savings account,19,19.0,19.0,0.0,1.0
+"FIRST CITIZENS BANCSHARES, INC.",Credit card,19,19.0,19.0,0.0,1.0
+"Fidelity National Information Services, Inc. (FNIS)",Credit card,19,19.0,19.0,0.0,1.0
+Radius Global Solutions LLC,Credit card,19,19.0,19.0,0.0,1.0
+SCHOOLSFIRST FEDERAL CREDIT UNION,Credit card,19,19.0,19.0,0.0,1.0
+"WESTERN UNION COMPANY, THE",Checking or savings account,19,19.0,19.0,0.0,1.0
+Absolute Resolutions Corp.,Credit card,18,18.0,18.0,0.0,1.0
+"Foris DAX, Inc.",Credit card,18,17.0,18.0,1.0,0.9444444444444444
+Indie Technology DBA Found,Checking or savings account,18,18.0,18.0,0.0,1.0
+"Westlake Services, LLC",Credit card,18,18.0,18.0,0.0,1.0
+"Aqua Finance, Inc.",Credit card,17,17.0,17.0,0.0,1.0
+"Branch Messenger, Inc.",Credit card,17,17.0,17.0,0.0,1.0
+"CCS Financial Services, Inc.",Credit card,17,13.0,17.0,4.0,0.7647058823529411
+"Capital Accounts, LLC",Checking or savings account,17,0.0,17.0,17.0,0.0
+Credit Corp Solutions Inc.,Credit card,17,17.0,17.0,0.0,1.0
+Velocity Portfolio Group,Credit card,17,17.0,17.0,0.0,1.0
+Activehours,Checking or savings account,16,16.0,16.0,0.0,1.0
+"Early Warning Services, LLC",Credit card,16,16.0,16.0,0.0,1.0
+FIRST HORIZON BANK,Credit card,16,16.0,16.0,0.0,1.0
+"I.C. System, Inc.",Credit card,16,16.0,16.0,0.0,1.0
+MoneyLion Inc.,Credit card,16,16.0,16.0,0.0,1.0
+OPORTUN FINANCIAL CORPORATION,Credit card,16,16.0,16.0,0.0,1.0
+"OPTUM BANK, INC.",Credit card,16,16.0,16.0,0.0,1.0
+Revolut Technologies Inc.,Credit card,16,16.0,16.0,0.0,1.0
+WEALTHFRONT CORPORATION,Checking or savings account,16,16.0,16.0,0.0,1.0
+Bright Capital Inc,Checking or savings account,15,14.0,15.0,1.0,0.9333333333333333
+DigniFi,Credit card,15,14.0,15.0,1.0,0.9333333333333333
+"FIRST FINANCIAL BANKSHARES, INC.",Checking or savings account,15,15.0,15.0,0.0,1.0
+"Greenlight Financial Technology, Inc",Checking or savings account,15,15.0,15.0,0.0,1.0
+"Jim Bottin Enterprises, Inc",Checking or savings account,15,13.0,15.0,2.0,0.8666666666666667
+Lincoln Financial Services,Checking or savings account,15,0.0,15.0,15.0,0.0
+M1 Holdings Inc.,Checking or savings account,15,15.0,15.0,0.0,1.0
+OCEANFIRST FINANCIAL CORP.,Checking or savings account,15,15.0,15.0,0.0,1.0
+"Snap US Holdings, LLC",Credit card,15,7.0,15.0,8.0,0.4666666666666667
+The Aligned Company DBA Extra,Credit card,15,15.0,15.0,0.0,1.0
+TrueAccord Corp.,Credit card,15,14.0,15.0,1.0,0.9333333333333333
+"BANKMOBILE TECHNOLOGIES, INC",Checking or savings account,14,14.0,14.0,0.0,1.0
+Blackhawk Network Holdings Inc.,Credit card,14,14.0,14.0,0.0,1.0
+"FIDELITY CAPITAL HOLDINGS, INC",Checking or savings account,14,0.0,14.0,14.0,0.0
+FourLeaf Federal Credit Union,Credit card,14,14.0,14.0,0.0,1.0
+"John C. Heath, Attorney at Law, PLLC",Credit card,14,13.0,14.0,1.0,0.9285714285714286
+Newport Intermediate Inc.,Credit card,14,14.0,14.0,0.0,1.0
+Payward Ventures Inc. dba Kraken,Checking or savings account,14,5.0,14.0,9.0,0.35714285714285715
+SLM CORPORATION,Credit card,14,14.0,14.0,0.0,1.0
+"Security Credit Services, LLC",Credit card,14,14.0,14.0,0.0,1.0
+Bridgecrest Acceptance Corporation,Credit card,13,13.0,13.0,0.0,1.0
+"CLGF Holdco 1, LLC",Checking or savings account,13,13.0,13.0,0.0,1.0
+"FIRST INTERSTATE BANCSYSTEM, INC.",Credit card,13,13.0,13.0,0.0,1.0
+FIRSTBANK PUERTO RICO,Credit card,13,13.0,13.0,0.0,1.0
+"Firstsource Business Process Services, LLC",Credit card,13,13.0,13.0,0.0,1.0
+GREENSTATE CREDIT UNION,Checking or savings account,13,13.0,13.0,0.0,1.0
+"Kriya Capital, LLC",Credit card,13,13.0,13.0,0.0,1.0
+"Lanier Law Firm, LLC",Checking or savings account,13,0.0,13.0,13.0,0.0
+Monterey Financial Services LLC,Credit card,13,13.0,13.0,0.0,1.0
+NEW YORK COMMUNITY BANCORP INC,Credit card,13,13.0,13.0,0.0,1.0
+"Nav Technologies, Inc.",Checking or savings account,13,13.0,13.0,0.0,1.0
+"Propel, Inc.",Checking or savings account,13,8.0,13.0,5.0,0.6153846153846154
+"STATE BANKSHARES, INC.",Checking or savings account,13,13.0,13.0,0.0,1.0
+"SUNRISE CREDIT SERVICES, INC",Credit card,13,13.0,13.0,0.0,1.0
+ADP Inc.,Credit card,12,12.0,12.0,0.0,1.0
+AMERICAN HONDA FINANCE CORP,Credit card,12,12.0,12.0,0.0,1.0
+"American First Finance, Inc.",Credit card,12,12.0,12.0,0.0,1.0
+"CAINE & WEINER COMPANY, INC.",Credit card,12,10.0,12.0,2.0,0.8333333333333334
+"CHARLES SCHWAB CORPORATION, THE",Credit card,12,12.0,12.0,0.0,1.0
+"CUSTOMERS BANCORP, INC",Checking or savings account,12,12.0,12.0,0.0,1.0
+"EAGLE BANCORP, INC.",Checking or savings account,12,12.0,12.0,0.0,1.0
+"FIRST HAWAIIAN, INC.",Credit card,12,12.0,12.0,0.0,1.0
+Grow Credit Inc,Credit card,12,12.0,12.0,0.0,1.0
+Incomm Holdings Inc.,Checking or savings account,12,8.0,12.0,4.0,0.6666666666666666
+"Nelnet, Inc.",Credit card,12,12.0,12.0,0.0,1.0
+OneMain Finance Corporation,Checking or savings account,12,12.0,12.0,0.0,1.0
+PREFERRED CREDIT INC,Credit card,12,12.0,12.0,0.0,1.0
+"PatientFi, Inc.",Credit card,12,12.0,12.0,0.0,1.0
+TOWNEBANK,Checking or savings account,12,12.0,12.0,0.0,1.0
+"Tesla, Inc.",Credit card,12,8.0,12.0,4.0,0.6666666666666666
+Yamaha Motor Finance Corporation USA,Credit card,12,12.0,12.0,0.0,1.0
+CITY NATIONAL BANK,Credit card,11,11.0,11.0,0.0,1.0
+"Certegy Holdings, LLC",Checking or savings account,11,11.0,11.0,0.0,1.0
+ENTERPRISE FINANCIAL SERVICES CORP,Checking or savings account,11,11.0,11.0,0.0,1.0
+"Exeter Finance, LLC.",Credit card,11,11.0,11.0,0.0,1.0
+"Mercury Technologies, Inc.",Credit card,11,11.0,11.0,0.0,1.0
+Possible Financial Inc,Credit card,11,11.0,11.0,0.0,1.0
+"Rowland Avenue Management, Inc. A/KA Columbia Debt Recovery, LLC d/b/a Genesis",Credit card,11,11.0,11.0,0.0,1.0
+"TradeStation Group, Inc.",Checking or savings account,11,11.0,11.0,0.0,1.0
+"Ava Finance, Inc",Checking or savings account,10,10.0,10.0,0.0,1.0
+"Bridge IT, Inc.",Checking or savings account,10,10.0,10.0,0.0,1.0
+CADENCE BANK,Credit card,10,10.0,10.0,0.0,1.0
+DOLLAR MUTUAL BANCORP,Credit card,10,10.0,10.0,0.0,1.0
+FIRST FOUNDATION INC.,Checking or savings account,10,5.0,10.0,5.0,0.5
+FORD MOTOR CREDIT CO.,Credit card,10,10.0,10.0,0.0,1.0
+"Flexible Finance, Inc.",Checking or savings account,10,10.0,10.0,0.0,1.0
+HYUNDAI CAPITAL AMERICA,Credit card,10,10.0,10.0,0.0,1.0
+"MARINER FINANCE, LLC",Credit card,10,10.0,10.0,0.0,1.0
+MIDFIRST BANK,Credit card,10,10.0,10.0,0.0,1.0
+Newport Intermediate Inc.,Checking or savings account,10,10.0,10.0,0.0,1.0
+"Paramount GR Holdings, LLC",Checking or savings account,10,10.0,10.0,0.0,1.0
+"Paramount GR Holdings, LLC",Credit card,10,10.0,10.0,0.0,1.0
+"SANDY SPRING BANCORP, INC.",Checking or savings account,10,10.0,10.0,0.0,1.0
+SECURITY SERVICE FEDERAL CREDIT UNION,Credit card,10,10.0,10.0,0.0,1.0
+Sezzle Inc.,Checking or savings account,10,10.0,10.0,0.0,1.0
+UBS BANK USA,Credit card,10,10.0,10.0,0.0,1.0
+ZIONS BANCORPORATION,Credit card,10,10.0,10.0,0.0,1.0
+"BANC OF CALIFORNIA, INC.",Checking or savings account,9,9.0,9.0,0.0,1.0
+"BANK OF NEW YORK MELLON CORPORATION, THE",Credit card,9,9.0,9.0,0.0,1.0
+"BANKUNITED, NATIONAL ASSOCIATION",Checking or savings account,9,9.0,9.0,0.0,1.0
+"BCI FINANCIAL GROUP, INC.",Checking or savings account,9,9.0,9.0,0.0,1.0
+"BILL.COM, LLC",Checking or savings account,9,9.0,9.0,0.0,1.0
+CITY NATIONAL BANK,Checking or savings account,9,9.0,9.0,0.0,1.0
+"Capstone Capital USA, LLC",Credit card,9,0.0,9.0,9.0,0.0
+Concord Servicing Corporation,Credit card,9,9.0,9.0,0.0,1.0
+"DIME COMMUNITY BANCSHARES, INC.",Checking or savings account,9,9.0,9.0,0.0,1.0
+"Ingo Money, Inc.",Checking or savings account,9,8.0,9.0,1.0,0.8888888888888888
+"Mercari, Inc.",Credit card,9,9.0,9.0,0.0,1.0
+Mercedes Benz Financial Services,Credit card,9,9.0,9.0,0.0,1.0
+"NEU Money, Inc.",Credit card,9,9.0,9.0,0.0,1.0
+STATE STREET BANK AND TRUST COMPANY,Checking or savings account,9,9.0,9.0,0.0,1.0
+Servicer under contract with Federal Student Aid,Credit card,9,0.0,9.0,9.0,0.0
+"Shellpoint Partners, LLC",Credit card,9,9.0,9.0,0.0,1.0
+TFS FINANCIAL CORPORATION,Checking or savings account,9,9.0,9.0,0.0,1.0
+"TRUEBILL, INC",Checking or savings account,9,9.0,9.0,0.0,1.0
+Washington Trust Bank Financial Corporation,Checking or savings account,9,9.0,9.0,0.0,1.0
+ZWICKER & ASSOCIATES,Credit card,9,9.0,9.0,0.0,1.0
+BANKERS HEALTHCARE GROUP LLC,Credit card,8,8.0,8.0,0.0,1.0
+"Blitt and Gaines, P.C.",Credit card,8,8.0,8.0,0.0,1.0
+CRED Technologies dba cred.ai,Credit card,8,7.0,8.0,1.0,0.875
+"ENOVA INTERNATIONAL, INC.",Checking or savings account,8,8.0,8.0,0.0,1.0
+GENWORTH FINANCIAL INC.,Checking or savings account,8,8.0,8.0,0.0,1.0
+GREENSTATE CREDIT UNION,Credit card,8,8.0,8.0,0.0,1.0
+"INDUSTRIAL AND COMMERCIAL BANK OF CHINA (USA), NATIONAL ASSOCIATION",Checking or savings account,8,8.0,8.0,0.0,1.0
+MONEYGRAM PAYMENT SYSTEMS WORLDWIDE INC,Checking or savings account,8,8.0,8.0,0.0,1.0
+"NEXBANK CAPITAL, INC.",Checking or savings account,8,8.0,8.0,0.0,1.0
+"National Credit Adjusters, LLC",Credit card,8,8.0,8.0,0.0,1.0
+"Perpay, Inc.",Checking or savings account,8,8.0,8.0,0.0,1.0
+"RBC BANK (GEORGIA), NATIONAL ASSOCIATION",Checking or savings account,8,8.0,8.0,0.0,1.0
+Resurgent Capital Services L.P.,Checking or savings account,8,8.0,8.0,0.0,1.0
+"Shellpoint Partners, LLC",Checking or savings account,8,8.0,8.0,0.0,1.0
+"Southwest Credit Systems, L.P.",Credit card,8,8.0,8.0,0.0,1.0
+TransferWise Ltd,Credit card,8,7.0,8.0,1.0,0.875
+"Avant Holding Company, Inc.",Checking or savings account,7,7.0,7.0,0.0,1.0
+BURKE & HERBERT FINANCIAL SERVICES CORP.,Checking or savings account,7,7.0,7.0,0.0,1.0
+CVB FINANCIAL CORP.,Checking or savings account,7,7.0,7.0,0.0,1.0
+"Capital Management Services, LP",Credit card,7,7.0,7.0,0.0,1.0
+"Carvana Group, LLC",Checking or savings account,7,7.0,7.0,0.0,1.0
+Credit Fresh Holdings Inc,Credit card,7,7.0,7.0,0.0,1.0
+Creditly Corp.,Checking or savings account,7,7.0,7.0,0.0,1.0
+"Dave Operating, LLC",Credit card,7,7.0,7.0,0.0,1.0
+EdFinancial Services,Credit card,7,7.0,7.0,0.0,1.0
+FB FINANCIAL CORPORATION,Checking or savings account,7,7.0,7.0,0.0,1.0
+"Fold, Inc.",Checking or savings account,7,7.0,7.0,0.0,1.0
+GLOBAL CREDIT UNION,Credit card,7,7.0,7.0,0.0,1.0
+"Lloyd & McDaniel, PLC",Credit card,7,7.0,7.0,0.0,1.0
+"LoanCare, LLC",Credit card,7,7.0,7.0,0.0,1.0
+MOHELA,Credit card,7,3.0,7.0,4.0,0.42857142857142855
+"Maximus Federal Services, Inc.",Credit card,7,7.0,7.0,0.0,1.0
+McKenzie Management LLC,Checking or savings account,7,0.0,7.0,7.0,0.0
+"Mercari, Inc.",Checking or savings account,7,7.0,7.0,0.0,1.0
+"National Enterprise Systems, Inc.",Credit card,7,7.0,7.0,0.0,1.0
+"NerdWallet, Inc.",Credit card,7,7.0,7.0,0.0,1.0
+SIMMONS FIRST NATIONAL CORPORATION,Credit card,7,7.0,7.0,0.0,1.0
+STATE BANK OF INDIA - NEW YORK BRANCH,Checking or savings account,7,5.0,7.0,2.0,0.7142857142857143
+"The Bureaus, Inc.",Credit card,7,7.0,7.0,0.0,1.0
+TomoCredit Inc.,Checking or savings account,7,7.0,7.0,0.0,1.0
+"Weltman, Weinberg & Reis Co., L.P.A.",Credit card,7,7.0,7.0,0.0,1.0
+"Westlake Services, LLC",Checking or savings account,7,7.0,7.0,0.0,1.0
+Zip Co US Inc.,Checking or savings account,7,7.0,7.0,0.0,1.0
+"ARS National Services, Inc.",Credit card,6,6.0,6.0,0.0,1.0
+Alorica Inc.,Credit card,6,6.0,6.0,0.0,1.0
+Atlanticus Services Corporation,Checking or savings account,6,6.0,6.0,0.0,1.0
+"BMW Financial Services NA, LLC",Credit card,6,6.0,6.0,0.0,1.0
+"Bridge IT, Inc.",Credit card,6,6.0,6.0,0.0,1.0
+CNG FINANCIAL CORPORATION,Credit card,6,6.0,6.0,0.0,1.0
+CREDIT ACCEPTANCE CORPORATION,Checking or savings account,6,6.0,6.0,0.0,1.0
+"CarMax, Inc.",Credit card,6,6.0,6.0,0.0,1.0
+"Conn's, Inc.",Credit card,6,6.0,6.0,0.0,1.0
+Consumer Adjustment Company Incorporated,Credit card,6,6.0,6.0,0.0,1.0
+"Credit Sesame, Inc.",Checking or savings account,6,6.0,6.0,0.0,1.0
+"Crown Asset Management, LLC, Duluth, GA Branch",Credit card,6,5.0,6.0,1.0,0.8333333333333334
+ENCORE CAPITAL GROUP INC.,Checking or savings account,6,6.0,6.0,0.0,1.0
+"General Motors Financial Company, Inc.",Checking or savings account,6,6.0,6.0,0.0,1.0
+"Greenlight Financial Technology, Inc",Credit card,6,6.0,6.0,0.0,1.0
+HANCOCK WHITNEY BANK,Credit card,6,6.0,6.0,0.0,1.0
+"HILLTOP HOLDINGS, INC",Checking or savings account,6,6.0,6.0,0.0,1.0
+"Hatfield, Inc.",Checking or savings account,6,6.0,6.0,0.0,1.0
+Healthcare Finance Direct LLC.,Credit card,6,6.0,6.0,0.0,1.0
+"INDEPENDENT BANK GROUP, INC.",Checking or savings account,6,6.0,6.0,0.0,1.0
+"Jim Bottin Enterprises, Inc",Credit card,6,6.0,6.0,0.0,1.0
+NISSAN MOTOR ACCEPTANCE COMPANY LLC,Credit card,6,6.0,6.0,0.0,1.0
+"Northern Trust Company, The",Checking or savings account,6,5.0,6.0,1.0,0.8333333333333334
+"PACIFIC PREMIER BANCORP, INC.",Checking or savings account,6,6.0,6.0,0.0,1.0
+PLAID INC.,Checking or savings account,6,6.0,6.0,0.0,1.0
+"Payactiv, Inc.",Checking or savings account,6,4.0,6.0,2.0,0.6666666666666666
+"Portfolio Recovery Associates, LLC",Checking or savings account,6,6.0,6.0,0.0,1.0
+Rausch Sturm LLP,Credit card,6,6.0,6.0,0.0,1.0
+"Remitly, Inc.",Credit card,6,6.0,6.0,0.0,1.0
+Rosebud Economic Development Corporation,Credit card,6,5.0,6.0,1.0,0.8333333333333334
+STELLAR BANCORP INC.,Checking or savings account,6,6.0,6.0,0.0,1.0
+"Skrill USA, Inc.",Credit card,6,6.0,6.0,0.0,1.0
+SoLo Funds Inc.,Checking or savings account,6,6.0,6.0,0.0,1.0
+TOYOTA MOTOR CREDIT CORPORATION,Checking or savings account,6,6.0,6.0,0.0,1.0
+"Tesla, Inc.",Checking or savings account,6,6.0,6.0,0.0,1.0
+UBS BANK USA,Checking or savings account,6,6.0,6.0,0.0,1.0
+Unifin Inc.,Credit card,6,6.0,6.0,0.0,1.0
+"United Shore Financial Services, LLC",Credit card,6,6.0,6.0,0.0,1.0
+WSFS FINANCIAL CORPORATION,Credit card,6,6.0,6.0,0.0,1.0
+eToro USA LLC,Checking or savings account,6,6.0,6.0,0.0,1.0
+Apple Financing LLC,Credit card,5,5.0,5.0,0.0,1.0
+Army and Air Force Exchange Service,Checking or savings account,5,5.0,5.0,0.0,1.0
+"Atlantic Union Bankshares, Inc.",Credit card,5,5.0,5.0,0.0,1.0
+"BYS, LLC. d/b/a Boost Your Score",Credit card,5,5.0,5.0,0.0,1.0
+"Bilt Technologies, Inc.",Checking or savings account,5,4.0,5.0,1.0,0.8
+"Blockchain.com, Inc.",Checking or savings account,5,4.0,5.0,1.0,0.8
+CCF Intermediate Holdings LLC,Checking or savings account,5,5.0,5.0,0.0,1.0
+CL Holdings LLC,Checking or savings account,5,5.0,5.0,0.0,1.0
+"CULLEN/FROST BANKERS, INC.",Credit card,5,4.0,5.0,1.0,0.8
+Chime Inc.,Checking or savings account,5,3.0,5.0,2.0,0.6
+"Diversified Adjustment Service, Inc.",Credit card,5,5.0,5.0,0.0,1.0
+"EGL US, LLC",Credit card,5,5.0,5.0,0.0,1.0
+Everi Payments Inc.,Credit card,5,4.0,5.0,1.0,0.8
+FC HoldCo LLC,Credit card,5,5.0,5.0,0.0,1.0
+FIRST NATIONAL BANK OF PENNSYLVANIA,Credit card,5,5.0,5.0,0.0,1.0
+FLORIDA HOME TRUST MORTGAGE,Checking or savings account,5,3.0,5.0,2.0,0.6
+FORD MOTOR CREDIT CO.,Checking or savings account,5,5.0,5.0,0.0,1.0
+FirstPoint Collection Resources,Credit card,5,5.0,5.0,0.0,1.0
+"Flexible Finance, Inc.",Credit card,5,5.0,5.0,0.0,1.0
+Global Lending Services LLC,Credit card,5,5.0,5.0,0.0,1.0
+Great American Finance Co,Credit card,5,5.0,5.0,0.0,1.0
+"Hatfield, Inc.",Credit card,5,5.0,5.0,0.0,1.0
+IDAHO CENTRAL CREDIT UNION,Credit card,5,5.0,5.0,0.0,1.0
+Lendmark Financial Services,Credit card,5,4.0,5.0,1.0,0.8
+M1 Holdings Inc.,Credit card,5,5.0,5.0,0.0,1.0
+"MRS BPO, LLC",Credit card,5,5.0,5.0,0.0,1.0
+"Monarch Recovery Holdings, Inc.",Credit card,5,5.0,5.0,0.0,1.0
+NATIONAL DEBT RELIEF LLC,Credit card,5,5.0,5.0,0.0,1.0
+"Nav Technologies, Inc.",Credit card,5,5.0,5.0,0.0,1.0
+Novo Platform Inc.,Credit card,5,2.0,5.0,3.0,0.4
+Payfare International Inc.,Credit card,5,4.0,5.0,1.0,0.8
+"Populus Financial Group, Inc. (F/K/A Ace Cash Express)",Checking or savings account,5,5.0,5.0,0.0,1.0
+"RBC BANK (GEORGIA), NATIONAL ASSOCIATION",Credit card,5,4.0,5.0,1.0,0.8
+RC Willey,Credit card,5,4.0,5.0,1.0,0.8
+SECURITY FINANCE CORP,Credit card,5,5.0,5.0,0.0,1.0
+Solar Mosaic LLC,Credit card,5,3.0,5.0,2.0,0.6
+"Suttell, Hammer & White, P.S",Credit card,5,4.0,5.0,1.0,0.8
+TekCollect Inc.,Credit card,5,5.0,5.0,0.0,1.0
+"The CBE Group, Inc.",Credit card,5,5.0,5.0,0.0,1.0
+"United Collection Bureau, Inc.",Credit card,5,5.0,5.0,0.0,1.0
+"Universal Account Servicing, LLC",Credit card,5,2.0,5.0,3.0,0.4
+VW Credit,Credit card,5,5.0,5.0,0.0,1.0
+World Acceptance Corporation,Credit card,5,5.0,5.0,0.0,1.0
+1st Franklin Financial Corporation,Credit card,4,4.0,4.0,0.0,1.0
+"A & O Recovery Solutions, LLC",Credit card,4,0.0,4.0,4.0,0.0
+"Aldous & Associates, PLLC",Credit card,4,4.0,4.0,0.0,1.0
+Alorica Inc.,Checking or savings account,4,4.0,4.0,0.0,1.0
+"Amsher Collection Services, Inc.",Checking or savings account,4,4.0,4.0,0.0,1.0
+"Amsher Collection Services, Inc.",Credit card,4,4.0,4.0,0.0,1.0
+BEACON FINANCIAL CORPORATION,Credit card,4,4.0,4.0,0.0,1.0
+"Bounce AI, Inc.",Credit card,4,4.0,4.0,0.0,1.0
+CRED Technologies dba cred.ai,Checking or savings account,4,4.0,4.0,0.0,1.0
+Central Portfolio Control Inc.,Credit card,4,4.0,4.0,0.0,1.0
+"Client Services, Inc.",Credit card,4,4.0,4.0,0.0,1.0
+"Collection Management Holdings, LLC",Credit card,4,4.0,4.0,0.0,1.0
+Credee Corporation,Credit card,4,3.0,4.0,1.0,0.75
+"Duvera Billing Services, LLC",Credit card,4,4.0,4.0,0.0,1.0
+"EVERBANK, NATIONAL ASSOCIATION",Credit card,4,4.0,4.0,0.0,1.0
+EdFinancial Services,Checking or savings account,4,4.0,4.0,0.0,1.0
+Everi Payments Inc.,Checking or savings account,4,4.0,4.0,0.0,1.0
+"Glasser and Glasser, PLC",Credit card,4,4.0,4.0,0.0,1.0
+Global Tel*Link Corporation,Checking or savings account,4,4.0,4.0,0.0,1.0
+"Harris & Harris, Ltd.",Credit card,4,4.0,4.0,0.0,1.0
+"Home Loan Center, Inc.",Checking or savings account,4,4.0,4.0,0.0,1.0
+"January Technologies, Inc",Credit card,4,4.0,4.0,0.0,1.0
+LAKE MICHIGAN CREDIT UNION,Credit card,4,4.0,4.0,0.0,1.0
+"Law Office of Michael J. Scott, PC",Credit card,4,4.0,4.0,0.0,1.0
+"Lockhart, Morris & Montgomery Inc.",Credit card,4,4.0,4.0,0.0,1.0
+Loqbox US Inc,Credit card,4,3.0,4.0,1.0,0.75
+"Marlette Funding, LLC",Checking or savings account,4,4.0,4.0,0.0,1.0
+McKenzie Management LLC,Credit card,4,0.0,4.0,4.0,0.0
+Mr. Cooper Group Inc.,Credit card,4,4.0,4.0,0.0,1.0
+NCB Management Services Inc.,Credit card,4,4.0,4.0,0.0,1.0
+NORTHWEST BANCSHARES INC,Credit card,4,4.0,4.0,0.0,1.0
+"National Credit Systems,Inc.",Credit card,4,4.0,4.0,0.0,1.0
+"Nelnet, Inc.",Checking or savings account,4,4.0,4.0,0.0,1.0
+"Oquirrh Mountain Law Group, P.C.",Checking or savings account,4,3.0,4.0,1.0,0.75
+"PENNYMAC LOAN SERVICES, LLC.",Checking or savings account,4,4.0,4.0,0.0,1.0
+"PLS GROUP, INC",Checking or savings account,4,4.0,4.0,0.0,1.0
+Patenaude & Felix A Professional Corporation,Credit card,4,3.0,4.0,1.0,0.75
+"RAS LaVrar, LLC",Credit card,4,4.0,4.0,0.0,1.0
+"Rocket Mortgage, LLC",Checking or savings account,4,4.0,4.0,0.0,1.0
+SPLITIT USA INC.,Credit card,4,3.0,4.0,1.0,0.75
+"Sequium Asset Solutions, LLC",Credit card,4,4.0,4.0,0.0,1.0
+"ShoulderTap Technologies, Inc. d/b/a Fizz",Checking or savings account,4,1.0,4.0,3.0,0.25
+"Stenger & Stenger, P.C",Credit card,4,4.0,4.0,0.0,1.0
+Upward Financial Inc.,Credit card,4,4.0,4.0,0.0,1.0
+ALCAR INC.,Checking or savings account,3,3.0,3.0,0.0,1.0
+"AXOS FINANCIAL, INC.",Credit card,3,3.0,3.0,0.0,1.0
+"American Credit Acceptance, LLC",Checking or savings account,3,3.0,3.0,0.0,1.0
+"American Credit Acceptance, LLC",Credit card,3,2.0,3.0,1.0,0.6666666666666666
+Apple Financing LLC,Checking or savings account,3,3.0,3.0,0.0,1.0
+BANKERS HEALTHCARE GROUP LLC,Checking or savings account,3,3.0,3.0,0.0,1.0
+BANNER CORPORATION,Credit card,3,3.0,3.0,0.0,1.0
+"BREMER BANK, NATIONAL ASSOCIATION",Checking or savings account,3,3.0,3.0,0.0,1.0
+BROADVIEW MORTGAGE CORPORATION,Checking or savings account,3,0.0,3.0,3.0,0.0
+"BYS, LLC. d/b/a Boost Your Score",Checking or savings account,3,3.0,3.0,0.0,1.0
+Bank of China USA,Checking or savings account,3,3.0,3.0,0.0,1.0
+Bridgecrest Acceptance Corporation,Checking or savings account,3,3.0,3.0,0.0,1.0
+CARD Corporation,Credit card,3,3.0,3.0,0.0,1.0
+"CHECKredi of Kentucky, LLC",Checking or savings account,3,3.0,3.0,0.0,1.0
+CNG HOLDINGS INC,Checking or savings account,3,3.0,3.0,0.0,1.0
+CNG HOLDINGS INC,Credit card,3,3.0,3.0,0.0,1.0
+CORELOGIC INC,Credit card,3,3.0,3.0,0.0,1.0
+"Capital Alliance Financial, LLC",Credit card,3,3.0,3.0,0.0,1.0
+"Cascade CISS Holdings, LLC",Credit card,3,3.0,3.0,0.0,1.0
+"Consumer Financial Services Solutions, Inc.",Checking or savings account,3,3.0,3.0,0.0,1.0
+"Continental Finance Company, LLC",Checking or savings account,3,3.0,3.0,0.0,1.0
+"Continental Services Group, Inc. d/b/a ConServe",Checking or savings account,3,3.0,3.0,0.0,1.0
+"DailyPay, Inc",Credit card,3,3.0,3.0,0.0,1.0
+Deutsche Bank,Checking or savings account,3,3.0,3.0,0.0,1.0
+"Duvera Billing Services, LLC",Checking or savings account,3,2.0,3.0,1.0,0.6666666666666666
+"Eastern Account Systems of Connecticut, Inc.",Credit card,3,3.0,3.0,0.0,1.0
+"FCTI, Inc.",Checking or savings account,3,3.0,3.0,0.0,1.0
+"FIDELITY CAPITAL HOLDINGS, INC",Credit card,3,0.0,3.0,3.0,0.0
+"Fay Servicing, LLC",Checking or savings account,3,3.0,3.0,0.0,1.0
+Financial Credit Network Inc,Credit card,3,3.0,3.0,0.0,1.0
+"Financial Recovery Services, Inc.",Credit card,3,3.0,3.0,0.0,1.0
+"First National Collection Bureau, Inc.",Credit card,3,3.0,3.0,0.0,1.0
+"FlexShopper, Inc",Credit card,3,3.0,3.0,0.0,1.0
+Freedom Mortgage Company,Credit card,3,3.0,3.0,0.0,1.0
+"GLOBAL CLIENT SOLUTIONS, LLC",Checking or savings account,3,3.0,3.0,0.0,1.0
+Garrison Investment Group,Credit card,3,3.0,3.0,0.0,1.0
+"HW Holding, Inc",Credit card,3,3.0,3.0,0.0,1.0
+"Harpeth Financial Services, LLC",Checking or savings account,3,3.0,3.0,0.0,1.0
+"ID Analytics, Inc.",Credit card,3,3.0,3.0,0.0,1.0
+"King of Credit Financial, Inc",Credit card,3,0.0,3.0,3.0,0.0
+"Klover Holdings, Inc.",Checking or savings account,3,3.0,3.0,0.0,1.0
+"Mandarich Law Group, LLP",Credit card,3,3.0,3.0,0.0,1.0
+"Merchants & Medical Adjustment Bureau, Inc. dba Credit Bureau Associates",Credit card,3,0.0,3.0,3.0,0.0
+"Mobiloans, LLC",Credit card,3,0.0,3.0,3.0,0.0
+Monterey Financial Services LLC,Checking or savings account,3,3.0,3.0,0.0,1.0
+"NCD Financial, LLC",Credit card,3,3.0,3.0,0.0,1.0
+"NRA Group, LLC",Credit card,3,3.0,3.0,0.0,1.0
+"Nathan & Nathan, P.C.",Credit card,3,3.0,3.0,0.0,1.0
+"Northstar Location Services, LLC",Credit card,3,3.0,3.0,0.0,1.0
+Obligo Inc.,Checking or savings account,3,3.0,3.0,0.0,1.0
+"Open Dealer Exchange, LLC",Credit card,3,3.0,3.0,0.0,1.0
+"Opportunity Financial, LLC",Credit card,3,3.0,3.0,0.0,1.0
+"PALOMAR ENTERPRISES, LLC",Checking or savings account,3,3.0,3.0,0.0,1.0
+Paylaterr Inc,Credit card,3,1.0,3.0,2.0,0.3333333333333333
+"Phillips & Cohen Associates, Ltd.",Credit card,3,3.0,3.0,0.0,1.0
+"Prog Holdings, Inc.",Checking or savings account,3,2.0,3.0,1.0,0.6666666666666666
+"R.A.Rogers, Inc.",Checking or savings account,3,3.0,3.0,0.0,1.0
+Regional Management Corporation,Credit card,3,3.0,3.0,0.0,1.0
+"Relay Financial (US), Corp.",Credit card,3,2.0,3.0,1.0,0.6666666666666666
+"Ria Envia, LLC",Checking or savings account,3,2.0,3.0,1.0,0.6666666666666666
+"Rocket Mortgage, LLC",Credit card,3,3.0,3.0,0.0,1.0
+Rocky Mountain Capital Management,Credit card,3,0.0,3.0,3.0,0.0
+Rosebud Economic Development Corporation,Checking or savings account,3,2.0,3.0,1.0,0.6666666666666666
+"Securus J Holdings, LLC",Checking or savings account,3,3.0,3.0,0.0,1.0
+"Shepherd Outsourcing, LLC",Credit card,3,3.0,3.0,0.0,1.0
+"Snap Credit, Inc.",Credit card,3,1.0,3.0,2.0,0.3333333333333333
+Source Receivables Management LLC,Credit card,3,3.0,3.0,0.0,1.0
+"Sparrow Financial, Inc.",Checking or savings account,3,3.0,3.0,0.0,1.0
+"Veros Credit, LLC",Credit card,3,3.0,3.0,0.0,1.0
+"WEBSTER BANK, NATIONAL ASSOCIATION",Credit card,3,3.0,3.0,0.0,1.0
+WLCC,Checking or savings account,3,3.0,3.0,0.0,1.0
+Westcreek Financial,Checking or savings account,3,2.0,3.0,1.0,0.6666666666666666
+World Omni Financial Corp.,Credit card,3,3.0,3.0,0.0,1.0
+AES/PHEAA,Checking or savings account,2,2.0,2.0,0.0,1.0
+AES/PHEAA,Credit card,2,2.0,2.0,0.0,1.0
+ALMA Financial Assistance Corp.,Credit card,2,0.0,2.0,2.0,0.0
+AMERICAN HONDA FINANCE CORP,Checking or savings account,2,2.0,2.0,0.0,1.0
+"AMERIPRISE BANK, FSB",Checking or savings account,2,2.0,2.0,0.0,1.0
+ASSOCIATED BANC-CORP,Credit card,2,2.0,2.0,0.0,1.0
+"Aargon Agency, Inc.",Credit card,2,2.0,2.0,0.0,1.0
+"Ability Recovery Services, LLC",Credit card,2,2.0,2.0,0.0,1.0
+Activehours,Credit card,2,2.0,2.0,0.0,1.0
+"Adler Wallach & Associates, Inc.",Credit card,2,2.0,2.0,0.0,1.0
+"Aldous & Associates, PLLC",Checking or savings account,2,2.0,2.0,0.0,1.0
+"Aldridge PIte Haan, LLP",Credit card,2,2.0,2.0,0.0,1.0
+Alliance Capital Corp.,Checking or savings account,2,0.0,2.0,2.0,0.0
+"Alliance One, Inc.",Credit card,2,2.0,2.0,0.0,1.0
+American Financial Network Inc.,Credit card,2,2.0,2.0,0.0,1.0
+"American First Finance, Inc.",Checking or savings account,2,2.0,2.0,0.0,1.0
+"Americas Car-Mart, Inc.",Credit card,2,2.0,2.0,0.0,1.0
+"Americor Funding, LLC",Credit card,2,2.0,2.0,0.0,1.0
+"Apelles, LLC",Checking or savings account,2,2.0,2.0,0.0,1.0
+"Apple Law Group, Inc.",Credit card,2,0.0,2.0,2.0,0.0
+"Applied Data Finance, LLC",Credit card,2,2.0,2.0,0.0,1.0
+Arco Collection Services LLC,Credit card,2,0.0,2.0,2.0,0.0
+Arcon Credit Solutions LLC,Credit card,2,2.0,2.0,0.0,1.0
+"Array US, Inc",Credit card,2,2.0,2.0,0.0,1.0
+"Autovest, L.L.C.",Credit card,2,2.0,2.0,0.0,1.0
+"B9, Inc.",Credit card,2,1.0,2.0,1.0,0.5
+BAM Management US Holdings Inc.,Checking or savings account,2,2.0,2.0,0.0,1.0
+BetterMe Financial,Credit card,2,0.0,2.0,2.0,0.0
+"Blitt and Gaines, P.C.",Checking or savings account,2,2.0,2.0,0.0,1.0
+"Braviant Holdings, LLC",Credit card,2,2.0,2.0,0.0,1.0
+Bright Capital Inc,Credit card,2,2.0,2.0,0.0,1.0
+"Brock & Scott, PLLC",Credit card,2,2.0,2.0,0.0,1.0
+"CARRINGTON MORTGAGE SERVICES, LLC",Credit card,2,2.0,2.0,0.0,1.0
+"CBC Companies, Inc.",Checking or savings account,2,2.0,2.0,0.0,1.0
+CCF Intermediate Holdings LLC,Credit card,2,2.0,2.0,0.0,1.0
+CHERRY TECHNOLOGIES INC.,Checking or savings account,2,2.0,2.0,0.0,1.0
+"COLUMBIA BANKING SYSTEM, INC.",Credit card,2,2.0,2.0,0.0,1.0
+"CUSTOMERS BANCORP, INC",Credit card,2,2.0,2.0,0.0,1.0
+CVB FINANCIAL CORP.,Credit card,2,2.0,2.0,0.0,1.0
+"Carvana Group, LLC",Credit card,2,2.0,2.0,0.0,1.0
+"Cedars Business Services, LLC",Credit card,2,2.0,2.0,0.0,1.0
+Central Research Inc,Credit card,2,2.0,2.0,0.0,1.0
+"Colony Brands, Inc.",Checking or savings account,2,2.0,2.0,0.0,1.0
+Credit Card Receivables Fund Incorporated,Credit card,2,2.0,2.0,0.0,1.0
+"Credit Control, LLC",Checking or savings account,2,2.0,2.0,0.0,1.0
+Credit Fresh Holdings Inc,Checking or savings account,2,2.0,2.0,0.0,1.0
+Credit Glory LLC,Credit card,2,2.0,2.0,0.0,1.0
+"Credit Sesame, Inc.",Credit card,2,2.0,2.0,0.0,1.0
+CrossCountry Mortgage LLC,Checking or savings account,2,2.0,2.0,0.0,1.0
+"Direct, Inc",Checking or savings account,2,1.0,2.0,1.0,0.5
+Diverse Funding Associates LLC,Credit card,2,2.0,2.0,0.0,1.0
+EAST WEST BANK,Credit card,2,2.0,2.0,0.0,1.0
+"Exeter Finance, LLC.",Checking or savings account,2,2.0,2.0,0.0,1.0
+"F.H. Cann & Associates, Inc.",Checking or savings account,2,2.0,2.0,0.0,1.0
+FIRST ADVANTAGE CORPORATION,Checking or savings account,2,2.0,2.0,0.0,1.0
+FIRST FINANCIAL BANCORP,Credit card,2,2.0,2.0,0.0,1.0
+FIRST PORTFOLIO SERVICING INC,Checking or savings account,2,2.0,2.0,0.0,1.0
+FIRSTBANK,Credit card,2,2.0,2.0,0.0,1.0
+FLAGSHIP FINANCIAL GROUP LLC,Credit card,2,2.0,2.0,0.0,1.0
+FREEDOM FINANCIAL NETWORK,Credit card,2,2.0,2.0,0.0,1.0
+FULTON FINANCIAL CORPORATION,Credit card,2,2.0,2.0,0.0,1.0
+Federal Trade Commission,Checking or savings account,2,2.0,2.0,0.0,1.0
+First Bancorp North Carolina,Checking or savings account,2,2.0,2.0,0.0,1.0
+First Credit Corporation,Credit card,2,2.0,2.0,0.0,1.0
+First Credit Services Inc.,Credit card,2,2.0,2.0,0.0,1.0
+"First Help Financial, LLC",Credit card,2,2.0,2.0,0.0,1.0
+"Fold, Inc.",Credit card,2,2.0,2.0,0.0,1.0
+Freedom Mortgage Company,Checking or savings account,2,2.0,2.0,0.0,1.0
+Fundo LLC,Checking or savings account,2,1.0,2.0,1.0,0.5
+GATEWAY FIRST BANK,Checking or savings account,2,2.0,2.0,0.0,1.0
+"GCFS, INC.",Credit card,2,2.0,2.0,0.0,1.0
+GUARANTEED RATE INC.,Credit card,2,2.0,2.0,0.0,1.0
+Giggle Finance Inc.,Checking or savings account,2,0.0,2.0,2.0,0.0
+Global Tel*Link Corporation,Credit card,2,2.0,2.0,0.0,1.0
+Green Square Company LLC.,Credit card,2,0.0,2.0,2.0,0.0
+Grey Inc,Credit card,2,0.0,2.0,2.0,0.0
+"Gurstel Law Firm, P.C.",Credit card,2,2.0,2.0,0.0,1.0
+"HW Holding, Inc",Checking or savings account,2,2.0,2.0,0.0,1.0
+HYUNDAI CAPITAL AMERICA,Checking or savings account,2,2.0,2.0,0.0,1.0
+"Harpeth Financial Services, LLC",Credit card,2,2.0,2.0,0.0,1.0
+"Hayt Hayt & Landau, P.L. (FL)",Credit card,2,2.0,2.0,0.0,1.0
+Healthcare Finance Direct LLC.,Checking or savings account,2,2.0,2.0,0.0,1.0
+Huntington Debt Holding LLC,Credit card,2,2.0,2.0,0.0,1.0
+"INTER & CO PAYMENTS, INC.",Checking or savings account,2,2.0,2.0,0.0,1.0
+InDebted Corporation,Checking or savings account,2,2.0,2.0,0.0,1.0
+Independent Savings Plan Co.,Credit card,2,2.0,2.0,0.0,1.0
+Kashable LLC,Credit card,2,2.0,2.0,0.0,1.0
+"Klima, Peters & Daly, P.A.",Credit card,2,2.0,2.0,0.0,1.0
+Kovo,Checking or savings account,2,2.0,2.0,0.0,1.0
+LCI Acquisition Inc.,Credit card,2,2.0,2.0,0.0,1.0
+LOBEL FINANCIAL CORPORATION,Credit card,2,2.0,2.0,0.0,1.0
+"LPI, INC.",Credit card,2,2.0,2.0,0.0,1.0
+Larry H. Miller Group of Companies,Checking or savings account,2,2.0,2.0,0.0,1.0
+"Law Offices of Hayt, Hayt & Landau, LLC",Credit card,2,2.0,2.0,0.0,1.0
+Lendbuzz Inc.,Credit card,2,2.0,2.0,0.0,1.0
+LendingPoint Holdings LLC,Checking or savings account,2,2.0,2.0,0.0,1.0
+LendingPoint Holdings LLC,Credit card,2,2.0,2.0,0.0,1.0
+LendingUSA,Credit card,2,2.0,2.0,0.0,1.0
+"Levy & Associates, LLC",Credit card,2,2.0,2.0,0.0,1.0
+"LoanCare, LLC",Checking or savings account,2,2.0,2.0,0.0,1.0
+"MARINER FINANCE, LLC",Checking or savings account,2,2.0,2.0,0.0,1.0
+"Malen & Associates, p.c.",Credit card,2,1.0,2.0,1.0,0.5
+Mercury Financial Intermediate LLC,Checking or savings account,2,2.0,2.0,0.0,1.0
+Michael J Adams PC,Checking or savings account,2,2.0,2.0,0.0,1.0
+N26 Inc.,Checking or savings account,2,2.0,2.0,0.0,1.0
+NATIONAL DEBT RELIEF LLC,Checking or savings account,2,1.0,2.0,1.0,0.5
+"Navient Solutions, LLC.",Credit card,2,2.0,2.0,0.0,1.0
+"NerdWallet, Inc.",Checking or savings account,2,2.0,2.0,0.0,1.0
+"North State Acceptance, LLC",Checking or savings account,2,2.0,2.0,0.0,1.0
+"Northstar Location Services, LLC",Checking or savings account,2,2.0,2.0,0.0,1.0
+OFG BANCORP,Credit card,2,2.0,2.0,0.0,1.0
+OLD NATIONAL BANCORP,Credit card,2,2.0,2.0,0.0,1.0
+"OLIPHANT FINANCIAL, LLC",Credit card,2,2.0,2.0,0.0,1.0
+"ONLINE Information Services, Inc.",Credit card,2,2.0,2.0,0.0,1.0
+"Oliphant United, Inc.",Credit card,2,2.0,2.0,0.0,1.0
+"Oquirrh Mountain Law Group, P.C.",Credit card,2,2.0,2.0,0.0,1.0
+"PACIFIC SOUTHWEST NOTE FUND, LLC",Checking or savings account,2,0.0,2.0,2.0,0.0
+PLACID NK CORPORATION,Credit card,2,0.0,2.0,2.0,0.0
+"PROSPERITY BANCSHARES, INC.",Credit card,2,2.0,2.0,0.0,1.0
+"Pavilion Payments US BuyerCo, LLC",Checking or savings account,2,2.0,2.0,0.0,1.0
+Pendleton & Sutton LLC,Checking or savings account,2,0.0,2.0,2.0,0.0
+Penn Credit Corporation,Credit card,2,2.0,2.0,0.0,1.0
+"Porsche Financial Services, Inc.",Credit card,2,2.0,2.0,0.0,1.0
+Premier Account Management,Credit card,2,0.0,2.0,2.0,0.0
+"ProCollect, Inc.",Credit card,2,2.0,2.0,0.0,1.0
+"Prosper Marketplace, Inc.",Checking or savings account,2,2.0,2.0,0.0,1.0
+Rain Technologies Inc.,Checking or savings account,2,2.0,2.0,0.0,1.0
+Reach Financial LLC,Credit card,2,2.0,2.0,0.0,1.0
+Regional Management Corporation,Checking or savings account,2,2.0,2.0,0.0,1.0
+"Reliant Capital Solutions, LLC",Credit card,2,2.0,2.0,0.0,1.0
+Rent Recovery Solutions,Credit card,2,1.0,2.0,1.0,0.5
+"Revco Management, LLC",Credit card,2,2.0,2.0,0.0,1.0
+Revenued LLC,Credit card,2,1.0,2.0,1.0,0.5
+River Financial Inc.,Checking or savings account,2,2.0,2.0,0.0,1.0
+"Roadrunner Account Services, LLC",Credit card,2,2.0,2.0,0.0,1.0
+Roger Van Wert,Credit card,2,0.0,2.0,2.0,0.0
+"Round Up Ventures, L.P.",Checking or savings account,2,1.0,2.0,1.0,0.5
+RoundPoint Mortgage Servicing LLC,Checking or savings account,2,0.0,2.0,2.0,0.0
+SAN DIEGO COUNTY CREDIT UNION,Credit card,2,2.0,2.0,0.0,1.0
+SEACOAST BANKING CORPORATION OF FLORIDA,Credit card,2,2.0,2.0,0.0,1.0
+"SERVISFIRST BANCSHARES, INC.",Checking or savings account,2,2.0,2.0,0.0,1.0
+"SOFTGATE SYSTEMS, INC.",Credit card,2,0.0,2.0,2.0,0.0
+SOUTHSTATE BANK CORPORATION,Credit card,2,2.0,2.0,0.0,1.0
+"SUNRISE CREDIT SERVICES, INC",Checking or savings account,2,2.0,2.0,0.0,1.0
+Schukei Chevrolet Volkswagen,Credit card,2,0.0,2.0,2.0,0.0
+"Scratch Financial, Inc.",Credit card,2,2.0,2.0,0.0,1.0
+"Second Alliance, Inc.",Credit card,2,2.0,2.0,0.0,1.0
+Selene Holdings LLC,Checking or savings account,2,2.0,2.0,0.0,1.0
+Servicer under contract with Federal Student Aid,Checking or savings account,2,0.0,2.0,2.0,0.0
+"Skopos Financial, LLC",Checking or savings account,2,2.0,2.0,0.0,1.0
+"Skopos Financial, LLC",Credit card,2,2.0,2.0,0.0,1.0
+SmartCredit LLC,Credit card,2,0.0,2.0,2.0,0.0
+Solar Mosaic LLC,Checking or savings account,2,2.0,2.0,0.0,1.0
+Southern Auto Finance Co,Credit card,2,1.0,2.0,1.0,0.5
+"Southwest Recovery Services, Inc.",Credit card,2,2.0,2.0,0.0,1.0
+"Steel River Systems, LLC",Checking or savings account,2,2.0,2.0,0.0,1.0
+"Steel River Systems, LLC",Credit card,2,1.0,2.0,1.0,0.5
+"Sunbit, Inc.",Checking or savings account,2,2.0,2.0,0.0,1.0
+Synergetic Communication Inc,Checking or savings account,2,2.0,2.0,0.0,1.0
+TClub Inc,Checking or savings account,2,0.0,2.0,2.0,0.0
+"TRANSCARD, LLC",Checking or savings account,2,2.0,2.0,0.0,1.0
+TRANSWORLD SYSTEMS INC,Checking or savings account,2,2.0,2.0,0.0,1.0
+TRUSTMARK CORPORATION,Credit card,2,2.0,2.0,0.0,1.0
+TapTap Send Inc.,Checking or savings account,2,2.0,2.0,0.0,1.0
+Thaxton Investment Corporation,Credit card,2,2.0,2.0,0.0,1.0
+The Receivable Management Services LLC,Credit card,2,2.0,2.0,0.0,1.0
+"The Stark Collection Agency, Inc.",Credit card,2,0.0,2.0,2.0,0.0
+"Tower Loan of Mississippi, Inc.",Checking or savings account,2,2.0,2.0,0.0,1.0
+Transform Credit Inc.,Credit card,2,2.0,2.0,0.0,1.0
+"Trident Asset Management, L.L.C.",Credit card,2,1.0,2.0,1.0,0.5
+"Trustly, Inc.",Checking or savings account,2,2.0,2.0,0.0,1.0
+"UHG, LLC",Credit card,2,2.0,2.0,0.0,1.0
+UNITED COMMUNITY BANK,Credit card,2,2.0,2.0,0.0,1.0
+UNITED CREDIT CORP. OF SOUTHAVEN,Credit card,2,2.0,2.0,0.0,1.0
+UNITED NATIONS FEDERAL CREDIT UNION,Checking or savings account,2,2.0,2.0,0.0,1.0
+"United Accounts, Inc.",Checking or savings account,2,1.0,2.0,1.0,0.5
+United Credit and Collections Inc.,Credit card,2,2.0,2.0,0.0,1.0
+United PanAm Financial Corp.,Credit card,2,1.0,2.0,1.0,0.5
+"Uprova Credit, LLC",Checking or savings account,2,2.0,2.0,0.0,1.0
+"Upstart Holdings, Inc.",Checking or savings account,2,2.0,2.0,0.0,1.0
+"W&A Intermediate Co., LLC",Credit card,2,2.0,2.0,0.0,1.0
+WAFD BANK,Credit card,2,2.0,2.0,0.0,1.0
+WEBULL PAY HOLDINGS (US) INC,Checking or savings account,2,2.0,2.0,0.0,1.0
+"Waddell Serafino Geary Rechner Jenevein, PC",Credit card,2,2.0,2.0,0.0,1.0
+Wave Financial USA Inc.,Checking or savings account,2,0.0,2.0,2.0,0.0
+WorldRemit Corp.,Checking or savings account,2,1.0,2.0,1.0,0.5
+"Zarzaur and Schwartz, PC",Credit card,2,1.0,2.0,1.0,0.5
+"iSolved HCM Services, LLC",Checking or savings account,2,2.0,2.0,0.0,1.0
+2233 Paradise Road LLC,Checking or savings account,1,0.0,1.0,1.0,0.0
+"4M Collections, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"AAS Debt Recovery, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"ACI Worldwide, Corp.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"ACI Worldwide, Corp.",Credit card,1,1.0,1.0,0.0,1.0
+AD Capital LLC,Credit card,1,0.0,1.0,1.0,0.0
+ADS Resolve LLC,Credit card,1,0.0,1.0,1.0,0.0
+ALCHRO INC.,Credit card,1,0.0,1.0,1.0,0.0
+"ALEXANDER-ROSE ASSOC, INC.",Credit card,1,1.0,1.0,0.0,1.0
+"AMERIFIRST FINANCIAL, INC.",Credit card,1,0.0,1.0,1.0,0.0
+"AMERIPRISE BANK, FSB",Credit card,1,1.0,1.0,0.0,1.0
+AMERIS BANCORP,Credit card,1,1.0,1.0,0.0,1.0
+AMERISAVE MORTGAGE CORPORATION,Checking or savings account,1,1.0,1.0,0.0,1.0
+APPLE RECOVERY SERVICES CORP,Credit card,1,0.0,1.0,1.0,0.0
+"AR Resources, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"ATG Credit, LLC",Credit card,1,1.0,1.0,0.0,1.0
+AUTOMOTIVE CREDIT CORPORATION,Credit card,1,1.0,1.0,0.0,1.0
+AVANTE,Credit card,1,1.0,1.0,0.0,1.0
+Abra,Checking or savings account,1,0.0,1.0,1.0,0.0
+Abrahamsen Gindin LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+Abrahamsen Gindin LLC,Credit card,1,1.0,1.0,0.0,1.0
+Absolute Resolutions Corp.,Checking or savings account,1,1.0,1.0,0.0,1.0
+Academy Mortgage Corporation,Checking or savings account,1,0.0,1.0,1.0,0.0
+Academy Mortgage Corporation,Credit card,1,0.0,1.0,1.0,0.0
+Accessity,Credit card,1,0.0,1.0,1.0,0.0
+"Accscient, LLC",Credit card,1,0.0,1.0,1.0,0.0
+Action Collection Service,Checking or savings account,1,0.0,1.0,1.0,0.0
+"Adam I. Skolnik, P.A. d/b/a Law Office of Adam I. Skolnik, P.A.",Checking or savings account,1,0.0,1.0,1.0,0.0
+"Advance America, Cash Advance Centers, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Advance America, Cash Advance Centers, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"Advantage Credit, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+AdvantageFirst Lending Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+Albert Corporation,Credit card,1,1.0,1.0,0.0,1.0
+"All Area Abstract, LLC",Checking or savings account,1,0.0,1.0,1.0,0.0
+"All State Credit Bureau, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"Alliance Collection Agencies, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"AlpacaDB, Inc.",Checking or savings account,1,0.0,1.0,1.0,0.0
+"Altisource Portfolio Solutions, S.à r.l.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Ambassador Mortgage, LLC",Credit card,1,0.0,1.0,1.0,0.0
+"AmeriHome Mortgage Company, LLC",Credit card,1,1.0,1.0,0.0,1.0
+American Coradius International LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+American Coradius International LLC,Credit card,1,1.0,1.0,0.0,1.0
+"American Management Services, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"American Profit Recovery, Inc., Marlborough, MA Branch",Checking or savings account,1,1.0,1.0,0.0,1.0
+American Recovery Service Incorporated,Credit card,1,1.0,1.0,0.0,1.0
+"Americor Funding, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+Amicus Lending,Checking or savings account,1,0.0,1.0,1.0,0.0
+Amscot Corporation,Checking or savings account,1,1.0,1.0,0.0,1.0
+"AppFolio, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Apple Law Group, Inc.",Checking or savings account,1,0.0,1.0,1.0,0.0
+"Applied Data Finance, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Arbor Professional Solutions, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Arco Collection Services LLC,Checking or savings account,1,0.0,1.0,1.0,0.0
+"Arivo Acceptance, LLC",Credit card,1,1.0,1.0,0.0,1.0
+Ascend One Corporation,Checking or savings account,1,0.0,1.0,1.0,0.0
+Ascend One Corporation,Credit card,1,0.0,1.0,1.0,0.0
+"Ascension Point Recovery Services, LLC",Credit card,1,1.0,1.0,0.0,1.0
+Assent Inc.,Credit card,1,0.0,1.0,1.0,0.0
+"Asset Recovery Solutions, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Asset Recovery Solutions, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"Associated Credit Services, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"Atlas Credit Company, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Atlas Exploration, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Atlas Services, Inc.",Credit card,1,0.0,1.0,1.0,0.0
+"Auto Acceptance, LLC",Credit card,1,0.0,1.0,1.0,0.0
+Auto Buyers Credit LLC,Checking or savings account,1,0.0,1.0,1.0,0.0
+"AutoCred, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+BANCO PICHINCHA MIAMI AGENCY,Checking or savings account,1,1.0,1.0,0.0,1.0
+BANK OZK,Credit card,1,1.0,1.0,0.0,1.0
+"BANKMOBILE TECHNOLOGIES, INC",Credit card,1,1.0,1.0,0.0,1.0
+"BH Financial Group, LLC",Credit card,1,1.0,1.0,0.0,1.0
+BID SOLUTIONS LLC,Checking or savings account,1,0.0,1.0,1.0,0.0
+BROADVIEW MORTGAGE CORPORATION,Credit card,1,0.0,1.0,1.0,0.0
+"BROKER SOLUTIONS, INC.",Credit card,1,1.0,1.0,0.0,1.0
+"BSI Financial Holdings, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+BTH Management,Credit card,1,1.0,1.0,0.0,1.0
+Baird Home Corporation,Credit card,1,0.0,1.0,1.0,0.0
+Barker Financial LLC,Checking or savings account,1,0.0,1.0,1.0,0.0
+Beccas Home LLC,Credit card,1,1.0,1.0,0.0,1.0
+Bella Sloan Enterprises,Credit card,1,1.0,1.0,0.0,1.0
+"Bepensa Capital, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Bernhardt and Strawser, P.A.",Credit card,1,1.0,1.0,0.0,1.0
+Blackhawk Network Holdings Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Bliksum, LLC",Credit card,1,0.0,1.0,1.0,0.0
+Bonneville Billing and Collections,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Bounce AI, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+Breit Investment,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Brightside Benefit, Inc.",Checking or savings account,1,0.0,1.0,1.0,0.0
+Broadway Account Services,Checking or savings account,1,0.0,1.0,1.0,0.0
+"Business Processing Solutions, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"Byers Law, LLC",Checking or savings account,1,0.0,1.0,1.0,0.0
+"Byrider Franchising, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+C/C Financial,Credit card,1,1.0,1.0,0.0,1.0
+CATHAY BANK,Credit card,1,1.0,1.0,0.0,1.0
+CCM Finance LLC,Credit card,1,1.0,1.0,0.0,1.0
+"CCS Financial Services, Inc.",Checking or savings account,1,0.0,1.0,1.0,0.0
+"CENTRAL BANCOMPANY, INC",Credit card,1,1.0,1.0,0.0,1.0
+CFS2 Inc.,Checking or savings account,1,0.0,1.0,1.0,0.0
+CITY CREDIT CORPORATION,Credit card,1,1.0,1.0,0.0,1.0
+"CLAYTON AUTOS, INC",Checking or savings account,1,0.0,1.0,1.0,0.0
+COINFLIP LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+"COMMUNITY FINANCIAL SYSTEM, INC.",Credit card,1,1.0,1.0,0.0,1.0
+CONTRACT CALLERS INC,Credit card,1,1.0,1.0,0.0,1.0
+COOPERATIVA DE AHORRO Y CREDITO BARRANQUITAS,Credit card,1,1.0,1.0,0.0,1.0
+CORELOGIC INC,Checking or savings account,1,1.0,1.0,0.0,1.0
+"CRC Holding, LLC",Credit card,1,1.0,1.0,0.0,1.0
+CRE Credit Services,Credit card,1,0.0,1.0,1.0,0.0
+CURO Intermediate Holdings,Checking or savings account,1,1.0,1.0,0.0,1.0
+CURO Intermediate Holdings,Credit card,1,1.0,1.0,0.0,1.0
+"Capio Partners, LLC",Credit card,1,1.0,1.0,0.0,1.0
+Capital Core Advisors LLC,Credit card,1,1.0,1.0,0.0,1.0
+CapitalCredit LLC,Credit card,1,1.0,1.0,0.0,1.0
+"Cascade Capital, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+"CashRepublic Holdings, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Castle and Cookie Mortgage LLC,Credit card,1,0.0,1.0,1.0,0.0
+Central Research Inc,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Certegy Holdings, LLC",Credit card,1,1.0,1.0,0.0,1.0
+Checkbook Inc,Checking or savings account,1,1.0,1.0,0.0,1.0
+Checkbook Inc,Credit card,1,1.0,1.0,0.0,1.0
+"Checkr, Inc",Checking or savings account,1,1.0,1.0,0.0,1.0
+Chime Inc.,Credit card,1,1.0,1.0,0.0,1.0
+"ClarityPay, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+Climb Credit Inc.,Credit card,1,1.0,1.0,0.0,1.0
+"CoinZoom, Inc.",Checking or savings account,1,0.0,1.0,1.0,0.0
+"Collection Bureau of Little Falls, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"Collections Acquisition Company, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"College Ave Student Loan Servicing, LLC",Credit card,1,1.0,1.0,0.0,1.0
+College Guidance Resources  LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+Colony Ridge Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Columbia Collection Service, Inc.",Credit card,1,0.0,1.0,1.0,0.0
+Commercial Acceptance Company,Credit card,1,1.0,1.0,0.0,1.0
+Commercial Credit Counseling Services Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Complete Care, Inc.",Credit card,1,0.0,1.0,1.0,0.0
+"Complete Credit Solutions, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Concerto Card Company,Credit card,1,1.0,1.0,0.0,1.0
+Consolidation Capital,Credit card,1,0.0,1.0,1.0,0.0
+"Consuegra & Duffy, P.L.L.C.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Consuegra & Duffy, P.L.L.C.",Credit card,1,0.0,1.0,1.0,0.0
+Consumer Adjustment Company Incorporated,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Consumer Financial Services Solutions, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"Consumer Portfolio Services, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Consumer Portfolio Services, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Consumer Shield,Credit card,1,0.0,1.0,1.0,0.0
+"Continental Currency Services, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Cornerstone Residential Lending Solutions, Inc",Checking or savings account,1,0.0,1.0,1.0,0.0
+CrediautoUSA Financial Company LLC,Checking or savings account,1,0.0,1.0,1.0,0.0
+Credit Bureau Services Inc.,Credit card,1,1.0,1.0,0.0,1.0
+Credit International Corporation,Checking or savings account,1,1.0,1.0,0.0,1.0
+Credit Repair Anywhere,Credit card,1,0.0,1.0,1.0,0.0
+Credit Reporting Services LLC,Credit card,1,1.0,1.0,0.0,1.0
+Credit Sage LLC,Checking or savings account,1,0.0,1.0,1.0,0.0
+Credit Sage LLC,Credit card,1,1.0,1.0,0.0,1.0
+Credit Service Company,Credit card,1,0.0,1.0,1.0,0.0
+"Credit Systems International, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"CreditNinja Lending, LLC",Credit card,1,1.0,1.0,0.0,1.0
+CreditSmart Holdings Inc,Checking or savings account,1,0.0,1.0,1.0,0.0
+Creditly Corp.,Credit card,1,1.0,1.0,0.0,1.0
+Creditors Bureau Associates,Checking or savings account,1,1.0,1.0,0.0,1.0
+Credova Holdings Inc,Credit card,1,1.0,1.0,0.0,1.0
+DFC Global Corp.,Checking or savings account,1,1.0,1.0,0.0,1.0
+DLG LLC,Credit card,1,0.0,1.0,1.0,0.0
+"DMEC Capital Services LLC, DBA Settle Our Debt",Credit card,1,1.0,1.0,0.0,1.0
+"DRB-40, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"Data Search NY, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"Data and Contact Management Solutions, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"Debt Collectors International, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"Debt Recovery Solutions, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"Deinde Online Services, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"Delta Management Associates, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"Devon Financial Services, Inc.",Checking or savings account,1,0.0,1.0,1.0,0.0
+DreamSpring,Checking or savings account,1,1.0,1.0,0.0,1.0
+Driveway Finance Corporation,Checking or savings account,1,1.0,1.0,0.0,1.0
+"EGL US, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+"EML Payments USA, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Eagle Recovery Associates, Inc.",Credit card,1,0.0,1.0,1.0,0.0
+Earm LLC,Checking or savings account,1,0.0,1.0,1.0,0.0
+Earnest Inc.,Credit card,1,1.0,1.0,0.0,1.0
+"Easy Finance, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+EnTrust Funding,Checking or savings account,1,0.0,1.0,1.0,0.0
+Entrata Inc.,Checking or savings account,1,0.0,1.0,1.0,0.0
+Extreme Loans LLC,Credit card,1,1.0,1.0,0.0,1.0
+"FAIR COLLECTIONS & OUTSOURCING, INC.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"FAIR COLLECTIONS & OUTSOURCING, INC.",Credit card,1,1.0,1.0,0.0,1.0
+FB FINANCIAL CORPORATION,Credit card,1,1.0,1.0,0.0,1.0
+FCI Lender Services Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+"FCTI, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+FINEX Group LLC,Checking or savings account,1,0.0,1.0,1.0,0.0
+FIRST ADVANTAGE CORPORATION,Credit card,1,1.0,1.0,0.0,1.0
+FIRST UNITED BANK AND TRUST COMPANY,Credit card,1,1.0,1.0,0.0,1.0
+"FMA Alliance, Ltd.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"FMA Alliance, Ltd.",Credit card,1,1.0,1.0,0.0,1.0
+FREEDOM FINANCIAL NETWORK,Checking or savings account,1,1.0,1.0,0.0,1.0
+Faloni Law Group,Checking or savings account,1,1.0,1.0,0.0,1.0
+Federal Deposit Insurance Corporation,Checking or savings account,1,1.0,1.0,0.0,1.0
+Federated Student Loan Services,Checking or savings account,1,0.0,1.0,1.0,0.0
+Federated Student Loan Services,Credit card,1,0.0,1.0,1.0,0.0
+"Fidelity National Financial, Inc",Checking or savings account,1,1.0,1.0,0.0,1.0
+Fig Tech Inc.,Credit card,1,1.0,1.0,0.0,1.0
+"Figliola & Romano, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"Figure Technologies, Inc",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Figure Technologies, Inc",Credit card,1,1.0,1.0,0.0,1.0
+"Finance System of Richmond, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Financial Assistance Inc,Checking or savings account,1,1.0,1.0,0.0,1.0
+Financial Business and Consumer Solutions.,Checking or savings account,1,0.0,1.0,1.0,0.0
+Financial Business and Consumer Solutions.,Credit card,1,0.0,1.0,1.0,0.0
+"Financial Freedom Group, LLC",Credit card,1,1.0,1.0,0.0,1.0
+Financial Warranty LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+First Atlantic Auto Credit LLC,Credit card,1,0.0,1.0,1.0,0.0
+First Bancorp North Carolina,Credit card,1,1.0,1.0,0.0,1.0
+First Choice Assets LLC.,Checking or savings account,1,0.0,1.0,1.0,0.0
+"First Federal Credit Control, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+First Reliance Holdings LLC,Checking or savings account,1,0.0,1.0,1.0,0.0
+"Firstsource Business Process Services, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+Five Lakes Law Group PLLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+Foreman Financial Inc.,Credit card,1,1.0,1.0,0.0,1.0
+"Forsythe Finance, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"Fresh Start Funding, LLC",Credit card,1,0.0,1.0,1.0,0.0
+Fuel Capital Group,Credit card,1,1.0,1.0,0.0,1.0
+Funding Metrics LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+Future Judgement Solutions,Credit card,1,0.0,1.0,1.0,0.0
+"GF SunStrong Management Holdings, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+"GLOBAL CLIENT SOLUTIONS, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"GMA Investments, LLC",Credit card,1,0.0,1.0,1.0,0.0
+"GREENSKY OPERATIONS, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+"GVA Holdings, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"Galaxy Capital Acquisitions, LLC",Credit card,1,1.0,1.0,0.0,1.0
+Gallatin Valley Financial,Checking or savings account,1,0.0,1.0,1.0,0.0
+Gatestone & Co. International Inc.,Credit card,1,1.0,1.0,0.0,1.0
+Genpact Limited,Checking or savings account,1,1.0,1.0,0.0,1.0
+Get Financed LLC,Credit card,1,1.0,1.0,0.0,1.0
+"Global Asset Management Group, Inc.",Credit card,1,0.0,1.0,1.0,0.0
+Global Lending Services LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Green & Sons Agency, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"Greenback Recovery Group, LLC",Credit card,1,0.0,1.0,1.0,0.0
+Greenwood and Allen Financial,Checking or savings account,1,0.0,1.0,1.0,0.0
+Grey Inc,Checking or savings account,1,1.0,1.0,0.0,1.0
+Greyhound Capital Group LLC,Checking or savings account,1,0.0,1.0,1.0,0.0
+Greyhound Capital Group LLC,Credit card,1,0.0,1.0,1.0,0.0
+Grow Credit Inc,Checking or savings account,1,1.0,1.0,0.0,1.0
+Guglielmo and Associates,Credit card,1,1.0,1.0,0.0,1.0
+Guidiville Indian Rancheria,Checking or savings account,1,0.0,1.0,1.0,0.0
+Guild Holdings Company,Checking or savings account,1,1.0,1.0,0.0,1.0
+"HABITAT FOR HUMANITY INTERNATIONAL, INC.",Credit card,1,1.0,1.0,0.0,1.0
+"HEARTLAND FINANCIAL USA, INC.",Checking or savings account,1,1.0,1.0,0.0,1.0
+HF Holdings,Checking or savings account,1,0.0,1.0,1.0,0.0
+HOME ACCEPTANCE CORPORATION,Checking or savings account,1,1.0,1.0,0.0,1.0
+"HOPE BANCORP, INC.",Credit card,1,1.0,1.0,0.0,1.0
+"Halsted Financial Services, LLC.",Checking or savings account,1,1.0,1.0,0.0,1.0
+Hanwha QCells USA Corp,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Harris & Harris, Ltd.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Harvard Collections, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"Healthcare Collection Specialists, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Helping Hands Financials LLC,Credit card,1,0.0,1.0,1.0,0.0
+"Hexagon Collection Services, LLC",Credit card,1,0.0,1.0,1.0,0.0
+"Higlobe, Inc.",Checking or savings account,1,0.0,1.0,1.0,0.0
+"Home Loan Center, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Homestead Designation Services,Credit card,1,0.0,1.0,1.0,0.0
+"Horizon West Financial, Inc",Credit card,1,1.0,1.0,0.0,1.0
+Houston Finance Co.,Checking or savings account,1,1.0,1.0,0.0,1.0
+Hunt & Henriques,Credit card,1,1.0,1.0,0.0,1.0
+Huron Law Group PLLC,Credit card,1,1.0,1.0,0.0,1.0
+"IDT Telecom, Inc",Checking or savings account,1,1.0,1.0,0.0,1.0
+INDEPENDENT BANK CORP.,Credit card,1,1.0,1.0,0.0,1.0
+INSPERITY INC,Checking or savings account,1,0.0,1.0,1.0,0.0
+IOWA STUDENT LOAN LIQUIDITY CORPORATION,Credit card,1,1.0,1.0,0.0,1.0
+"ITALBANK INTERNATIONAL, INC.",Checking or savings account,1,0.0,1.0,1.0,0.0
+"Imprint Payments, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+InDebted Corporation,Credit card,1,1.0,1.0,0.0,1.0
+"Instant Cash Flow, Inc.",Credit card,1,0.0,1.0,1.0,0.0
+"Intermex Wire Transfer, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+J.C. Lewis Motor Co.,Checking or savings account,1,0.0,1.0,1.0,0.0
+"JAMS-01, Inc",Checking or savings account,1,1.0,1.0,0.0,1.0
+"JH Portfolio Debt Equities, LLC",Credit card,1,0.0,1.0,1.0,0.0
+JOSEPH R. HARRISON CO. LPA,Checking or savings account,1,0.0,1.0,1.0,0.0
+Jana Ferrell & Associates LLC,Credit card,1,1.0,1.0,0.0,1.0
+"January Technologies, Inc",Checking or savings account,1,1.0,1.0,0.0,1.0
+Johnson Mark P.C.,Credit card,1,1.0,1.0,0.0,1.0
+Kashia Services,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Kass Shuler, P.A.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Kimball, Tirey & St. John LLP",Credit card,1,1.0,1.0,0.0,1.0
+Kingston Data & Credit International Inc.,Credit card,1,1.0,1.0,0.0,1.0
+"Klima, Peters & Daly, P.A.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Klutch Technologies, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Klutch Technologies, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Kohn Law Firm S.C.,Credit card,1,1.0,1.0,0.0,1.0
+Kubota North America Corporation,Checking or savings account,1,1.0,1.0,0.0,1.0
+Kubota North America Corporation,Credit card,1,1.0,1.0,0.0,1.0
+LJ Ross Associates,Checking or savings account,1,1.0,1.0,0.0,1.0
+LJ Ross Associates,Credit card,1,1.0,1.0,0.0,1.0
+Layer2 Financial Inc.,Checking or savings account,1,0.0,1.0,1.0,0.0
+"Leafy Financial, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Leafy Financial, LLC",Credit card,1,1.0,1.0,0.0,1.0
+Legal Logix Inc.,Checking or savings account,1,0.0,1.0,1.0,0.0
+Legal Logix Inc.,Credit card,1,0.0,1.0,1.0,0.0
+Lendbuzz Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+LendingUSA,Checking or savings account,1,0.0,1.0,1.0,0.0
+Lendmark Financial Services,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Life Line Billing Systems, LLC",Checking or savings account,1,0.0,1.0,1.0,0.0
+Lincoln Financial Services,Credit card,1,0.0,1.0,1.0,0.0
+"Line Financial, PBC",Checking or savings account,1,1.0,1.0,0.0,1.0
+Link Chain World Inc,Checking or savings account,1,0.0,1.0,1.0,0.0
+"Lipsky & Associates, Inc",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Longbridge Financial, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Lyons, Doughty & Veldhuis, PC",Credit card,1,1.0,1.0,0.0,1.0
+MECHANICS BANK,Credit card,1,1.0,1.0,0.0,1.0
+"MERCANTILE ADJUSTMENT BUREAU, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"MILLENNIUM FINANCIAL GROUP, L.L.C.",Checking or savings account,1,1.0,1.0,0.0,1.0
+MISSION FINANCIAL SERVICES CORPORATION,Checking or savings account,1,0.0,1.0,1.0,0.0
+MOHELA,Checking or savings account,1,0.0,1.0,1.0,0.0
+MONEYGRAM PAYMENT SYSTEMS WORLDWIDE INC,Credit card,1,1.0,1.0,0.0,1.0
+"MUTUAL OF OMAHA MORTGAGE, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+Marcadis Singer PA,Checking or savings account,1,1.0,1.0,0.0,1.0
+Merchants Acceptance Corp,Credit card,1,1.0,1.0,0.0,1.0
+"Merchants Adjustment Service, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Meridian Financial Services, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Metro Collection Service Inc.,Credit card,1,1.0,1.0,0.0,1.0
+"Mezu, Inc",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Mirand Response Systems, Inc.",Checking or savings account,1,0.0,1.0,1.0,0.0
+"Modlin Slinsky, P.A.",Credit card,1,1.0,1.0,0.0,1.0
+"Monarch Recovery Holdings, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+Mortgage One Funding LLC,Credit card,1,1.0,1.0,0.0,1.0
+Mr. Cooper Group Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+Mullooly Jeffrey Rooney & Flynn,Credit card,1,1.0,1.0,0.0,1.0
+"N.A.R., Inc.",Credit card,1,1.0,1.0,0.0,1.0
+NAM National Arbitration and Mediation,Checking or savings account,1,0.0,1.0,1.0,0.0
+NBT BANCORP INC.,Credit card,1,1.0,1.0,0.0,1.0
+"NCP Holdings, L.P.",Credit card,1,1.0,1.0,0.0,1.0
+"NCS, Inc",Checking or savings account,1,0.0,1.0,1.0,0.0
+"NEW IMAGITAS, INC",Credit card,1,1.0,1.0,0.0,1.0
+NISSAN MOTOR ACCEPTANCE COMPANY LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+"NRG STX Properties, LLC",Credit card,1,0.0,1.0,1.0,0.0
+"NY Community Financial, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+"National Commercial Services, Inc",Checking or savings account,1,1.0,1.0,0.0,1.0
+"National Consumer Telecom & Utilities Exchange, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"National Enterprise Systems, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Nations Direct Mortgage, LLC",Credit card,1,1.0,1.0,0.0,1.0
+Nations Info Corp,Checking or savings account,1,1.0,1.0,0.0,1.0
+Nations Info Corp,Credit card,1,1.0,1.0,0.0,1.0
+Nationwide Credit Corporation,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Nationwide TFS, LLC",Credit card,1,0.0,1.0,1.0,0.0
+"Navient Solutions, LLC.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Nelson and Kennard, LLP",Credit card,1,1.0,1.0,0.0,1.0
+Ningo Lending LLC dba Spotloan,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Noam J. Cohen, PA",Checking or savings account,1,0.0,1.0,1.0,0.0
+Nu Holdings Ltd.,Credit card,1,1.0,1.0,0.0,1.0
+"ONLINE Information Services, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+Ocwen Financial Corporation,Credit card,1,1.0,1.0,0.0,1.0
+Olympus1 LLC,Credit card,1,1.0,1.0,0.0,1.0
+One Source Technology,Checking or savings account,1,1.0,1.0,0.0,1.0
+"PACE Funding Group, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+"PENNYMAC LOAN SERVICES, LLC.",Credit card,1,1.0,1.0,0.0,1.0
+PINGPONG GLOBAL SOLUTIONS INC,Checking or savings account,1,0.0,1.0,1.0,0.0
+"PLANET HOME LENDING, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+PRIORITY PLUS FINANCIAL LLC,Credit card,1,1.0,1.0,0.0,1.0
+PRONTO FINANCE INC.,Credit card,1,0.0,1.0,1.0,0.0
+PacificLife Servicing,Checking or savings account,1,0.0,1.0,1.0,0.0
+"Palisade Legal Group, PLLC",Credit card,1,1.0,1.0,0.0,1.0
+"Palmetto Clean Technology, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+Pappas Hayden Westberg & Jackson PC,Credit card,1,1.0,1.0,0.0,1.0
+"Paramount Capital Group, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Park View Credit,Checking or savings account,1,0.0,1.0,1.0,0.0
+Patient Accounting Service Center,Checking or savings account,1,1.0,1.0,0.0,1.0
+"PatientFi, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Pavilion Payments US BuyerCo, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"Paxful Holdings, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Payactiv, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Paylaterr Inc,Checking or savings account,1,0.0,1.0,1.0,0.0
+Pending Company Match,Checking or savings account,1,1.0,1.0,0.0,1.0
+People Trust,Checking or savings account,1,0.0,1.0,1.0,0.0
+People Trust,Credit card,1,1.0,1.0,0.0,1.0
+Plastiq Inc.,Credit card,1,0.0,1.0,1.0,0.0
+"Pollack & Rosen, P.A.",Credit card,1,1.0,1.0,0.0,1.0
+"Pomelo International, Inc",Credit card,1,1.0,1.0,0.0,1.0
+"Populus Financial Group, Inc. (F/K/A Ace Cash Express)",Credit card,1,1.0,1.0,0.0,1.0
+Posh RE Mortgage corporation,Credit card,1,0.0,1.0,1.0,0.0
+Possible Financial Inc,Checking or savings account,1,1.0,1.0,0.0,1.0
+Post Lake Lending Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+Post Lake Lending Inc.,Credit card,1,1.0,1.0,0.0,1.0
+Premier Auto Credit,Credit card,1,1.0,1.0,0.0,1.0
+"Pressler & Pressler, LLP",Credit card,1,1.0,1.0,0.0,1.0
+"Professional Datasolutions, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+QC HOLDINGS INC,Checking or savings account,1,1.0,1.0,0.0,1.0
+"RAM America, Inc",Checking or savings account,1,1.0,1.0,0.0,1.0
+RENASANT CORPORATION,Credit card,1,1.0,1.0,0.0,1.0
+"RFNA, LP",Checking or savings account,1,1.0,1.0,0.0,1.0
+"RGS Financial, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Radius Global Solutions LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Ratchford Law Group, P.C.",Credit card,1,1.0,1.0,0.0,1.0
+"Real Time Group, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+Reese Law Group,Credit card,1,1.0,1.0,0.0,1.0
+"Regional Acquisition Group, Inc.",Checking or savings account,1,0.0,1.0,1.0,0.0
+Ripple Labs Inc.,Checking or savings account,1,0.0,1.0,1.0,0.0
+River Heights Capital LLC,Credit card,1,1.0,1.0,0.0,1.0
+"Roadrunner Account Services, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+RockLoans Holdings LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+Roger Van Wert,Checking or savings account,1,0.0,1.0,1.0,0.0
+Rosenberg & Associates Recovery Services,Credit card,1,0.0,1.0,1.0,0.0
+"Round Up Ventures, L.P.",Credit card,1,1.0,1.0,0.0,1.0
+"Rowland Avenue Management, Inc. A/KA Columbia Debt Recovery, LLC d/b/a Genesis",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Rubin & Debski, P.A.",Credit card,1,1.0,1.0,0.0,1.0
+"SANDY SPRING BANCORP, INC.",Credit card,1,1.0,1.0,0.0,1.0
+SCS Credit Corporation,Credit card,1,1.0,1.0,0.0,1.0
+"SELECT PORTFOLIO SERVICING, INC.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"SELECT PORTFOLIO SERVICING, INC.",Credit card,1,1.0,1.0,0.0,1.0
+SFMC L.P.,Checking or savings account,1,0.0,1.0,1.0,0.0
+"SHAZAM, INC./IOWA TRANSFER SYSTEM, INC. (ITS)",Credit card,1,1.0,1.0,0.0,1.0
+"SIMM Associates, Inc.",Checking or savings account,1,0.0,1.0,1.0,0.0
+"SMITH, ROUCHON & ASSOCIATES, INC.",Credit card,1,1.0,1.0,0.0,1.0
+SOFI LOCAL CORP,Checking or savings account,1,0.0,1.0,1.0,0.0
+"SOUTHPOINT FINANCIAL SERVICES, INC.",Checking or savings account,1,0.0,1.0,1.0,0.0
+"STATE BANKSHARES, INC.",Credit card,1,1.0,1.0,0.0,1.0
+STERLING BANCORP,Checking or savings account,1,0.0,1.0,1.0,0.0
+"STERLING JEWELERS, INC.",Credit card,1,1.0,1.0,0.0,1.0
+"Sago Financial, Inc.",Credit card,1,0.0,1.0,1.0,0.0
+Saint Services LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+Saint Services LLC,Credit card,1,1.0,1.0,0.0,1.0
+Scott Fetzer Financial Group Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+Scott Fetzer Financial Group Inc.,Credit card,1,1.0,1.0,0.0,1.0
+Seben Hospitality Investments LLC,Credit card,1,0.0,1.0,1.0,0.0
+"Security Credit Services, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Securus J Holdings, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"Selip & Stylianou, LLP",Credit card,1,1.0,1.0,0.0,1.0
+"Sensible Auto Lending, LLC",Credit card,1,0.0,1.0,1.0,0.0
+"Sequium Asset Solutions, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+Servatus Corporation,Credit card,1,1.0,1.0,0.0,1.0
+"SettlementOne, LLC",Credit card,1,0.0,1.0,1.0,0.0
+Shnayder Law Firm LLC,Credit card,1,0.0,1.0,1.0,0.0
+"Silverman Theologou, LLP",Checking or savings account,1,1.0,1.0,0.0,1.0
+Sklar Law LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+Skyline Financial Corp.,Checking or savings account,1,0.0,1.0,1.0,0.0
+"Solomon and Solomon, P.C.",Credit card,1,0.0,1.0,1.0,0.0
+"Special Financing Company, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Speed1, Inc",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Spero Solutions, Inc.",Checking or savings account,1,0.0,1.0,1.0,0.0
+"Spring Oaks Capital, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+State Finance Company,Credit card,1,0.0,1.0,1.0,0.0
+"Stein Law, P.C.",Checking or savings account,1,1.0,1.0,0.0,1.0
+Stellantis Financial Services US Corp.,Checking or savings account,1,1.0,1.0,0.0,1.0
+Stellantis Financial Services US Corp.,Credit card,1,1.0,1.0,0.0,1.0
+"StellarFinance, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Sterling Pursuit LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Stevens Business Service, Inc.",Credit card,1,0.0,1.0,1.0,0.0
+"Stillman, P.C. d.b.a. Stillman Law Office",Checking or savings account,1,1.0,1.0,0.0,1.0
+Strand Finance Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Student Zoom, LLC",Credit card,1,0.0,1.0,1.0,0.0
+"Summit A*R, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Sunlight Financial LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+Sunlight Financial LLC,Credit card,1,1.0,1.0,0.0,1.0
+Sunnova Energy Corporation,Checking or savings account,1,0.0,1.0,1.0,0.0
+Supreme Lending,Credit card,1,1.0,1.0,0.0,1.0
+"Suttell, Hammer & White, P.S",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Synerprise Consulting Services, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+T.S. Holdings,Credit card,1,1.0,1.0,0.0,1.0
+TDN Acquisition Corporation,Checking or savings account,1,1.0,1.0,0.0,1.0
+"TEXAS CAPITAL BANCSHARES, INC.",Credit card,1,1.0,1.0,0.0,1.0
+TOLEDO FINANCE CORPORATION,Credit card,1,1.0,1.0,0.0,1.0
+TOWNEBANK,Credit card,1,1.0,1.0,0.0,1.0
+TRINITY CAPITAL ADVISORS LLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+"TRUEBILL, INC",Credit card,1,1.0,1.0,0.0,1.0
+Taekus Inc,Checking or savings account,1,1.0,1.0,0.0,1.0
+TapTap Send Inc.,Credit card,1,1.0,1.0,0.0,1.0
+"Tech Friends, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"Tenaglia & Hunt, PA",Credit card,1,1.0,1.0,0.0,1.0
+Texan Credit Corporation,Credit card,1,1.0,1.0,0.0,1.0
+Thaxton Investment Corporation,Checking or savings account,1,1.0,1.0,0.0,1.0
+The Aligned Company DBA Extra,Checking or savings account,1,1.0,1.0,0.0,1.0
+"The CBE Group, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+The Cook Law Office PLLC,Checking or savings account,1,1.0,1.0,0.0,1.0
+The Money Company,Checking or savings account,1,0.0,1.0,1.0,0.0
+"The Outsource Group, Inc",Checking or savings account,1,1.0,1.0,0.0,1.0
+The Phoenix Recovery Group,Credit card,1,1.0,1.0,0.0,1.0
+Thrive National Corporation,Credit card,1,0.0,1.0,1.0,0.0
+"Time Investment Company, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"Top Asset Solutions, LLC",Credit card,1,1.0,1.0,0.0,1.0
+"Total Card, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+Transform Credit Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+"TriVerity, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+"Tribal Lending Enterprise, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+Triple AC Resolutions,Credit card,1,0.0,1.0,1.0,0.0
+True Finance,Checking or savings account,1,1.0,1.0,0.0,1.0
+TrueAccord Corp.,Checking or savings account,1,1.0,1.0,0.0,1.0
+"UNITED BANKSHARES, INC.",Credit card,1,1.0,1.0,0.0,1.0
+USForex Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+Unifin Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+Unisource Joint Ventures LLC,Credit card,1,1.0,1.0,0.0,1.0
+"United Shore Financial Services, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0
+V and H Portfolio,Credit card,1,1.0,1.0,0.0,1.0
+VALLEY NATIONAL BANCORP,Credit card,1,1.0,1.0,0.0,1.0
+VELO LAW OFFICE,Checking or savings account,1,1.0,1.0,0.0,1.0
+"VERITEX HOLDINGS, INC.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Valon Technologies, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Valon Technologies, Inc.",Credit card,1,1.0,1.0,0.0,1.0
+Velocity Portfolio Group,Checking or savings account,1,1.0,1.0,0.0,1.0
+Viva Finance Inc.,Credit card,1,1.0,1.0,0.0,1.0
+WESTERN ALLIANCE BANCORPORATION,Credit card,1,1.0,1.0,0.0,1.0
+WLCC,Credit card,1,1.0,1.0,0.0,1.0
+Wave Financial USA Inc.,Credit card,1,0.0,1.0,1.0,0.0
+"Welcome Finance Company, Inc",Checking or savings account,1,1.0,1.0,0.0,1.0
+"Williams & Fudge, Inc",Credit card,1,1.0,1.0,0.0,1.0
+Williams Kastner & Gibbs PLLC,Checking or savings account,1,0.0,1.0,1.0,0.0
+Windham Equity Company,Credit card,1,0.0,1.0,1.0,0.0
+World Acceptance Corporation,Checking or savings account,1,1.0,1.0,0.0,1.0
+World Omni Financial Corp.,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Wyre, Inc.",Credit card,1,0.0,1.0,1.0,0.0
+XOOM CORPORATION,Credit card,1,1.0,1.0,0.0,1.0
+Yamaha Motor Finance Corporation USA,Checking or savings account,1,1.0,1.0,0.0,1.0
+"Zap Solutions, Inc.",Checking or savings account,1,1.0,1.0,0.0,1.0
+ZayZoon US Operating Inc.,Checking or savings account,1,1.0,1.0,0.0,1.0
+Zillow Group Inc.,Credit card,1,1.0,1.0,0.0,1.0
+"Zo Financial, Inc.",Credit card,1,0.0,1.0,1.0,0.0
+ZuntaFi Corp,Credit card,1,1.0,1.0,0.0,1.0
+"eMoneyUSA Holdings, LLC",Checking or savings account,1,1.0,1.0,0.0,1.0

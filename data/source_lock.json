@@ -1,0 +1,236 @@
+{
+  "retrieved_at_utc": "2026-10-19T21:04:31.086264+00:00",
+  "as_of": "2026-10-19",
+  "complete_start": "2024-10-01",
+  "complete_end_exclusive": "2026-10-01",
+  "products": [
+    "Credit card",
+    "Checking or savings account"
+  ],
+  "partitions": [
+    {
+      "month": "2024-10",
+      "min": "2024-10-01",
+      "max": "2024-10-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2024-10-01&date_received_max=2024-10-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 11868,
+      "sha256": "a6cc43aa59eab68b21fdf44f92ad127eb39b1597a6bede8164576241bc45cc77"
+    },
+    {
+      "month": "2024-11",
+      "min": "2024-11-01",
+      "max": "2024-11-30",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2024-11-01&date_received_max=2024-11-30&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 11270,
+      "sha256": "7459d228fb94149869c6026c630c5591c507ee6d4647ccae86f0ecee759a5e0d"
+    },
+    {
+      "month": "2024-12",
+      "min": "2024-12-01",
+      "max": "2024-12-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2024-12-01&date_received_max=2024-12-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 11495,
+      "sha256": "c75a4e9504c35a6fa5fa463d91ac02ca9d72b9db2ad645ef2d6ad24d3519ffd2"
+    },
+    {
+      "month": "2025-01",
+      "min": "2025-01-01",
+      "max": "2025-01-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2025-01-01&date_received_max=2025-01-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 27440,
+      "sha256": "49ccf9d65ebbc23f649c245f33dffd381fbfc6361657ed3d4a6b22b8cafcdd50"
+    },
+    {
+      "month": "2025-02",
+      "min": "2025-02-01",
+      "max": "2025-02-28",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2025-02-01&date_received_max=2025-02-28&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 11665,
+      "sha256": "1e5907ec1d3be9410216a58c900193d69bd5f35b587c808a3afdd262038706cb"
+    },
+    {
+      "month": "2025-03",
+      "min": "2025-03-01",
+      "max": "2025-03-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2025-03-01&date_received_max=2025-03-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 11325,
+      "sha256": "d0a058f279b61be8480dbe657d816eee8e47ba22171d0cf2dbe718862124f488"
+    },
+    {
+      "month": "2025-04",
+      "min": "2025-04-01",
+      "max": "2025-04-30",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2025-04-01&date_received_max=2025-04-30&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 12126,
+      "sha256": "140079053199f9db4e21ecfdcea6b30743f6a06a1634661efad0d9498d9f0abe"
+    },
+    {
+      "month": "2025-05",
+      "min": "2025-05-01",
+      "max": "2025-05-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2025-05-01&date_received_max=2025-05-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 12909,
+      "sha256": "932279c2689982a8b2dd199be3e32f42c7729638ce3008a74b4fb499210debf8"
+    },
+    {
+      "month": "2025-06",
+      "min": "2025-06-01",
+      "max": "2025-06-30",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2025-06-01&date_received_max=2025-06-30&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 12921,
+      "sha256": "9327731979d651f7af49c197d8ceb28f34ffbeba3cc43af35f2e47c91c85fe22"
+    },
+    {
+      "month": "2025-07",
+      "min": "2025-07-01",
+      "max": "2025-07-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2025-07-01&date_received_max=2025-07-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 14508,
+      "sha256": "df9f0ea3d2b7700f4bf60c92f7d5492e36a0a478074e8a7c31f9c04408149e55"
+    },
+    {
+      "month": "2025-08",
+      "min": "2025-08-01",
+      "max": "2025-08-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2025-08-01&date_received_max=2025-08-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 14424,
+      "sha256": "cbe7edf148acac6a718933bc198f7eda5c8fb08c25082ee8dbe8fc3720a0151a"
+    },
+    {
+      "month": "2025-09",
+      "min": "2025-09-01",
+      "max": "2025-09-30",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2025-09-01&date_received_max=2025-09-30&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 14645,
+      "sha256": "2ad0d8aee9882d8cef7c7265acbbc45dff5f8eb79c650df0e77e96ed490f143d"
+    },
+    {
+      "month": "2025-10",
+      "min": "2025-10-01",
+      "max": "2025-10-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2025-10-01&date_received_max=2025-10-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 13721,
+      "sha256": "fff50314d1704337ae992ffdaeabdaa328798b4b33dca3f9c5a6ec0857abff71"
+    },
+    {
+      "month": "2025-11",
+      "min": "2025-11-01",
+      "max": "2025-11-30",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2025-11-01&date_received_max=2025-11-30&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 12938,
+      "sha256": "546f129eabb34690d09159a9b7cacf79b56c0dabe44b8002e930b95318a8ef11"
+    },
+    {
+      "month": "2025-12",
+      "min": "2025-12-01",
+      "max": "2025-12-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2025-12-01&date_received_max=2025-12-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 15551,
+      "sha256": "76e2b83cc50e3131edfa67c654af521da0530c2f6d375c053b7d4228b302d0c3"
+    },
+    {
+      "month": "2026-01",
+      "min": "2026-01-01",
+      "max": "2026-01-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2026-01-01&date_received_max=2026-01-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 17432,
+      "sha256": "33b7cba83f83757064120f445357d2fbed014a698a127470d31f228e4208587d"
+    },
+    {
+      "month": "2026-02",
+      "min": "2026-02-01",
+      "max": "2026-02-28",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2026-02-01&date_received_max=2026-02-28&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 13960,
+      "sha256": "11c23c1e051c85440f577842e41ad646b1217a67a83fab6396767f8dce50f6ef"
+    },
+    {
+      "month": "2026-03",
+      "min": "2026-03-01",
+      "max": "2026-03-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2026-03-01&date_received_max=2026-03-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 16151,
+      "sha256": "4fdc258900162e713b04ea16139b62232935f25cb12cf8a2d3fe9046803ffe1f"
+    },
+    {
+      "month": "2026-04",
+      "min": "2026-04-01",
+      "max": "2026-04-30",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2026-04-01&date_received_max=2026-04-30&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 15904,
+      "sha256": "83b0b75e6c36142a64257f96428537e63f1efb71140504bfbc6ec79e187bfa25"
+    },
+    {
+      "month": "2026-05",
+      "min": "2026-05-01",
+      "max": "2026-05-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2026-05-01&date_received_max=2026-05-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 15123,
+      "sha256": "3a0012a56c099df1295fb2bcbd3d896c92bade8330eb1044c70064d61e1a1cdd"
+    },
+    {
+      "month": "2026-06",
+      "min": "2026-06-01",
+      "max": "2026-06-30",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2026-06-01&date_received_max=2026-06-30&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 15139,
+      "sha256": "9cf2e00e486a6173262bfb0607562d4fb383cda840eabefd8a00751556047c11"
+    },
+    {
+      "month": "2026-07",
+      "min": "2026-07-01",
+      "max": "2026-07-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2026-07-01&date_received_max=2026-07-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 16123,
+      "sha256": "980b2ae515a24c396ae538a9ebf3c0433d11e6093d2c38244c3b13749ad05c6e"
+    },
+    {
+      "month": "2026-08",
+      "min": "2026-08-01",
+      "max": "2026-08-31",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2026-08-01&date_received_max=2026-08-31&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 16201,
+      "sha256": "8a9fc5da27f34bba3fc90fb9aa0054c9d3a147fee6b9f21b1b2dd4264ffb6472"
+    },
+    {
+      "month": "2026-09",
+      "min": "2026-09-01",
+      "max": "2026-09-30",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2026-09-01&date_received_max=2026-09-30&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 16651,
+      "sha256": "9f0b644c58b3cd1ad64fde6bc15a911bca7ec0b5a5d81b738fac94972869efb2"
+    },
+    {
+      "month": "2026-10",
+      "min": "2026-10-01",
+      "max": "2026-10-19",
+      "url": "https://www.consumerfinance.gov/data-research/consumer-complaints/search/api/v1/?date_received_min=2026-10-01&date_received_max=2026-10-19&no_aggs=true&product=Credit+card&product=Checking+or+savings+account&format=csv",
+      "api_count": 3253,
+      "sha256": "167ca72185abd07e793081540c169ce5e914f8baac5d3b7ed4d5b98053054eb7"
+    }
+  ],
+  "api_reported_count": 354743,
+  "export_rows": 354743,
+  "snapshot_sha256": "56dfbd1bbbf0e41dedec029c7be413b773bc3ee6118f567d505b031cb6340352",
+  "retained_fields": [
+    "Complaint ID",
+    "Date received",
+    "Product",
+    "Sub-product",
+    "Issue",
+    "Sub-issue",
+    "Company",
+    "State",
+    "Submitted via",
+    "Date sent to company",
+    "Company response to consumer",
+    "Timely response?"
+  ],
+  "discarded_fields": [
+    "Company public response",
+    "ZIP code",
+    "Tags"
+  ],
+  "source": "https://www.consumerfinance.gov/data-research/consumer-complaints/",
+  "date_policy": "Date received, UTC calendar date; exported date bounds verified inclusive by partition. Complete-month analysis uses a half-open window. Recent months may backfill."
+}

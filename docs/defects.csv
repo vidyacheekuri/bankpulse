@@ -1,0 +1,2 @@
+Defect ID,Found by,Requirement,Summary,Severity,Fix,Retest,Status
+DEF-001,Developer integration run,R11,SQL alias unknown is a reserved keyword and prevented mart creation,High,Quote the output alias in SQL,test_source_to_marts_reconciliation,Closed — retest passed

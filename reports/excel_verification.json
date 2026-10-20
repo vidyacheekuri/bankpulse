@@ -1,0 +1,68 @@
+{
+  "engine": "Artifact Tool calculation engine",
+  "checks": [
+    {
+      "name": "Full-population count",
+      "actual": 351490,
+      "expected": 351490
+    },
+    {
+      "name": "Known denominator",
+      "actual": 351490,
+      "expected": 351490
+    },
+    {
+      "name": "Weighted timely rate",
+      "actual": 0.9928675068992006,
+      "expected": 0.9928675068992006
+    },
+    {
+      "name": "Capacity base",
+      "actual": 60,
+      "expected": 60
+    },
+    {
+      "name": "Zero reviewers capacity",
+      "actual": 0,
+      "expected": 0
+    },
+    {
+      "name": "Zero reviewers remaining",
+      "actual": 40,
+      "expected": 40
+    },
+    {
+      "name": "Blank input unavailable",
+      "actual": "n.a.",
+      "expected": "n.a."
+    },
+    {
+      "name": "Product selector",
+      "actual": 183818,
+      "expected": 183818
+    },
+    {
+      "name": "Detail XLOOKUP",
+      "actual": "Card operations",
+      "expected": "Card operations"
+    },
+    {
+      "name": "Lookup reacts to source change",
+      "actual": "Test team",
+      "expected": "Test team"
+    }
+  ],
+  "formula_error_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "native_excel": "Not executed: macOS Computer Use permissions unavailable on retry; file-level verification completed.",
+  "human_uat": "Not run",
+  "native_parts": {
+    "pivot_tables": 1,
+    "slicers": 1,
+    "pivot_cache_records": 48,
+    "protected_formula_sheets": [
+      "Analysis",
+      "Capacity"
+    ],
+    "all_internal_relationships_resolve": true
+  }
+}

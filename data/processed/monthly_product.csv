@@ -1,0 +1,49 @@
+month,product,complaints,timely_yes,known,timely_no,unknown
+2024-10-01,Checking or savings account,4692,4668.0,4692.0,24.0,0.0
+2024-10-01,Credit card,7176,7165.0,7176.0,11.0,0.0
+2024-11-01,Checking or savings account,5175,5155.0,5175.0,20.0,0.0
+2024-11-01,Credit card,6095,6086.0,6095.0,9.0,0.0
+2024-12-01,Checking or savings account,4798,4779.0,4798.0,19.0,0.0
+2024-12-01,Credit card,6697,6688.0,6697.0,9.0,0.0
+2025-01-01,Checking or savings account,18367,18329.0,18367.0,38.0,0.0
+2025-01-01,Credit card,9073,9047.0,9073.0,26.0,0.0
+2025-02-01,Checking or savings account,5452,5421.0,5452.0,31.0,0.0
+2025-02-01,Credit card,6213,6198.0,6213.0,15.0,0.0
+2025-03-01,Checking or savings account,5070,5044.0,5070.0,26.0,0.0
+2025-03-01,Credit card,6255,6244.0,6255.0,11.0,0.0
+2025-04-01,Checking or savings account,5229,5191.0,5229.0,38.0,0.0
+2025-04-01,Credit card,6897,6880.0,6897.0,17.0,0.0
+2025-05-01,Checking or savings account,5394,5360.0,5394.0,34.0,0.0
+2025-05-01,Credit card,7515,7498.0,7515.0,17.0,0.0
+2025-06-01,Checking or savings account,5557,5422.0,5557.0,135.0,0.0
+2025-06-01,Credit card,7364,7325.0,7364.0,39.0,0.0
+2025-07-01,Checking or savings account,6403,6316.0,6403.0,87.0,0.0
+2025-07-01,Credit card,8105,8084.0,8105.0,21.0,0.0
+2025-08-01,Checking or savings account,6505,6457.0,6505.0,48.0,0.0
+2025-08-01,Credit card,7919,7894.0,7919.0,25.0,0.0
+2025-09-01,Checking or savings account,6141,6102.0,6141.0,39.0,0.0
+2025-09-01,Credit card,8504,8485.0,8504.0,19.0,0.0
+2025-10-01,Checking or savings account,6308,6276.0,6308.0,32.0,0.0
+2025-10-01,Credit card,7413,7392.0,7413.0,21.0,0.0
+2025-11-01,Checking or savings account,6077,6030.0,6077.0,47.0,0.0
+2025-11-01,Credit card,6861,6820.0,6861.0,41.0,0.0
+2025-12-01,Checking or savings account,7692,7638.0,7692.0,54.0,0.0
+2025-12-01,Credit card,7859,7766.0,7859.0,93.0,0.0
+2026-01-01,Checking or savings account,7916,7870.0,7916.0,46.0,0.0
+2026-01-01,Credit card,9516,9407.0,9516.0,109.0,0.0
+2026-02-01,Checking or savings account,6559,6516.0,6559.0,43.0,0.0
+2026-02-01,Credit card,7401,7267.0,7401.0,134.0,0.0
+2026-03-01,Checking or savings account,7824,7767.0,7824.0,57.0,0.0
+2026-03-01,Credit card,8327,8215.0,8327.0,112.0,0.0
+2026-04-01,Checking or savings account,7676,7596.0,7676.0,80.0,0.0
+2026-04-01,Credit card,8228,8107.0,8228.0,121.0,0.0
+2026-05-01,Checking or savings account,7200,7151.0,7200.0,49.0,0.0
+2026-05-01,Credit card,7923,7751.0,7923.0,172.0,0.0
+2026-06-01,Checking or savings account,7672,7614.0,7672.0,58.0,0.0
+2026-06-01,Credit card,7467,7312.0,7467.0,155.0,0.0
+2026-07-01,Checking or savings account,8014,7955.0,8014.0,59.0,0.0
+2026-07-01,Credit card,8109,7979.0,8109.0,130.0,0.0
+2026-08-01,Checking or savings account,7872,7824.0,7872.0,48.0,0.0
+2026-08-01,Credit card,8329,8281.0,8329.0,48.0,0.0
+2026-09-01,Checking or savings account,8079,8058.0,8079.0,21.0,0.0
+2026-09-01,Credit card,8572,8553.0,8572.0,19.0,0.0

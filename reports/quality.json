@@ -1,0 +1,38 @@
+{
+  "source_export_rows": 354743,
+  "retained_rows": 354743,
+  "boundary_exclusions": 0,
+  "complete": {
+    "complaints": 351490,
+    "timely_yes": 348983,
+    "timely_no": 2507,
+    "known": 351490,
+    "unknown": 0,
+    "timely_rate": 0.9928675068992006
+  },
+  "partial": {
+    "complaints": 3253,
+    "timely_yes": 3249,
+    "timely_no": 4,
+    "known": 3253,
+    "unknown": 0,
+    "timely_rate": 0.9987703658161697
+  },
+  "monthly_rows": 48,
+  "complete_months": 24,
+  "missing_state": 2599,
+  "sent_before_received": 0,
+  "source_hash_verified": true,
+  "unique_identifiers": true,
+  "sql_reconciled": true,
+  "latest_complete_month": "2026-09-01",
+  "previous_complete_month": "2026-08-01",
+  "latest_month_count": 16651,
+  "previous_month_count": 16201,
+  "flagged_issues": 0,
+  "products": {
+    "Checking or savings account": 167672,
+    "Credit card": 183818
+  },
+  "companies": 980
+}
