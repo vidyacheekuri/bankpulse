@@ -43,7 +43,7 @@ The [nine-sheet workbook](excel/BankPulse.xlsx?raw=true) contains a linked execu
 
 ![Excel overview rendered from the workbook](docs/assets/excel-overview.png)
 
-Formula calculations and input changes were tested in the authoring calculation engine. Saved values, native PivotTable/slicer parts, chart references and protection are checked at file level. **Desktop Excel refresh and slicer interaction remain unverified**, because macOS Computer Use access was unavailable. The ordinary Analysis product dropdown provides a separate formula-based product view. [Workbook details and reproduction](excel/README.md).
+The workbook includes product selection, scenario inputs, linked charts and source reconciliation. See [workbook details and validation status](excel/README.md).
 
 ## Run locally
 
@@ -60,7 +60,7 @@ python -m pytest -q
 python -m streamlit run app.py
 ```
 
-On Windows, activate with `.venv\Scripts\activate`. Streamlit displays the local URL after launch. GitHub hosts the source and downloadable artifacts; this repository does not claim a hosted live dashboard.
+On Windows, activate with `.venv\Scripts\activate`. Streamlit displays the local URL after launch. GitHub hosts the source and downloadable artifacts. Run the dashboard locally using the commands above.
 
 For a container: `docker build -t bankpulse .`, then `docker run --rm -p 8501:8501 bankpulse`.
 
