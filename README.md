@@ -1,6 +1,8 @@
 # BankPulse
 ### Banking complaints & service quality analytics
 
+**[Open the live dashboard](https://bankpulse-vidya.streamlit.app/)** · Runs in your browser; no installation required.
+
 **A finance analytics case study connecting public data, business requirements, Excel analysis, and user acceptance testing.**
 
 BankPulse helps a fictional banking operations team decide which complaint patterns deserve investigation and estimate the effort required to review selected records. It uses **351,490 published complaints across 24 complete months**, with a separate view of the current partial month.
@@ -60,7 +62,7 @@ python -m pytest -q
 python -m streamlit run app.py
 ```
 
-On Windows, activate with `.venv\Scripts\activate`. Streamlit displays the local URL after launch. GitHub hosts the source and downloadable artifacts. Run the dashboard locally using the commands above.
+On Windows, activate with `.venv\Scripts\activate`. Streamlit displays the local URL after launch. GitHub hosts the source and downloadable artifacts. Use the [public dashboard](https://bankpulse-vidya.streamlit.app/) for browser access, or the commands above for local development.
 
 For a container: `docker build -t bankpulse .`, then `docker run --rm -p 8501:8501 bankpulse`.
 
