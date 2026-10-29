@@ -89,7 +89,7 @@ elif page=='Issue explorer':
     previous=a.selectbox('Baseline month',months[:-1],index=len(months)-2,format_func=lambda d:pd.Timestamp(d).strftime('%b %Y'))
     later=[m for m in months if m>previous];current=b.selectbox('Comparison month',later,index=len(later)-1,format_func=lambda d:pd.Timestamp(d).strftime('%b %Y'))
     product=c.selectbox('Product',['All products']+lock['products'])
-    data=complete if product=='All products' else complete.loc[complete.product.eq(product)]
+    data=complete if product=='All products' else complete.loc[complete['product'].eq(product)]
     a,b=st.columns(2);minimum=a.number_input('Minimum complaints in each month',min_value=1,value=30,step=10);threshold=b.slider('Growth threshold (%)',5,200,25,5)
     changes=issue_changes(data,previous,current,minimum,threshold)
     cards([('BASELINE',f'{changes.previous.sum():,}','Complaints in the earlier month.'),('COMPARISON',f'{changes.current.sum():,}','Complaints in the later month.'),('NET CHANGE',f'{changes.change.sum():+,}','Sum of issue contributions.'),('REVIEW FLAGS',str(changes.review_flag.sum()),'Both counts meet the minimum and percentage growth meets the threshold.')])
@@ -124,7 +124,7 @@ elif page=='Response quality':
 elif page=='Review planning':
     intro('Turn an observation into a review plan.','Build an investigation queue from complaints explicitly marked not timely. Test review capacity with editable assumptions, separate from the public source data.')
     product=st.selectbox('Product',['All products']+lock['products']);month=st.selectbox('Review month',months,index=len(months)-1,format_func=lambda d:pd.Timestamp(d).strftime('%b %Y'))
-    data=complete.loc[complete.month.eq(month)];data=data if product=='All products' else data.loc[data.product.eq(product)]
+    data=complete.loc[complete.month.eq(month)];data=data if product=='All products' else data.loc[data['product'].eq(product)]
     queue=review_queue(data,limit=len(data));a,b,c,d=st.columns(4)
     staff=a.number_input('Reviewers',min_value=0,value=2,step=1);hours=b.number_input('Hours per reviewer / week',min_value=0.,value=20.,step=1.)
     minutes=c.number_input('Minutes per review',min_value=1.,value=30.,step=5.);util=d.slider('Productive time (%)',10,100,75,5)
